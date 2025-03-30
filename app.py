@@ -6,9 +6,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = 'write your own client id from spotify api'
-CLIENT_SECRET = 'write your own CLIENT_SECRET from spotify api'
-REDIRECT_URI = 'Enter your own REDIRECT_URI from spotify api'
+CLIENT_ID = '42b4676e86474f108fddcdc92c5bf787' # write your own client id from spotify api
+CLIENT_SECRET = '7939744af53c40e28a93514318dbc3a7' #write your own CLIENT_SECRET from spotify api'
+REDIRECT_URI = 'http://localhost:8888/callback'#Enter your own REDIRECT_URI from spotify api'
 SCOPE = "user-library-read user-top-read playlist-modify-public"
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=CLIENT_ID,

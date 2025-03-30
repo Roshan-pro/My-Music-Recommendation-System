@@ -1,0 +1,2328 @@
+Song-Name,Singer/Artists,Genre,Album/Movie,User-Rating,similarity_factor
+Coca Cola,"Neha Kakkar, Tony Kakkar",BollywoodDanceRomantic,Luka Chuppi,,1.0000000000000002
+Ishq Di Baajiyan,Diljit Dosanjh,BollywoodRomantic,Soorma,,0.0
+Soorma Anthem,Shankar Mahadevan,BollywoodMotivational,Soorma,,0.0
+Tere Ishq Ka Suroor,"Aaman Trikha, Akshata Dixit",BollywoodRomantic,Single,,0.0
+Rang De,"Shankar Mahadevan, Suraj Jagan",BollywoodMotivational,My Name is Khan,,0.0
+Saawali Si Raat,Arijit Singh,BollywoodRomantic,Barfi,,0.0
+Sawarne Lage,Jubin Nautiyal,BollywoodRomantic,Mitron,,0.0
+Ishq Bulaava,Sanam Puri,BollywoodRomantic,Hasee Toh Phasee,,0.0
+Tere Mere,Armaan Malik,BollywoodSad,Chef,,0.0
+Des Mere Des,"A.R. Rahman, Sukhwinder Singh",BollywoodPatriotic,The Legend Of Bhagat Singh,,0.0
+Gazab Ka Hai Din,"Jubin Nautiyal, Prakriti Kakkar",BollywoodRomantic,Dil Juunglee,,0.0
+Is Nagari Mein,Jagjit Singh,BollywoodSad,Bhopal Express,,0.0
+Saaiyaan,Salim Sulaiman,BollywoodSad,Heroine,,0.0
+Monta Re,Amit Trivedi,BollywoodSad,Lootera,,0.0
+Pal,"Arijit Singh, Shreya Ghoshal",BollywoodRomantic,Jalebi,,0.0
+Main Hoon Saath Tere,Arijit Singh,BollywoodRomantic,Shaadi Mein Zaroor Aana,,0.0
+Mera Jeena Hai Kya,Neeraj Shridhar,BollywoodRomantic,Aashayein,,0.0
+Ab Tohe Jane Na Doongi,"Payal Dev, Shreyas Puranik",BollywoodRomantic,Bajirao Mastani,,0.0
+Lae Dooba,Sunidhi Chauhan,BollywoodSad,Aiyaary,,0.0
+Arziyan,"Javed Ali, Kailash Kher",Bollywood,Delhi-6,,0.0
+Mantoiyat,Raftaar,Bollywood,Manto,,0.0
+Junooniyat,"Falak Shabir, Meet Bros",BollywoodRomantic,Sanam Re,,0.0
+Le Jaa Tu Mujhe,Atif Aslam,Bollywood,F.A.L.T.U,,0.0
+Shukriya Zindagi Shukriya Zindagi,Shafqat Amanat Ali,BollywoodRomantic,Aashayein,,0.0
+Sapna,Arijit Singh,BollywoodSad,Parmanu The Story of Pokhran,,0.0
+Yaari Yaari,Ram Sampath,Bollywood,Purani Jeans,,0.0
+Jaan Nisaar,Arijit Singh,BollywoodRomantic,Kedarnath,,0.0
+Tum,Atif Aslam,BollywoodRomantic,Laila Majnu,,0.0
+Yaaron Aesa Hai,Salim Merchant,BollywoodDance,Rangrezz,,0.0
+Jannatein Kahan,K.K.,BollywoodDance,Jannat 2,,0.0
+Chota Sa Fasana,Arijit Singh,Bollywood,Karwaan,,0.0
+Pardesiya,"Ehsaan Noorani, Hemant Brijwasi, Sahil Akhtar, Shankar Mahadevan, Shehnaz Akhtar",BollywoodSad,Soorma,,0.0
+Roobaroo,"A.R. Rahman, Naresh Iyer",BollywoodDance,Rang De Basanti,,0.0
+Khwahishein,Shreya Ghoshal,BollywoodRomantic,Heroine,,0.0
+Sapna Jahan,"Neeti Mohan, Sonu Nigam",BollywoodSad,Brothers,,0.0
+Door Na Ja,Sonu Nigam,BollywoodSad,Mitron,,0.0
+Tera Mera Rishta,"KK, Shreya Ghoshal",BollywoodRomantic,Jalebi,,0.0
+Ghar,"Mohit Chauhan, Nikhita Gandhi",BollywoodSad,Jab Harry Met Sejal,,0.0
+Tum Se,Jubin Nautiyal,BollywoodRomanticSad,Jalebi,,0.0
+Sehmi Hai Dhadkan,Atif Aslam,BollywoodSad,Daas Dev,,0.0
+Ab Se Teri,"Mohammed Irfan, Sachin Gupta",BollywoodDance,Unforgettable,,0.0
+Aao Na,Vishal Dadlani,BollywoodDance,Haider,,0.0
+Chhod Diya,Arijit Singh,BollywoodSad,Baazaar,,0.0
+Soniye,K.K.,BollywoodRomantic,Heartless,,0.0
+Ishq Chadha Hai,Darshan Raval,BollywoodRomantic,Single,,0.0
+Yaad Hai,"Ankit Tiwari, Palak Muchhal",BollywoodSad,Aiyaary,,0.0
+Aao Milo Chalo,"Shaan, Ustad Sultan Khan",BollywoodDance,Jab We Met,,0.0
+Dar Pe Aaye Hain Tere Kasam Le,Mukesh,BollywoodRomantic,Love In Shimla,,0.0
+Adhura Lafz,"Pratibha Singh Baghel, Rahat Fateh Ali Khan",BollywoodRomantic,Baazaar,,0.0
+Phir Le Aya Dil,Shafqat Amanat Ali,BollywoodSad,Barfi,,0.0
+Ek Onkaar,Harshdeep Kaur,BollywoodDevotional,Rang De Basanti,,0.0
+Jaane Kya Dhoondhta Hai,Lucky Ali,BollywoodDance,Sur,,0.0
+Doori,Ranveer Singh,BollywoodDance,Gully Boy,,0.0
+Kitni Baatein,"Hariharan, Sadhana Sargam",BollywoodSad,Lakshay,,0.0
+Jab Mila Tu,Vishal Dadlani,BollywoodRomantic,I Hate Luv Storys,,0.0
+Kya Tujhe Ab Ye Dil Bataye,Falak Shabir,BollywoodRomantic,Sanam Re,,0.0
+Mar Jaayen,Atif Aslam,BollywoodSad,Loveshhuda,,0.0
+Mil Gaya,"Salim Merchant, Shraddha Pandit",BollywoodRomantic,Shakal Pe Mat Ja,,0.0
+Lukka Chuppi,"A.R. Rahman, Lata Mangeshkar",BollywoodSad,Rang De Basanti,,0.0
+Tum Ho Toh Lagta Hai,Shaan,BollywoodRomantic,Dil Juunglee,,0.0
+Jaane Tere Shehar Ka,Vipin Aneja,Bollywood,Jazbaa,,0.0
+Kurbaan Hua,Vishal Dadlani,BollywoodDance,Kurbaan,,0.0
+Kaisi Yeh Judai Hain,Falak Shabir,BollywoodSad,Jannat,,0.0
+Apna Time Aayega,Ranveer Singh,BollywoodDance,Gully Boy,,0.0
+Tumhi Dekho Naa,"Alka Yagnik, Sonu Nigam",BollywoodRomantic,Kabhi Alvida Naa Kehna,,0.0
+Gehra Ishq,Shekhar Ravjiani,BollywoodRomantic,Neerja,,0.0
+Jaane Ye Kya Hua,KK,BollywoodRomantic,Karthik Calling Karthik,,0.0
+Naina Banjare,Arijit Singh,BollywoodRomantic,Pataakha,,0.0
+Aisa Kyun Maa,Sunidhi Chauhan,BollywoodSad,Neerja,,0.0
+Saiyan Re,"Mohammed Irfan, Palak Muchhal",BollywoodRomantic,Nirdosh,,0.0
+Jab Tak Hai Jaan,Shakthi Sree Gopalan,BollywoodRomantic,Jab Tak Hai Jaan,,0.0
+Jiyein Kyun,Papon,BollywoodSad,Dum Maaro Dum,,0.0
+Pehle Ke Jaisa,K.K.,BollywoodSad,Jalebi,,0.0
+Tujhpe Fida,"Shraddha Pandit, Sulaiman Merchant",BollywoodDance,Heroine,,0.0
+Gaaye Jaa (Male),Mohammed Irfan,BollywoodDance,Brothers,,0.0
+Main Aisa Kyun Hoon,Shaan,BollywoodDance,Lakshya,,0.0
+Love Ka The End,Aditi Singh Sharma,Bollywood,Love Ka The End,,0.0
+Main Aisa Kyon Hoon,Shaan,BollywoodDance,Lakshay,,0.0
+Alizeh,"Alizeh Ash King, Arijit Singh, Shashwat Singh",BollywoodRomantic,Ae Dil Hai Mushkil,,0.0
+Tu Bhoola Jise,K.K.,BollywoodPatriotic,Airlift,,0.0
+Jitni Dafa,"Jeet Gannguli, Yasser Desai",BollywoodRomantic,Parmanu The Story of Pokhran,,0.0
+Zara Si Dosti,Arijit Singh,Bollywood,Happy Bhaag Jayegi,,0.0
+Ankahee,Amit Trivedi,BollywoodRomantic,Lootera,,0.0
+Mera Mann Kehne Laga,Falak Shabir,BollywoodDance,Nautanki Saala,,0.0
+Shubh Din,"Keerthi Sagathia, Yotica Tangri",Bollywood,Parmanu The Story of Pokhran,,0.0
+Nazm Nazm,Arko,BollywoodRomantic,Bareilly Ki Barfi,,0.0
+Nazdeekiyan,"Neeti Mohan, Nikhil Paul George",BollywoodRomantic,Shaandaar,,0.0
+Tu Mohabbat Hai,"Atif Aslam, Monali Thakur",BollywoodRomantic,Tere Naal Love Ho Gaya,,0.0
+Tu Banja Gali Benaras Ki,Asit Tripathy,BollywoodRomantic,Shaadi Mein Zaroor Aana,,0.0
+Tum Paas Aa Rahe Ho,"Jagjit Singh, Lata Mangeshkar",BollywoodRomantic,Veer Zaara,,0.0
+Sajdaa,"Rahat Fateh Ali Khan, Richa Sharma, Shankar Mahadevan",BollywoodRomantic,My Name is Khan,,0.0
+Rozaana,Salim Merchant,BollywoodRomantic,Love Breakups Zindagi,,0.0
+Bismil,Sukhwinder Singh,BollywoodDance,Haider,,0.0
+Love Ka Matlab Hai Pyar,"Asha Bhosle, Mohammed Rafi",BollywoodDance,Love In Shimla,,0.0
+Meri Maa,K.K.,BollywoodSad,Yaariyan,,0.0
+Love You Till The End,Armaan Malik,BollywoodDanceRomantic,Jai Ho,,0.0
+Allah Ke Bande,Kailash Kher,BollywoodSad,Waisa Bhi Hota Hai,,0.0
+Lambiyaan Si Judaiyaan,"Altamash Faridi, Arijit Singh, Shadaab Faridi",BollywoodSad,Raabta,,0.0
+Bin Tere,"Shafqat Amanat Ali, Sunidhi Chauhan",BollywoodSad,I Hate Luv Storys,,0.0
+Baba Bolta Hain Bas Ho Gaya,"Papon, Ranbir Kapoor, Supriya Pathak",Bollywood,Sanju,,0.0
+Kuch To Hai,Armaan Malik,BollywoodSad,Do Lafzon Ki Kahani,,0.0
+Aaj Din Chadheya,"Harshdeep Kaur, Irshad Kamil",BollywoodRomantic,Love Aj Kal,,0.0
+Jee Ve Sohaneya,Nooran Sisters,BollywoodSad,Jab Harry Met Sejal,,0.0
+Jogi,"Aakanksha Sharma, Yasser Desai",BollywoodRomantic,Shaadi Mein Zaroor Aana,,0.0
+Musu Musu,Shaan,BollywoodRomantic,Pyaar Mein Kabhi Kabhi,,0.0
+Hass Nache Le,Shahid Mallya,BollywoodDance,Udta Punjab,,0.0
+Rehna Tu,"A.R. Rahman, Benny Dayal, Tanvi",BollywoodRomantic,Delhi-6,,0.0
+Rozana,Shreya Ghoshal,BollywoodRomantic,Naam Shabana,,0.0
+Tujhe Sochta Hoon,K.K.,BollywoodRomanticSensual,Jannat 2,,0.0
+Agar Main Kahoon,"Alka Yagnik, Udit Narayan",BollywoodRomantic,Lakshay,,0.0
+Allah Hi Reham,Ustad Rashid Khan,BollywoodRomantic,My Name is Khan,,0.0
+Anandoloke,Clinton Cerejo,BollywoodDance,Kahaani 2,,0.0
+Dil Dooba,"Shreya Ghoshal, Sonu Nigam",BollywoodDance,Khakee,,0.0
+Mar Jayian,"Sunidhi Chauhan, Vishal Dadlani",Bollywood,Vicky Donor,,0.0
+Chupke Se,"Murtuza, Qadir, Sadhana Sargam",BollywoodRomantic,Saathiya,,0.0
+Is Pal,"Shreya Ghoshal, Sonu Nigam",BollywoodRomantic,Aaja Nachle,,0.0
+Saajan Aayo Re,"A.R. Rahman, Jonita Gandhi, Nakash Aziz",BollywoodRomantic,Ok Jaanu,,0.0
+Mere Nishaan,"Anjjan, Kailash Kher, Meet Bros",Bollywood,Oh My God,,0.0
+Bakhuda Tumhi Ho,"Alka Yagnik, Atif Aslam",BollywoodRomantic,Kismat Konnection,,0.0
+Tu Mere Paas,Ankit Tiwari,BollywoodSad,Wazir,,0.0
+Ishq De Fanniyar,Jyotica Tangri,BollywoodRomantic,Fukrey Returns,,0.0
+Tab Bhi Tu,Rahat Fateh Ali Khan,BollywoodSad,October,,0.0
+Kya Mujhe Pyar Hai,K.K.,BollywoodRomantic,Woh Lamhe,,0.0
+Is This Love  Kahin Na Laage,"Mohit Chauhan, Shreya Ghoshal",BollywoodDance,Kismat Konnection,,0.0
+Maa,Shankar Mahadevan,BollywoodSad,Taare Zameen Par,,0.0
+Zehnaseeb,"Chinmayi Sripaada, Shekhar Ravjiani",BollywoodDance,Hasee Toh Phasee,,0.0
+Dekha Hazaro Dafaa,"Arijit Singh, Palak Muchhal",BollywoodRomantic,Rustom,,0.0
+Maula Mere Lele Meri Jaan,"Krishna Beura, Salim Merchant",BollywoodDevotionalSad,Chak De India,,0.0
+Kuch Iss Tarah,Arnab Dutta,BollywoodSad,1921,,0.0
+Baadal,"Adnan Sami, Alka Yagnik",BollywoodDance,Yuva,,0.0
+Bahara,"Shreya Ghoshal, Sona Mohapatra",BollywoodRomantic,I Hate Luv Storys,,0.0
+Dil Ki Hai Tamanna,"Neha Bhasin, Shalini Singh, Vijay Prakash",BollywoodDance,Force,,0.0
+Mujhse Huee Bas Yeh,Alka Yagnik,BollywoodSad,Ishq Vishk,,0.0
+Tum Jo Mile,Armaan Malik,BollywoodRomantic,Saansein,,0.0
+Haareya,Arijit Singh,BollywoodRomantic,Meri Pyaari Bindu,,0.0
+Bheegi Si Bhaagi Si,Mohit Chauhan,BollywoodRomance,Raajneeti,,0.0
+Bandeya,Arijit Singh,BollywoodSad,Dil Juunglee,,0.0
+Tujhko Jo Paaya,Mohit Chauhan,BollywoodRomance,Crook,,0.0
+Sukoon Mila,Arijit Singh,BollywoodRomantic,Mary Kom,,0.0
+Kuch To Hua Hai,"Alka Yagnik, Shaan",BollywoodDance,Kal Ho Naa Ho,,0.0
+Main Agar,Atif Aslam,BollywoodRomantic,Tubelight,,0.0
+Kyon,"Papon, Sunidhi Chauhan",BollywoodRomantic,Barfi,,0.0
+School Ke Din,Sonu Nigam,BollywoodDance,Always Kabhi Kabhi,,0.0
+Yaadon Mein,"Cuca Roseta, Jonita Gandhi, Mohammed Irfan",BollywoodSad,Jab Harry Met Sejal,,0.0
+Lost Without You,"Ami Mishra, Anushka Shahaney",BollywoodSad,Half Girlfriend,,0.0
+Dhal Jaun Main,"Aakanksha Sharma, Jubin Nautiyal",BollywoodRomanticSad,Rustom,,0.0
+Badass Babuaa,"Abhishek Nailwal, Neha Bhasin, Sameer Uddin",BollywoodDance,Bareilly Ki Barfi,,0.0
+Sahiba Russ Gayiya,Rahat Fateh Ali Khan,BollywoodSad,Firangi,,0.0
+Lakshya  Title Track,Shankar Mahadevan,BollywoodMotivationalPatriotic,Lakshya,,0.0
+Jeete Hain Chal,Kavita Seth,BollywoodSad,Neerja,,0.0
+Sau Dard,"Sonu Nigam, Suzanne",BollywoodSad,Jaan-E-Mann,,0.0
+Tere Bina (Guru),"A.R. Rahman, Chinmaye, Murtuza Khan, Qadir Khan",BollywoodDance,Guru,,0.0
+Kisi Ki Muskurahaton Se,Mukesh,BollywoodDance,Anari,,0.0
+Hay Re Insaan Ki Majbooriya,Mohammed Rafi,BollywoodSad,Ghunghat,,0.0
+Manchala,"Nupur Pant, Shafqat Amanat Ali",BollywoodSad,Hasee Toh Phasee,,0.0
+Jaane De,Atif Aslam,Bollywood,Qarib Qarib Singlle,,0.0
+Darasal,Atif Aslam,BollywoodRomantic,Raabta,,0.0
+Zinda,Sunidhi Chauhan,Bollywood,Naam Shabana,,0.0
+Rabba Main Toh Mar Gaya Oye,Shahid Mallya,BollywoodRomantic,Mausam,,0.0
+Just Go to Hell Dil,"Amit Trivedi, Sunidhi Chauhan",BollywoodSad,Dear Zindagi,,0.0
+Shukran Allah,"Salim Merchant, Shreya Ghoshal, Sonu Nigam",BollywoodRomantic,Kurbaan,,0.0
+Tere Naina,"Shankar Mahadevan, Shreya Ghoshal",BollywoodRomantic,Chandni Chowk To China,,0.0
+Dhanak,Monali Thakur,BollywoodDance,Dhanak,,0.0
+Tay Hai,Ankit Tiwari,BollywoodSad,Rustom,,0.0
+Piya O Re Piya,"Atif Aslam, Shreya Ghoshal",BollywoodRomantic,Tere Naal Love Ho Gaya,,0.0
+Koi Ishaara,Armaan Malik,BollywoodRomanticSad,Force 2,,0.0
+Dhoop,Shreya Ghoshal,BollywoodRomantic,Goliyon Ki Rasleela Ram-leela,,0.0
+Sarphiri,"Babul Supriyo, Shreya Ghoshal",BollywoodRomantic,Laila Majnu,,0.0
+Saanson Ke,K.K.,BollywoodSad,Raees,,0.0
+Kaun Tujhe,Armaan Malik,BollywoodRomantic,M.S. Dhoni-The Untold Story,,0.0
+Nazrein Milaana Nazrein Churaana,"Anupama Deshpande, Benny Dayal, Darshana, Naresh Iyer, Satish Chakravarthy, Swetha Bhargavee, Tanvi",BollywoodDance,Jaane Tu Ya Jaane Na,,0.0
+Mangalayam,"K.K., Kunal, Shaan, Sreenivas",BollywoodDance,Saathiya,,0.0
+Ala Barfi,Mohit Chauhan,BollywoodDance,Barfi,,0.0
+Janib (Duet),"Arijit Singh, Sunidhi Chauhan",BollywoodRomantic,Dilliwaali Zaalim Girlfriend,,0.0
+Tumhi Se,"Shreya Ghoshal, Vijay Yesudas",BollywoodRomantic,Chup Chup Ke,,0.0
+Paathshaala,"Blaaze, Mohammed Aslam, Naresh Iyer",BollywoodDance,Rang De Basanti,,0.0
+Aadha Ishq,"Natalie Di Luccio, Shreya Ghoshal",BollywoodRomantic,Band Baaja Baaraat,,0.0
+Har Ek Friend Kamina Hota Hai,Sonu Nigam,BollywoodDance,Chashme Baddoor,,0.0
+Move Your Body Now,"Akriti Kakar, Hard Kaur, Shaan, Suhail",BollywoodDance,Kismat Konnection,,0.0
+Aankhon Mein Neendein,"Rahat Fateh Ali Khan, Shankar Mahadevan, Shreya Ghoshal",BollywoodRomantic,We Are Family,,0.0
+Tumse Hi Tumse,"Caralisa Monteiro, Shekhar Ravjiani",BollywoodRomantic,Anjaana Anjaani,,0.0
+Nachdi Phira,Meghna Mishra,BollywoodSad,Secret Superstar,,0.0
+Dooriyan Hain Zaroori Bhi Hai,"Monica Dogra, Vishal Dadlani",BollywoodDance,Break Up Ke Baad,,0.0
+Iktara,"Amit Trivedi, Amitabh Bhattacharya, Kavita Seth",BollywoodRomantic,Wake Up Sid,,0.0
+Saddi Dilli,Millind Gaba,BollywoodDance,Dilliwaali Zaalim Girlfriend,,0.0
+Joganiyan,Shruti Haasan,BollywoodRomantic,Tevar,,0.0
+Meherbani (Remix),Jubin Nautiyal,BollywoodDance,The Shaukeens,,0.0
+Ehsan Tera Hoga Mujh Par,Mohammed Rafi,BollywoodRomantic,Junglee,,0.0
+Tera Hoke Rahoon,Arijit Singh,BollywoodRomantic,Behen Hogi Teri,,0.0
+Meri Khamoshi Hai,Ishan Mitra,BollywoodSad,Pari,,0.0
+Awaara,Master Saleem,BollywoodDance,7 Khoon Maaf,,0.0
+Manmarziyan,"Amit Trivedi, Shilpa Rao",BollywoodRomantic,Lootera,,0.0
+Janam Janam,Atif Aslam,Bollywood,Phata Poster Nikhla Hero,,0.0
+Naina,"Armaan Malik, Sona Mohapatra",BollywoodRomanticSad,Khoobsurat,,0.0
+Soniyo,"Neeraj Shridhar, Raju Singh, Shreya Ghoshal, Sonu Nigam",BollywoodRomantic,Raaz,,0.0
+Ae Watan Ae Watan Humko Teri Qasam,Mohammed Rafi,BollywoodPatriotic,Shaheed,,0.0
+Hairat,Lucky Ali,BollywoodDance,Anjaana Anjaani,,0.0
+Aaankhein Milayenge Darr Se,"K. Mohan, Neha Bhasin",BollywoodDance,Neerja,,0.0
+Reham Nazar Karo,Mohammed Rafi,BollywoodDevotional,Shirdi Saibaba,,0.0
+Saajna (Unplugged),Falak Shabir,BollywoodRomantic,I Me Aur Mein,,0.0
+Maine Socha Ke Chura Loon,"Arijit Singh, Shreya Ghoshal",BollywoodRomantic,Phir Se,,0.0
+Thare Vaaste,Divya Kumar,BollywoodPatriotic,Parmanu The Story of Pokhran,,0.0
+Andha Dhun,Raftaar,BollywoodDance,Andha Dhun,,0.0
+Daryaa,"Ammy Virk, Shahid Mallya",BollywoodSad,Manmarziyaan,,0.0
+Give Me Some Sunshine,"Sharman Joshi, Suraj Jagan",BollywoodSad,3 Idiots,,0.0
+Mere Bina,Nikhil Dsouza,BollywoodRomantic,Crook,,0.0
+Mahi,"Harshdeep Kaur, Shabab Sabri",BollywoodSad,Irada,,0.0
+Dhoop Ke Makaan Sa,"Hitesh Sonik, Shekhar Ravjiani",BollywoodRomantic,Break Up Ke Baad,,0.0
+Abhi Kuch Dino Se,Mohit Chauhan,BollywoodDance,Dil Toh Bachha Hai,,0.0
+Beat Juunglee,"Armaan Malik, Prakriti Kakkar",BollywoodDance,Dil Juunglee,,0.0
+Khalbali,"A.R. Rahman, Mohammed Aslam, Nacim",BollywoodDance,Rang De Basanti,,0.0
+Mahek Bhi,Shreya Ghoshal,BollywoodRomantic,Aiyyaa,,0.0
+Nazar Na Lag Jaaye,"Ash King, Jigar, Sachin Sanghvi",BollywoodRomantic,Stree,,0.0
+Main Kya Karoon,Nikhil Paul George,BollywoodDance,Barfi,,0.0
+Yeh Hava Yeh Fiza,"Asha Bhosle, Suresh Wadkar",BollywoodDance,Sadma,,0.0
+Daiyya Maiyya,"Rasika Chandrashekhar, Shankar Mahadevan, Udit Narayan",BollywoodDance,Kill Dil,,0.0
+Main Agar Kahoon,"Shreya Ghoshal, Sonu Nigam",BollywoodRomantic,Om Shanti Om,,0.0
+O Meri Laila,"Atif Aslam, Jyotica Tangri",BollywoodRomantic,Laila Majnu,,0.0
+Chalte Chalte,Atif Aslam,BollywoodRomantic,Mitron,,0.0
+Ae Watan,Arijit Singh,BollywoodPatriotic,Raazi,,0.0
+Sunn Le Zara,Arnab Dutta,BollywoodSad,1921,,0.0
+Saajna,Falak Shabir,BollywoodRomantic,I Me Aur Main,,0.0
+Ha Raham Mehfuz,"Amit Trivedi, Murtuza Qadir",BollywoodDance,Aamir,,0.0
+Soniye Mil Ja,"Sukhwinder Singh, Sunidhi Chauhan",Bollywood,Aaja Nachle,,0.0
+Hawayein,Arijit Singh,BollywoodRomantic,Jab Harry Met Sejal,,0.0
+Laakh Duniya Kahe,"Nisha Mascarenhas, Ram Sampath",BollywoodSad,Talaash,,0.0
+Muskurane (Unplugged),"Jeet Gannguli, Mohammed Irfan",BollywoodRomantic,Citylights,,0.0
+Naina Da Kya Kasoor,Amit Trivedi,BollywoodRomantic,Andha Dhun,,0.0
+Rab Ka Shukrana,Mohit Chauhan,BollywoodRomantic,Jannat 2,,0.0
+Mera Intkam Dekhegi,Krishna Beuraa,BollywoodSad,Shaadi Mein Zaroor Aana,,0.0
+Mera Jahan,"Adnan Sami, Ananya Wadkar, Auriel Cordo",BollywoodSad,Taare Zameen Par,,0.0
+Naino Ne Bandhi,Yasser Desai,BollywoodRomantic,Gold,,0.0
+Money Hai Toh Honey Hai,Harshdeep Kaur,BollywoodDance,Money Hai Toh Honey Hai,,0.0
+Noor E Khuda,"Adnan Sami, Shankar Ehsaan Loy, Shankar Mahadevan, Shreya Ghoshal",BollywoodMotivational,My Name is Khan,,0.0
+Tu Hi Toh Meri Dost Hai,"A.R. Rahman, Benny Dayal, Shreya Ghoshal",BollywoodDance,Yuvvraaj,,0.0
+Ek Ladki Ko Dekha Toh Aisa Laga,"Darshan Raval, Rochak Kohli",BollywoodRomantic,Ek Ladki Ko Dekha Toh Aisa Laga,,0.0
+Parinda,Pardeep Sran,Bollywood,Jab Harry Met Sejal,,0.0
+Jab Se Mere Naina,Shaan,BollywoodDanceRomantic,Saawariya,,0.0
+O Rangrez,Divya Kumar,BollywoodRomantic,Bhaag Milkha Bhaag,,0.0
+Aashiyan,"Nikhil Paul George, Shreya Ghoshal",BollywoodDance,Barfi,,0.0
+Maula Sun Le Re,Papon,BollywoodSad,Madras Cafe,,0.0
+Pankhon Ko,Salim Merchant,BollywoodSad,Rocket Singh,,0.0
+Yeh Jo Des Hai Tera,A.R. Rahman,BollywoodPatriotic,Swades,,0.0
+Namo Namo,Amit Trivedi,BollywoodDevotional,Kedarnath,,0.0
+O Heeriye,Ayushman Khurana,BollywoodSad,Bewakoofiyaan,,0.0
+Qaafirana,"Arijit Singh, Nikhita Gandhi",BollywoodRomantic,Kedarnath,,0.0
+Salaam India,"Salim Merchant, Vishal Dadlani",BollywoodMotivationalPatriotic,Mary Kom,,0.0
+Aa Ghar Chalein Hum,Monali Thakur,BollywoodDevotional,Lakshmi,,0.0
+Mera Pyar Tera Pyar,Arijit Singh,BollywoodRomanticSad,Jalebi,,0.0
+Tere Bin,Atif Aslam,BollywoodSad,Bas Ek Pal,,0.0
+F.U.N. Fun Funaa,Ali Zafar,BollywoodDance,Luv Ka The End,,0.0
+Jhelum,Vishal Bhardwaj,BollywoodSad,Haider,,0.0
+Kaise Mujhe,Benny Dayal,BollywoodRomantic,Ghajini,,0.0
+Hona Tha Pyar,"Atif Aslam, Hadiqa Kiani",BollywoodRomantic,Bol,,0.0
+Dekho Bijli Dole Bin Badal Ki,"Asha Bhosle, Usha Mangeshkar",BollywoodDance,Phir Wohi Dil Laya Hoon,,0.0
+Oh Jaaniya,"Raj Pandit, Salim Merchant, Shreya Ghoshal",BollywoodRomantic,Wedding Pullav,,0.0
+Jaane Kya,Zubeen Garg,BollywoodSad,Pyaar Ke Side Effects,,0.0
+Main Hoon Hero Tera,Armaan Malik,BollywoodRomantic,Hero,,0.0
+Mil Gayee Woh Manzilen,"Alka Yagnik, Kumar Sanu",BollywoodDance,Kabhi Na Kabhi,,0.0
+Teri Khair Mangdi,Bilal Saeed,BollywoodSad,Baar Baar Dekho,,0.0
+Love Mashup 2016 (Kiran Kamath),Multiple,BollywoodRomantic,Single,,0.0
+Ab Mujhko Jeena,Zubeen Garg,BollywoodDance,Aashayein,,0.0
+Theher Ja,Armaan Malik,BollywoodRomantic,October,,0.0
+Adhoore Tum Adhoore Hum,"Alyssa Mendonsa, Vishal Dadlani",BollywoodDance,Break Up Ke Baad,,0.0
+Uff Teri Adaa I Like You,"Alyssa Mendonsa, Shankar Mahadevan",BollywoodDance,Karthik Calling Karthik,,0.0
+Dilbaro,"Harshdeep Kaur, Shankar Mahadevan, Vibha Saraf",Bollywood,Raazi,,0.0
+Fatal Attraction,"Natalie Di Luccio, Salim Merchant",BollywoodDance,Ladies Vs Ricky Bahl,,0.0
+Tera Yaar Hoon Main,Arijit Singh,BollywoodRomanticSad,Sonu Ke Titu Ki Sweety,,0.0
+Dil Kya Kare,Adnan Sami,BollywoodRomantic,Salaam-E-Ishq,,0.0
+Bhaage Re Mann,Sunidhi Chauhan,BollywoodDance,Chameli,,0.0
+Jaane Kyun,Vishal Dadlani,BollywoodDance,Dostana,,0.0
+Ghum Shuda,Sonu Nigam,BollywoodDance,Chalte Chalte,,0.0
+Senorita,"Abhay Deol, Farhan Akhtar, Hrithik Roshan",BollywoodDance,Zindagi Na Milegi Dobara,,0.0
+Kar Har Maidaan Fateh,"Shreya Ghoshal, Sukhwinder Singh",BollywoodMotivational,Sanju,,0.0
+Itni Si Baat Hai,"Antara Mitra, Arijit Singh",BollywoodRomantic,Azhar,,0.0
+Tu Hi Mera,Shafqat Amanat Ali,BollywoodRomantic,Jannat 2,,0.0
+Baatein Kuch Ankahee,"Adnan Sami, Pritam Chakraborty",BollywoodRomantic,Life In A Metro,,0.0
+Yeh Haseen Vadiyan Yeh Khula Aasman,"A.R. Rahman, K. S. Chithra, S.P. Balasubrahmanyam",BollywoodRomantic,Roja,,0.0
+Confused Lover,"Aaniya, Mika Singh",BollywoodDance,Teri Bhabhi Hai Pagle,,0.0
+Gulon Mein Rang Bhare,Arijit Singh,BollywoodSad,Haider,,0.0
+Bekarar Karke Hume,Hemant Kumar,BollywoodRomantic,Bees Saal Baad,,0.0
+Daayre,Arijit Singh,BollywoodRomantic,Dilwale,,0.0
+Sahiba,"Pawni Pandey, Romy",BollywoodSad,Phillauri,,0.0
+Aaj Ibaadat,"Altamash Faridi, Javed Bashir, Shadab Faridi, Shashi Suman, Shreyas Puranik",BollywoodDevotional,Bajirao Mastani,,0.0
+Ek Din Aap,"Alka Yagnik, Kumar Sanu",BollywoodDanceRomantic,Yes Boss,,0.0
+Tujhe Dekhti Hai Nazar,Mohd. Irfan,BollywoodRomantic,Nanu Ki Jaanu,,0.0
+Ek Villain,Multiple,BollywoodDance,Ek Villain,,0.0
+Kuch To Baaki Hai,Himesh Reshammiya,BollywoodSad,Milenge Milenge,,0.0
+Dastaan-e-Om Shanti Om,Shaan,BollywoodDance,Om Shanti Om,,0.0
+Tu Hi Na Jaane,"Prakriti Kakkar, Sonu Nigam",Bollywood,Azhar,,0.0
+Wat Wat Wat,"Arijit Singh, Shashwat Singh",BollywoodDance,Tamasha,,0.0
+Tumhe Jo maine Dekha,Abhijeet,BollywoodDance,Main Hoon Na,,0.0
+Masakali,Mohit Chauhan,BollywoodDance,Delhi-6,,0.0
+Maahi Ve,"Sadhana Sargam, Shankar Mahadevan, Sonu Nigam, Udit Narayan",BollywoodDance,Kal Ho Naa Ho,,0.0
+Hum Tumhe Kaise Bataye,"Aaman Trikha, Taraannum Mallik",BollywoodRomantic,Ekkees Toppon Ki Salaami,,0.0
+Subah Subah,"Shekhar Ravjiani, Vishal Dadlani, Zubeen Garg",BollywoodDance,I See You,,0.0
+Raat Ke Dhai Baje,"Earl, Kunal Ganjawala, Rekha Bhardwaj, Suresh Wadkar",BollywoodDance,Kaminey,,0.0
+Kehkasha Tu Meri,Shekhar Ravjiani,BollywoodMotivational,Akira,,0.0
+Besabriyaan,Armaan Malik,Bollywood,M.S. Dhoni,,0.0
+Drama Queen,"Shreya Ghoshal, Vishal Dadlani",BollywoodDance,Hasee Toh Phasee,,0.0
+Lets Celebrate,Imran Khan,BollywoodDance,Tevar,,0.0
+Phir Wahi,Arijit Singh,BollywoodSad,Jagga Jasoos,,0.0
+Stay A Little Longer,Anushka Shahaney,BollywoodSad,Half Girlfriend,,0.0
+Tu Hi Haqeeqat,"Irshan Ashraf, Javed Ali, Shadaab Faridi",BollywoodRomantic,Tum Mile,,0.0
+Labon Ko,K.K.,BollywoodRomantic,Bhool Bhulaiyaa,,0.0
+Nainowale Ne,Neeti Mohan,BollywoodRomantic,Padmaavat,,0.0
+Alfazon Ki Tarah (Unplugged),"Ankit Tiwari, John Abraham, Shreya Ghoshal",BollywoodSad,Rocky Handsome,,0.0
+I Feel Good,"Shilpa Rao, Vishal Dadlani",BollywoodDanceRomantic,Anjaana Anjaani,,0.0
+Yeh Kaisi Jagah,"Deepali Sathe, Zubeen Garg",BollywoodSad,Hamari Adhuri Kahani,,0.0
+Muskaanein Jhooti Hai,Suman Sridhar,BollywoodRomantic,Talaash,,0.0
+Yaara Yaara,"Alka Yagnik, Udit Narayan",BollywoodDance,Hum Tum,,0.0
+Allah Hafiz,K.K.,BollywoodDance,Bhool Bhulaiyaa,,0.0
+Ali Maula,Salim Merchant,BollywoodMotivational,Kurbaan,,0.0
+Sadka,"Mahalakshmi Iyer, Suraj Jagan",Bollywood,I Hate Luv Story,,0.0
+Desi Look (Remix),Kanika Kapoor,BollywoodDance,Ek Paheli Leela,,0.0
+Tum Bin,Shreya Ghoshal,BollywoodSad,Sanam Re,,0.0
+Tu Jo Hain,Ankit Tiwari,BollywoodRomanticSad,Mr. X,,0.0
+Aadat,"Jubin Nautiyal, Raftaar, Shirley Setia",BollywoodRomantic,Passengers,,0.0
+Musafir,Tushar Joshi,BollywoodRomantic,Jagga Jasoos,,0.0
+Agar Tu Hota,Ankit Tiwari,BollywoodSad,Baaghi,,0.0
+Pehla Nasha Once Again,"Jubin Nautiyal, Palak Muchhal",BollywoodRomantic,Yoodlee film  Kuchh Bheege Alfaaz,,0.0
+Shikayatein,Amit Trivedi,BollywoodSad,Lootera,,0.0
+Mera Rang De Basanti,"Manmohan Waris, Sonu Nigam",BollywoodPatriotic,The Legend Of Bhagat Singh,,0.0
+Tere Liye,Ankit Tiwari,BollywoodRomantic,Sanam Re,,0.0
+Freak Out,"Aditi Singh Sharma, Joi Barua",BollywoodDance,Love Ka The End,,0.0
+Nazam Nazam,"Arko, Ayushman Khurana",BollywoodRomance,Bareilly Ki Barfi,,0.0
+Jane Kyun,"Alka Yagnik, Udit Narayan",BollywoodRomantic,Dil Chahta Hai,,0.0
+Tinka Tinka,Alisha Chinai,BollywoodRomantic,Karam,,0.0
+Main Chali,"Naresh Iyer, Shreya Ghoshal",BollywoodDance,Force,,0.0
+Tum Mile,Neeraj Shridhar,BollywoodRomantic,Tum Mile,,0.0
+Aa Zara,Sunidhi Chauhan,BollywoodRomantic,Murder 2,,0.0
+Chalo Ek Bar Phir Se,Mahendra Kapoor,BollywoodSad,Gumrah,,0.0
+Dil Ye Dancer Ho Gaya,Atif Aslam,Bollywood,Actor In Law,,0.0
+Ainvayi Ainvayi (Dilli Club Mix),"Abhijit Vaghani, Master Saleem, Sunidhi Chauhan",BollywoodDance,Band Baaja Baaraat,,0.0
+Main Hoon Na,Abhijeet,BollywoodSad,Main Hoon Na,,0.0
+Chhil Gaye Naina,"Dipanshu Pandit, Kanika Kapoor",BollywoodSad,NH 10,,0.0
+Ye Tune Kya Kiya,Javed Bashir,BollywoodRomantic,Once Upon A Time In Mumbaai Dobara,,0.0
+Yaadan Teriyan,Himesh Reshammiya,BollywoodSad,Dil Diya Hai,,0.0
+Ay Hairathe,"A.R. Rahman, Alka Yagnik, Hariharan, Mohammed Aslam",BollywoodRomantic,Guru,,0.0
+Tumko To Aana Hi Tha,"Armaan Malik, Marianne D'Cruz",BollywoodRomantic,Jai Ho,,0.0
+Dekhte Dekhte,Atif Aslam,BollywoodRomantic,Batti Gul Meter Chalu,,0.0
+Mar Jaava,"Merchant, Shruti Pathak",BollywoodSensual,Faraar,,0.0
+Rehnuma,"Inder Bawra, Shreya Ghoshal",BollywoodRomanticSad,Rocky Handsome,,0.0
+Sooraj Ki Baahon Mein,"Clinton Cerejo, D Cerejo, Loy Mendonsa",BollywoodDance,Zindagi Na Milegi Dobara,,0.0
+Subhanallah,"Shilpa Rao, Sreerama Chandra Mynampati",BollywoodRomantic,Yeh Jawaani Hai Deewani,,0.0
+Halka Halka,"Ram Sampath, Shreya Ghoshal, Sonu Nigam",BollywoodDanceRomantic,Raees,,0.0
+Main Kya Hoon,KK,BollywoodDance,Love Aj Kal,,0.0
+Nadaan Parindey,A.R. Rahman,BollywoodSad,Rockstar,,0.0
+Whats Going On?,"Kunal Ganjawala, Sunidhi Chauhan",BollywoodDance,Salaam Namaste,,0.0
+Ilahi,Arijit Singh,BollywoodDance,Yeh Jawaani Hai Deewani,,0.0
+Ikk Kudi,Diljit Dosanjh,BollywoodRomantic,Udta Punjab,,0.0
+Teri Dhoom Har Kahin,Mohammed Rafi,BollywoodDance,Kala Bazar,,0.0
+Tu Itni Khoobsurat Hai,Rahat Fateh Ali Khan,BollywoodSad,Barkhaa,,0.0
+Dil Ye Ladaku,Monali Thakur,BollywoodRomantic,Saala Khadoos,,0.0
+Kandhon Se Milte Hain Kandhe,"Hariharan, Kunal Ganjawala, Roop Kumar Rathod, Shankar Mahadevan, Sonu Nigam, Vijay Prakash",BollywoodPatriotic,Lakshya,,0.0
+Blue (Theme),"Dilshad, Jaspeert Singh, Neha Kakkar, Raqeeb Aalam, Sonu Kakkar",BollywoodDance,Blue,,0.0
+Tera Saath Ho,Falak Shabir,BollywoodRomantic,7 Welcome To London,,0.0
+Vele,"Shekhar Ravjiani, Vishal Dadlani",BollywoodDance,Student of the Year,,0.0
+Raabta,"Arijit Singh, Hamsika, Joi",BollywoodRomantic,Agent Vinod,,0.0
+Mere Gully Mein,Ranveer Singh,BollywoodDance,Gully Boy,,0.0
+Premika,"Benny Dayal, Kanika Kapoor",BollywoodDance,Dilwale,,0.0
+Haule Haule (Remix),"Hard Kaur, Sukhwinder Singh",BollywoodDance,Rab Ne Bana Di Jodi,,0.0
+Kal Ho Naa Ho Title Track,Sonu Nigam,BollywoodSad,Kal Ho Naa Ho,,0.0
+Enna Sona,"A.R. Rahman, Arijit Singh",BollywoodRomantic,Ok Jaanu,,0.0
+Follow Me,Hard Kaur,BollywoodDance,Ajab Prem Ki Ghazab Kahani,,0.0
+Yaar De Viah,"Gurdas Maan, Mika Singh",BollywoodDance,Chak Jawana,,0.0
+Kabhi Khushboo,K.K.,BollywoodSad,Saaya,,0.0
+Dil Meri Na Sune,Atif Aslam,BollywoodRomantic,Genius,,0.0
+Nahin Saamne Tu,"Hariharan, Sukhwinder Singh",BollywoodRomantic,Taal,,0.0
+Albela Sajan,"Kanika Joshi, Kunal Pandit, Prithvi Gandharva, Rashi Raagga, Shashi Suman",BollywoodDance,Bajirao Mastani,,0.0
+Mitwa,"Caralisa Monteiro, Shafqat Amanat Ali, Shankar Ehsaan Loy, Shankar Mahadevan",BollywoodDance,Kabhi Alvida Naa Kehna,,0.0
+Dil Na Jaane Kyun,"Anushka Manchanda, Atif Aslam",BollywoodDance,Jayantabhai Ki Luv Story,,0.0
+Hum Ko Maaloom Hain,"Sadhana Sargam, Sonu Nigam",BollywoodRomantic,Jaan-E-Mann,,0.0
+Pe.. Pe.. Pepein (Version 2),"Hard Kaur, Master Saleem, Neeraj Shridhar, Tulsi Kumar",BollywoodDance,Chance Pe Dance,,0.0
+Mai Ri Mai,Harshdeep Kaur,BollywoodSad,Parched,,0.0
+Hey Ya I See You Walking,"Loy Mendonsa, Shankar Mahadevan",BollywoodDance,Karthik Calling Karthik,,0.0
+Tera Deedar Hua,Rahat Fateh Ali Khan,BollywoodRomantic,Jannat 2,,0.0
+Pakeezah,Gulraj Singh,Bollywood,Ungli,,0.0
+Pretty Woman,"Ravi Khote, Shankar Mahadevan",BollywoodDance,Kal Ho Naa Ho,,0.0
+Afeemi,"Jigar Saraiya, Sanah Moidutty",BollywoodRomantic,Meri Pyaari Bindu,,0.0
+Salaam E Ishq,"Kunal Ganjawala, Sadhana Sargam, Shankar, Shreya Ghosal, Sonu Nigam",BollywoodDance,Salaam-E-Ishq,,0.0
+Laal Ishq,Arijit Singh,BollywoodSad,Goliyon Ki Rasleela Ram-leela,,0.0
+Behka,Vibha Saraf,BollywoodDance,High Jack,,0.0
+Phir Mulaaqat,Jubin Nautiyal,BollywoodRomantic,Cheat India,,0.0
+Kharaa Kharaa,Sonu Kakkar,BollywoodRomance,Fever,,0.0
+Mitra,"Amitabh Bhattacharya, Salim Merchant",BollywoodSad,Band Baaja Baaraat,,0.0
+Mera Yaar,Javed Bashir,BollywoodRomantic,Bhaag Milkha Bhaag,,0.0
+Om Mangalam,"Nindy Kaur, RDB",BollywoodDance,Kambakkht Ishq,,0.0
+Tu,Kumar Sanu,Bollywood,Dum Laga Ke Haisha,,0.0
+Ik Tu Hi Tu Hi,Hans Raj Hans,BollywoodDevotional,Mausam,,0.0
+Mujhe Dekhkar Aap Ka Muskurana,Mohammed Rafi,BollywoodRomantic,Ek Musafir Ek Hasina,,0.0
+Thoda Aur,"Arijit Singh, Palak Muchhal",BollywoodRomantic,Ranchi Diaries,,0.0
+Chahoon Bhi,"Bombay Jayashri, Karthik",BollywoodRomantic,Force,,0.0
+Samjho Ho Hi Gaya,"Arshad Warsi, Sanjay Dutt, Vinod Rathod",BollywoodDance,Lage Raho Munna Bhai,,0.0
+Dil Chahta Hai,Shankar Mahadevan,BollywoodDance,Dil Chahta Hai,,0.0
+Khul Kabhi Toh,Arijit Singh,BollywoodRomantic,Haider,,0.0
+Aai Pappi  Tu Hai Meri Soniye,Neeraj Shridhar,BollywoodDance,Kismat Konnection,,0.0
+Kudiye Ni Tere,"Shivangi Bhayana, Udit Narayan",BollywoodRomantic,Happy Phir Bhaag Jayegi,,0.0
+Dhoom Again,"Dominique Crezo, Vishal Dadlani",BollywoodDance,Dhoom 2,,0.0
+Paniyon Sa,"Atif Aslam, Tulsi Kumar",BollywoodRomantic,Satyameva Jayate,,0.0
+Meri Aashiqui Ab Tum Hi Ho,"Arijit Singh, Palak Muchhal",BollywoodRomanticSad,Aashiqui 2,,0.0
+Pehli Nazar Mein,Atif Aslam,BollywoodRomantic,Race,,0.0
+Uff,"Benny Dayal, Harshdeep Kaur",BollywoodDance,Bang bang,,0.0
+Khoya Khoya Chand Khula Aasman,Mohammed Rafi,BollywoodRomantic,Kala Bazar,,0.0
+Dil Kyun Yeh Mera,K.K.,BollywoodRomantic,Kites,,0.0
+Aashayein,"KK, Salim Merchant",BollywoodMotivational,Iqbal,,0.0
+Titli,"Chinmayi Sripaada, Gopi Sunder",BollywoodRomantic,Chennai Express,,0.0
+Pani Da Rang,Ayushman Khurana,BollywoodRomance,Vicky Donor,,0.0
+Ajnabi Shehar,Sonu Nigam,BollywoodRomantic,Jaan-E-Mann,,0.0
+Tere Ho Ke Rahenge,Arijit Singh,BollywoodRomantic,Raja Natwarlal,,0.0
+O Humdum Suniyo Re,"K.K., Kunal, Pravin Mani, Shaan",BollywoodDance,Saathiya,,0.0
+Khudaya Ve Ishq Hai Kaisa,Salim Merchant,BollywoodSad,Luck,,0.0
+Char Baj Gaye (Party Abhi Baaki Hai),Hard Kaur,BollywoodDance,F.A.L.T.U,,0.0
+Mere Maula,"Kailash Kher, Richa Sharma",BollywoodSad,Khakee,,0.0
+Gulabi,"Jigar Saraiya, Priya Saraiya",BollywoodDance,Shuddh Desi Romance,,0.0
+Aanchal Men Saja Lena,Mohammed Rafi,BollywoodRomantic,Phir Wohi Dil Laya Hoon,,0.0
+Dus Bahane,"K.K., Shaan",BollywoodDance,Dus,,0.0
+Baatein Ye Kabhi Na (Female),Palak Muchhal,BollywoodRomantic,Khamoshiyan,,0.0
+Jaane Kahan Mera Jigar Gaya Ji,"Geeta Dutt, Mohammed Rafi",BollywoodRomantic,Mr. and Mrs. 55,,0.0
+Socha Hai,"Jubin Nautiyal, Neeti Mohan",BollywoodRomantic,Baadshaho,,0.0
+Daag,Sukhwinder Singh,BollywoodSad,Bhoomi,,0.0
+Main Tera Dhadkan Teri,"Hard Kaur, K.K., Sunidhi Chauhan",BollywoodDance,Ajab Prem Ki Ghazab Kahani,,0.0
+Aap Se Milkar,"Aakanksha Sharma, Ayushmann Khurrana",BollywoodRomantic,Andha Dhun,,0.0
+Main Nai Jaana Pardes,Shafqat Amanat Ali,BollywoodSad,Tevar,,0.0
+Je Taime,"Sunidhi Chauhan, Vishal Dadlani",Bollywood,Befikre,,0.0
+La La La (Baazaar),"Bilal Saeed, Neha Kakkar",BollywoodDanceRomantic,Baazaar,,0.0
+Lag Ja Gale,Rahat Fateh Ali Khan,BollywoodRomantic,Bhoomi,,0.0
+Dil Me Kayi Armaan,Aaman Trikha,BollywoodSad,Yeh Hai Judgement Hanged Till Death,,0.0
+Bandeyaa,Jubin Nautiyal,BollywoodSad,Jazbaa,,0.0
+Nachle Na,"Guru Randhawa, Neeti Mohan",BollywoodDance,Dil Juunglee,,0.0
+The Disco Song (Remix),"Benny Dayal, Salim Merchant, Shahid Mallaya, Sunidhu Chauhan, Udit Narayan",BollywoodDance,Student of the Year,,0.0
+Cocktail Mashup,Multiple,BollywoodDance,Cocktail,,0.0
+Aye Khuda (Duet),"Rahat Fateh Ali Khan, Shreya Ghoshal",BollywoodSad,Rocky Handsome,,0.0
+Flip Your Collar Back,Benny Dayal,BollywoodDance,Raja Natwarlal,,0.0
+Mere Sang,Sunidhi Chauhan,BollywoodRomantic,New York,,0.0
+Ratta Maar,"Shefali Alvares, Vishal Dadlani",Bollywood,Student of the Year,,0.0
+Main Kaun Hoon,Meghna Mishra,BollywoodSad,Secret Superstar,,0.0
+Jaana Hai,Zubeen Garg,BollywoodDance,Dum Maaro Dum,,0.0
+Hamdard,Arijit Singh,BollywoodRomantic,Ek Villain,,0.0
+Dil Dhadakne Do,"Joi Barua, Shankar Mahadevan, Suraj Jagan",Bollywood,Zindagi Na Milegi Dobara,,0.0
+Dil Se Re,"A.R. Rahman, Anupama Deshpande, Anuradha Sriram",BollywoodRomantic,Dil Se,,0.0
+Roja Jaaneman,Hariharan,BollywoodRomantic,Roja,,0.0
+Woh Pehli Baar,Shaan,BollywoodRomantic,Pyaar Mein Kabhi Kabhi,,0.0
+Dhat Teri Ki,"Aditi Singh Sharma, Sanam Puri",BollywoodDance,Dhat Teri Ki,,0.0
+Baawre,"Loy Mendonsa, Shankar Mahadevan",BollywoodDance,Luck By Chance,,0.0
+Yeh Ladka Hai Deewana,"Alka Yagnik, Udit Narayan",BollywoodDance,Kuch Kuch Hota Hai,,0.0
+Maana Ke Hum Yaar Nahin,Parineeti Chopra,BollywoodRomantic,Meri Pyaari Bindu,,0.0
+Tu Meri,Vishal Dadlani,BollywoodDanceRomantic,Bang bang,,0.0
+Mahi Mennu Nahi Karna,Labh Janjua,BollywoodDance,Dev D,,0.0
+Yeh Jawaani Hai Deewani (Mashup),"Arijit Singh, Mohit Chauhan",BollywoodDance,Yeh Jawaani Hai Deewani,,0.0
+Tu Mera Bhai Nahi Hai,"Gandhharv Sachdeav, Raftaar",Bollywood,Fukrey Returns,,0.0
+Hasi,Ami Mishra,BollywoodRomanticSad,Hamari Adhuri Kahani,,0.0
+Good Man Di Laaltein,"Sukhwinder Singh, Sunidhi Chauhan",BollywoodDance,Soorma,,0.0
+Ik Junoon,Vishal Dadlani,BollywoodDance,Zindagi Na Milegi Dobara,,0.0
+Gilehriyaan,Jonita Gandhi,Bollywood,Dangal,,0.0
+Aayat,"Altamash Faridi, Arijit Singh, Farhan Sabri, Mujtaba Aziz Naza, Shadab",BollywoodSad,Bajirao Mastani,,0.0
+Jab Tak Hai Jaan Mashup,Multiple,BollywoodDance,Jab Tak Hai Jaan,,0.0
+Judaai,Falak Shabir,BollywoodSad,I Love New Year,,0.0
+Zinda Rehti Hain Mohabbatein,"Lata Mangeshkar, Udit Narayan",BollywoodSad,Mohabbatein,,0.0
+Haawa Haawa,Mohit Chauhan,BollywoodDance,Rockstar,,0.0
+Dum Dum,"Romy, Vivek Hariharan",BollywoodRomantic,Phillauri,,0.0
+Mere Samne Wali Khidki Mein,Kishore Kumar,BollywoodDanceRomantic,Padosan,,0.0
+Khwab Dekhe Sexy Lady,"Monali Thakur, Neeraj Shridhar",BollywoodDance,Race,,0.0
+Safarnama,Lucky Ali,BollywoodDance,Tamasha,,0.0
+Chali Kahani,"Haricharan, Haripriya, Sukhwinder Singh",BollywoodDance,Tamasha,,0.0
+Kaisi Hai Ye Udaasi,Kailash Kher,BollywoodSad,Karthik Calling Karthik,,0.0
+Phir Se,"Nikhil Dsouza, Shreya Ghoshal",Bollywood,Phir Se,,0.0
+Sehra,Ankit Tiwari,BollywoodRomantic,Do Lafzon Ki Kahani,,0.0
+Saiyyan,"Aaman Trikha, Swati Sharma",BollywoodRomantic,1:13:7 Ek Tera Saath,,0.0
+Jaage Hain,"A.R. Rahman, K. S. Chithra",BollywoodSad,Guru,,0.0
+Banjaara,"Mohammed Irfan, Shashaa Tirupati",BollywoodRomantic,Ek Villain,,0.0
+Apni To Har Aah,Mohammed Rafi,BollywoodSad,Kala Bazar,,0.0
+Mast Kalandar,"Master Saleem, Rehan Khan, Sajid Khan",BollywoodDance,Heyy Baby,,0.0
+Saale Sapne,Mohit Chauhan,Bollywood,Padman,,0.0
+Sun Soniye,"Antara Mitra, Mohammed Irfan",BollywoodRomantic,Ajab Gazabb Love,,0.0
+Nazar Mein Hai Chehra,Lucky Ali,BollywoodDance,Good Luck,,0.0
+Rangdaari,"Arko, Navraj Hans",BollywoodSad,Daas Dev,,0.0
+Mere Bina Tu (Duet Version),"Harshdeep Kaur, Pritam",BollywoodSad,Phata Poster Nikhla Hero,,0.0
+Aa Bhi Ja Sanam,Atif Aslam,BollywoodSad,Prince,,0.0
+Zindagi Tujhse Kya Karen Shikvey,Amit Mishra,BollywoodSad,Zindagi Yeh Zindagi,,0.0
+Khwaab Ho Tum Ya Koi,Kishore Kumar,BollywoodRomantic,Teen Deviyan,,0.0
+Heer,"Arijit Singh, Harshdeep Kaur",BollywoodDance,Yeh Jawaani Hai Deewani,,0.0
+Jogi Mahi,"Himani Kapoor, Shekhar Ravjiani, Sukhwinder Singh",BollywoodDance,Bachna Ae Haseeno,,0.0
+Kudi Tu Butter,Yo Yo Honey Singh,BollywoodDance,Bajatey Raho,,0.0
+Hum Tum,"Alka Yagnik, Babul Supriyo",BollywoodRomantic,Hum Tum,,0.0
+Shiddat,Armaan Malik,BollywoodSad,Sweetiee Weds NRI,,0.0
+Chak De India,"Marianne D'Cruz, Salim Merchant, Sukhwinder Singh",BollywoodDance,Chak De India,,0.0
+Silsila Ye Chaahat Ka,Shreya Ghoshal,BollywoodRomantic,Devdas,,0.0
+Tu Hi Meri Shab Hai,K.K.,BollywoodRomantic,Gangster,,0.0
+Toh Dishoom,"Raftaar, Shahid Mallya",BollywoodDance,Dishoom,,0.0
+Ladki Kyon Na Jane Kyon,"Alka Yagnik, Shaan",BollywoodDance,Hum Tum,,0.0
+Ishq Hua,"Shreya Ghoshal, Sonu Nigam",BollywoodRomantic,Aaja Nachle,,0.0
+Hu Ba Hu,Amit Trivedi,BollywoodDance,Padman,,0.0
+Kapoor & Sons (Mashup),Multiple,BollywoodDance,Kapoor & Sons,,0.0
+Koi Yeh Kaise Bataye,Jagjit Singh,BollywoodSad,Arth,,0.0
+Main Tujhse Pyaar Nahin Karta,Papon,BollywoodSad,Baby,,0.0
+Daawat e Ishq,"Javed Ali, Sunidhi Chauhan",BollywoodDance,Daawat e Ishq,,0.0
+Tumhen Muhabbat Hai Humne Mana,"Asha Bhosle, Mohammed Rafi",BollywoodRomantic,Ek Musafir Ek Hasina,,0.0
+Main Koi Aisa Geet,Abhijeet,BollywoodDance,Yes Boss,,0.0
+Tum Ho Mera Pyar,"K.K., Suzanne D'Mello",BollywoodRomantic,Haunted,,0.0
+Kahin Door Jab Din Dhal Jaye,Mukesh,BollywoodRomantic,Anand,,0.0
+Mere Haath Mein,"Sonu Nigam, Sunidhi Chauhan",BollywoodRomantic,Fanaa,,0.0
+Be Intehaan,"Atif Aslam, Sunidhi Chauhan",BollywoodRomantic,Race 2,,0.0
+Aa Tayar Hoja,Sunidhi Chauhan,BollywoodDance,Asoka,,0.0
+Le Jaa,Pankaj Awasthi,BollywoodSad,Karam,,0.0
+Ya Rabba,Kailash Kher,BollywoodSad,Salaam-E-Ishq,,0.0
+Nikamma,Rahat Fateh Ali Khan,Bollywood,3 Dev,,0.0
+Maa Da Laadla,Master Saleem,BollywoodDance,Dostana,,0.0
+Raat Ka Nasha,K. S. Chithra,BollywoodDance,Ashoka,,0.0
+Humko Pyaar Hua,"K.K., Tulsi Kumar",BollywoodRomantic,Ready,,0.0
+Rock N Roll Soniye,"Mahalakshmi Iyer, Shaan, Shankar Ehsaan Loy, Shankar Mahadevan",BollywoodDance,Kabhi Alvida Naa Kehna,,0.0
+Alisha,"Anushka Manchanda, Salim Merchant",BollywoodDance,Pyaar Impossible,,0.0
+Dil Ashkon Mein,"Sonu Kakkar, Tony Kakkar",BollywoodRomance,Fever,,0.0
+Rangreli,"Shreya Ghoshal, Wajid",BollywoodDance,Daawat e Ishq,,0.0
+Samjhawan,"Arijit Singh, Shreya Ghoshal",BollywoodSad,Humpty Sharma Ki Dulhania,,0.0
+Koi Fariyaad,Jagjit Singh,BollywoodSad,Tum Bin,,0.0
+Meer-E-Kaarwan,"Amit Mishra, Neeti Mohan",BollywoodSad,Lucknow Central,,0.0
+Enu Naam Che Raees,Tarannum Mallik,BollywoodDance,Raees,,0.0
+Gori Gori Gori Gori,"Anu Malik, Shreya Ghosal, Sunidhi Chauhan",BollywoodRomantic,Main Hoon Na,,0.0
+Khuda Jaane,"K.K., Shilpa Rao",BollywoodRomantic,Bachna Ae Haseeno,,0.0
+Tu Jahaan,Sonu Nigam,BollywoodRomanticSad,Salaam Namaste,,0.0
+Gori Gori,"Anu Malik, K.K., Shreya Ghoshal, Sunidhi Chauhan",BollywoodDance,Main Hoon Na,,0.0
+Kyun (Duet),"Shaan, Shreya Ghoshal",BollywoodSad,Kambakkht Ishq,,0.0
+Piya Milenge,Sukhwinder Singh,BollywoodSad,Raanjhanna,,0.0
+Aye Dil Laaya Hai Bahaar,"Hariharan, Kavita Krishnamurthy",BollywoodDance,Kya Kehna,,0.0
+Saadda Haq,Mohit Chauhan,BollywoodDance,Rockstar,,0.0
+Pareshaan,Shalmali Kholgade,BollywoodRomantic,Ishaqzaade,,0.0
+Wo Ladki Jo Sabse,Abhijeet,BollywoodDance,Baadshah,,0.0
+Gale Lag Ja,"Banjyotsna, Javed Ali",BollywoodDanceSensual,De Dana Dan,,0.0
+Hip Hop Pammi,"Mika Singh, Monali Thakur",BollywoodDance,Ramaiya Vastavaiya,,0.0
+I Love You,"Ash King, Clinton Cerejo",BollywoodRomantic,Bodyguard,,0.0
+Main Yahaan Hoon,Udit Narayan,BollywoodDance,Veer Zaara,,0.0
+Roshni Se,"Abhijeet, Alka Yagnik",BollywoodRomantic,Asoka,,0.0
+Tu Hi Hai,Armaan Malik,BollywoodRomantic,Jagga Jasoos,,0.0
+Yeh Ishq Hai,Shreya Ghoshal,BollywoodDance,Jab We Met,,0.0
+Sajna Ve Sajna,Sunidhi Chauhan,BollywoodDance,Chameli,,0.0
+My Dil Goes Mmmm,"Gayatri Iyer, Shaan",BollywoodRomantic,Salaam Namaste,,0.0
+Yeh Hum Aa Gaye Hain Kahaan,"Lata Mangeshkar, Udit Narayan",BollywoodRomantic,Veer Zaara,,0.0
+Rang De Basanti,"Daler Mehndi, K. S. Chithra",BollywoodDancePatriotic,Rang De Basanti,,0.0
+Boond Boond,Ankit Tiwari,BollywoodSad,Roy,,0.0
+Mere Khayalon Ki Malika,Abhijeet,BollywoodRomance,Josh,,0.0
+Suno Aisha,"Amit Trivedi, Ash King, Nakash Aziz",BollywoodDance,Aisha,,0.0
+Yun Hi Chala Chal,"Hariharan, Kailash Kher, Udit Narayan",BollywoodDance,Swades,,0.0
+Dooriyan,Mohit Chauhan,BollywoodSad,Love Aj Kal,,0.0
+Yeh Zindagi Ka Mausam,"Asha Bhosle, Mohammed Rafi",BollywoodDance,Ghunghat,,0.0
+Dhoom Tana,"Abhijeet, Shreya Ghoshal",BollywoodDance,Om Shanti Om,,0.0
+Rang Se Hui,Kaushiki Chakraborty,BollywoodDance,Gulaab Gang,,0.0
+Nain Phisal Gaye,Payal Dev,BollywoodRomantic,Welcome To New York,,0.0
+Pyar Ki Raahen,Shaan,BollywoodSad,Bewafaa,,0.0
+Aate Jaate Jo Milta Hai,"Alka Yagnik, Sonu Nigam",BollywoodDance,Har Dil Jo Pyar Karega,,0.0
+Koi Kahe Kehta Rahe,"K.K., Shaan, Shankar Mahadevan",BollywoodDance,Dil Chahta Hai,,0.0
+Ab Ke Baras Bhejo Bhaiya,Asha Bhosle,BollywoodSad,Bandini,,0.0
+Hoshwalon Ko Khabar Kya,Jagjit Singh,BollywoodSad,Sarfarosh,,0.0
+Its the Time to Disco,"K.K., Loy Mendonsa, Shaan, Vasundhara Das",BollywoodDance,Kal Ho Naa Ho,,0.0
+Jiya Jale,"Lata Mangeshkar, M.G. Sreekumar",BollywoodDance,Dil Se,,0.0
+Moh Moh Ke Dhaage,"Monali Thakur, Papon",BollywoodSad,Dum Laga Ke Haisha,,0.0
+Chalak Chalak,"Shreya Ghoshal, Udit Narayan, Vinod Rathod",BollywoodDance,Devdas,,0.0
+Sajde,"Arijit Singh, Gulzar, Nihira Joshi Deshpande",BollywoodRomantic,Kill Dil,,0.0
+Tere Naal Ishqa,Kailash Kher,BollywoodSad,Shivaay,,0.0
+Ishq Shava,"Raghav Mathur, Shilpa Rao",BollywoodDance,Jab Tak Hai Jaan,,0.0
+Ishq Risk,Rahat Fateh Ali Khan,BollywoodRomantic,Mere Brother Ki Dulhan,,0.0
+Chhan Ke Mohalla,"Ritu Pathak, Sunidhi Chauhan",BollywoodDance,Action Replayy,,0.0
+Kaun Nachdi,"Guru Randhawa, Neeti Mohan",BollywoodDance,Sonu Ke Titu Ki Sweety,,0.0
+Daaru Desi,"Benny Dayal, Shalmali Kholgade",BollywoodDance,Cocktail,,0.0
+Buddhu Sa Mann,"Amaal Mallik, Armaan Malik",BollywoodDance,Kapoor & Sons,,0.0
+Sun Zara,Adnan Sami,BollywoodRomantic,Lucky,,0.0
+Fugly Fugly Kya Hai,Yo Yo Honey Singh,BollywoodDance,Fugly,,0.0
+Tum Tak,"A.R. Rahman, A.V. Pooja, Javed Ali, Kirti Sagathia",BollywoodDanceRomantic,Raanjhanaa,,0.0
+Get Up Jawani,"Badshah, Yo Yo Honey Singh",BollywoodDance,International Villager,,0.0
+Chhaliya,"Piyush Mishra, Sunidhi Chauhan",Bollywood,Tashan,,0.0
+Soniye Ve  Dhak Dhak Dhak,"Sonu Nigam, Sunidhi Chauhan",BollywoodDance,Kismat Konnection,,0.0
+Ishqa,"Abhijeet Sawant, Antara Mitra",Bollywood,Dishoom,,0.0
+Ishtehaar,"Dhvani Bhanushali, Rahat Fateh Ali Khan",BollywoodSad,Welcome To New York,,0.0
+Ye Jawaani Teri,"Jonita Gandhi, Nakash Aziz",BollywoodDance,Meri Pyaari Bindu,,0.0
+Meter Down,"Adnan Sami, Merriene, Nimosa",BollywoodDance,Taxi No. 9211,,0.0
+Haathon Mein Thhe Haath,"Aditi Singh Sharma, Altamash Faridi, Arpita Mukherjee, Papon",BollywoodSad,Mubarakan,,0.0
+De De Jagah,Yasser Desai,Bollywood,Parmanu The Story of Pokhran,,0.0
+Koi Patthar Se Na Maare,"Shreya Ghoshal, Sonu Nigam, Sunidhi Chauhan",BollywoodSad,Aaja Nachle,,0.0
+Ziddi Dil,Vishal Dadlani,BollywoodMotivational,Mary Kom,,0.0
+Laung Da Lashkara,"Hard Kaur, Mahalakshmi Iyer",BollywoodDance,Patiala House,,0.0
+Satarangi Re,"Kavita Krishnamurthy, Sonu Nigam",BollywoodDance,Dil Se,,0.0
+Zindagi Do Pal Ki,K.K.,BollywoodRomantic,Kites,,0.0
+Zor Ka Jhatka,"Daler Mehndi, Master Saleem, Richa Sharma",BollywoodDance,Action Replayy,,0.0
+Khwabon Khwabon,K.K. Suchitra,BollywoodDance,Force,,0.0
+O Saathiya,"Arko, Armaan Malik, Prakriti Kakkar",BollywoodRomantic,Sweetiee Weds NRI,,0.0
+Gun Gun Guna,"Sunidhi Chauhan, Udit Narayan",BollywoodDance,Agneepath,,0.0
+Urvashi Urvashi,"A.R. Rahman, Noel James, Shankar Mahadevan",BollywoodDance,Hum Se Hai Muqabala,,0.0
+Ishaqzaade,"Javed Ali, Shreya Ghoshal",BollywoodDance,Ishaqzaade,,0.0
+Sing Raja,"Daler Mehndi, Sonu Kakkar",BollywoodDance,Joker,,0.0
+Tum Jo Aaye,Rahat Fateh Ali Khan,BollywoodRomantic,Once Upon A Time In Mumbai,,0.0
+Bande Mein Tha Dum Vande Mataram,"Pranab Biswas, Shreya Ghoshal, Sonu Nigam",BollywoodDance,Lage Raho Munna Bhai,,0.0
+Sajh Dhaj Ke,"Mika Singh, Pankaj Kapur",BollywoodDance,Mausam,,0.0
+O Re Kanchi,"Alka Yagnik, Shaan",BollywoodDance,Asoka,,0.0
+Awaarapan Banjarapan,M. M. Keeravani,BollywoodDance,Jism,,0.0
+Dhunki,Neha Bhasin,BollywoodDance,Mere Brother Ki Dulhan,,0.0
+Rang Laal,"Aditi Singh Sharma, Dev Negi, John Abraham",BollywoodDance,Force 2,,0.0
+Sajda,K.K.,BollywoodDance,Bhool Bhulaiyaa,,0.0
+Tum Se Milke,"Asha Bhosle, Suresh Wadkar",BollywoodRomantic,Parinda,,0.0
+Jee Le Zaraa,Vishal Dadlani,BollywoodRomantic,Talaash,,0.0
+Yeh Dil Jo Hai Badmaash Hai,"Mohit Chauhan, Monali Thakur, Shreya Ghoshal",BollywoodDance,Phir Se,,0.0
+Huzur Is Kadar,"Bhupinder Singh, Suresh Wadkar",BollywoodDance,Masoom,,0.0
+Dhadakne Lagta Hai Mera Dil,Mohammed Rafi,BollywoodDance,Dil Tera Deewana,,0.0
+Darbadar,"Altamash Khan, Divya Kumar, Harshit Chouhan, Monali Thakur, Shadaab",BollywoodRomantic,I Me Aur Main,,0.0
+Da Da Dasse,"Babu Haabi, Kanika Kapoor",BollywoodDance,Udta Punjab,,0.0
+Ae Baby Ae Jee Idhar Aao,"Asha Bhosle, Mohammed Rafi",BollywoodDance,Love In Shimla,,0.0
+Ishq Tera,"Shreya Ghoshal, Sonu Nigam",BollywoodRomantic,Ishq Tera,,0.0
+Naam Hai Bhaiaji,"Amit Mishra, Raftaar",Bollywood,Bhaiaji Superhit,,0.0
+Bedardi Mere Saiyan,Asha Bhosle,BollywoodDance,Chaudhvin Ka Chand,,0.0
+Gaal Gulabi Kis Ke Hain,Mohammed Rafi,BollywoodDance,Love In Shimla,,0.0
+Sooraj Dooba Hai Yaron (Remix),"Aditi Singh Sharma, Arijit Singh",BollywoodDance,Roy,,0.0
+Jingle Jingle,"Farhid, Master Saleem, Mohit Chauhan",BollywoodDance,Badmaash Company,,0.0
+Ajab Leher Hai Meri,"Neeraj Shridhar, Rhys D'souza, Vishal Dadlani",BollywoodDance,Break Up Ke Baad,,0.0
+Raazi Title Track,Arijit Singh,BollywoodMotivational,Raazi,,0.0
+Main Rang Sharbaton Ka,Atif Aslam,BollywoodRomantic,Phata Poster Nikhla Hero,,0.0
+Aahista,"Arijit Singh, Jonita Gandhi",BollywoodRomantic,Laila Majnu,,0.0
+Tu Jaane Na,Atif Aslam,BollywoodRomantic,Ajab Prem Ki Ghazab Kahani,,0.0
+Dagariyo Chalo,"Alka Yagnik, Udit Narayan",BollywoodDance,Chalte Chalte,,0.0
+Bheegh Loon (Male),Ankit Tiwari,BollywoodRomantic,Khamoshiyan,,0.0
+Tera Hone Laga Hoon,"Alisha Chinai, Atif Aslam",BollywoodRomantic,Ajab Prem Ki Ghazab Kahani,,0.0
+Mein Sharabi (Remix),Yo Yo Honey Singh,BollywoodDance,Cocktail,,0.0
+Poore Se Zara Sa Kam Hain,Rashid Khan,BollywoodSad,Mausam,,0.0
+Brothers Mashup,Multiple,BollywoodDance,Brothers,,0.0
+Vande Mataram,"Badshah, Daler Mehndi, Divya Kumar, Tanishka Sanghvi",BollywoodDance,ABCD 2,,0.0
+Nit Khair Manga,Rahat Fateh Ali Khan,BollywoodRomantic,Raid,,0.0
+Tu Meri Main Tera,"Altamash Faridi, Rahat Fateh Ali Khan, Shadab Faridi",BollywoodRomanticSad,Namaste England,,0.0
+Thodi Der,"Farhan Saeed, Shreya Ghoshal",BollywoodSad,Half Girlfriend,,0.0
+Mar Gaye,"Manj Musik, Nindy Kaur",BollywoodDance,Beiimaan Love,,0.0
+Tere Bina Tere Bina,"Alka Yagnik, Shaan",BollywoodDance,Khushi,,0.0
+Mehbooba,"Mohammed Rafi, Neha Kakkar, Yasser Desai",BollywoodDance,Fukrey Returns,,0.0
+Mohe Rang Do Laal,"Pandit Birju Maharaj, Shreya Ghoshal",BollywoodRomantic,Bajirao Mastani,,0.0
+Soniye Dil Nayi,"Ankit Tiwari, Shruti Pathak",BollywoodRomanticSad,Baaghi 2,,0.0
+Tere Dil Mein,Armaan Malik,BollywoodSad,Commando 2,,0.0
+Naina Milaike,"Madhushree, Sadhana Sargam",BollywoodDance,Saathiya,,0.0
+Agar Tum Saath Ho,"Alka Yagnik, Arijit Singh",BollywoodSad,Tamasha,,0.0
+Kem Cho,"Ikka, Jyotica Tangri",BollywoodDance,Baazaar,,0.0
+Aaj Se Teri,Arijit Singh,BollywoodRomantic,Padman,,0.0
+Ik Vaari Aa,Arijit Singh,BollywoodRomantic,Raabta,,0.0
+Alcholic (Remix),Yo Yo Honey Singh,BollywoodDance,The Shaukeens,,0.0
+Genda Phool,"Rajat Dholakia, Shraddha Pandit, Sujata Majumdar, V.N. Mahathi",BollywoodDance,Delhi-6,,0.0
+Mohabbat Ke Din Ho,"Alka Yagnik, Udit Narayan",BollywoodDance,Farz,,0.0
+Kiss Me Baby  Title Song,Adnan Sami,BollywoodDance,Garam Masala,,0.0
+Tu Hai Ki Nahin,Ankit Tiwari,BollywoodSad,Roy,,0.0
+Dukki Tikki,Mika Singh,BollywoodDance,Raja Natwarlal,,0.0
+Chupke Se Sun,"Alka Yagnik, Udit Narayan",BollywoodRomantic,Mission Kashmir,,0.0
+Ajib Dastan Hai Yeh,Lata Mangeshkar,BollywoodDance,Dil Apna Aur Preet Parai,,0.0
+Pal Mein Mila Jahan,Shankar Mahadevan,BollywoodRomantic,Aashayein,,0.0
+World Dance Medley,"K.K., Neeti Mohan, Shankar Mahadevan, Sukhwinder Singh, Vishal Dadlani",BollywoodDanceRomantic,Happy New Year,,0.0
+Swag Se Swagat (Arabic),"Brigitte Yaghi, Neha Bhasin, Rabih Baroud, Vishal Dadlani",BollywoodDance,Tiger Zinda Hai,,0.0
+Fitoori,"Aishwarya Bhandari, Ganesh Chandanshive, Vaishali Bhaisne",BollywoodDance,Bajirao Mastani,,0.0
+Kunwara,Salim Merchant,BollywoodDance,Jodi Breakers,,0.0
+Teri Ore,"Rahat Fateh Ali Khan, Shreya Ghoshal",BollywoodRomantic,Singh Is Kinng,,0.0
+Tu Jo Mila,K.K.,Bollywood,Bajrangi Bhaijaan,,0.0
+Galliyan,Ankit Tiwari,BollywoodRomantic,Ek Villain,,0.0
+Ek Dafa Ek Jungle Tha,"Ilaiyaraaja, Kamal Haasan, Sridevi",BollywoodDance,Sadma,,0.0
+Koi Pyar Ki Dekhe Jadugari,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Kohinoor,,0.0
+Sajna Ve,Rahat Fateh Ali Khan,BollywoodSad,Life is Beautiful,,0.0
+Dilrubaon Ke Jalwe,"Amit Kumar, Monali Thakur",BollywoodDance,Dulha Mil Gaya,,0.0
+Khatar Patar,Papon,BollywoodDance,Sui Dhaaga,,0.0
+O Re Khuda,"Adnan Sami, Javed Basheer",BollywoodRomantic,Rush,,0.0
+Aafaton Ke Parinde,"Divya Kumar, Suraj Jagan",BollywoodDance,Ishaqzaade,,0.0
+Manali Trance,"Neha Kakkar, Yo Yo Honey Singh",BollywoodDance,The Shaukeens,,0.0
+Zindagi Bana Loon,Palak Muchhal,BollywoodRomantic,Sweetiee Weds NRI,,0.0
+Khamakhaa,"Ayushman Khurana, Neeti Mohan",BollywoodRomance,Bewakoofiaan,,0.0
+Hafiz Hafiz,Mohit Chauhan,BollywoodRomantic,Laila Majnu,,0.0
+Bulleya,Papon,BollywoodRomantic,Sultan,,0.0
+Show Me Your Jalwa,"Kailash Kher, Richa Sharma, Salim Merchant",BollywoodDance,Aaja Nachle,,0.0
+Raghupati Raghav,"Alka Yagnik, Shankar Mahadevan",BollywoodDance,Kuch Kuch Hota Hai,,0.0
+Zaroorat,Mustafa Zahid,BollywoodSad,Ek Villain,,0.0
+G Phaad Ke (Remix),"Divya Kumar, Shefali Alvarez",BollywoodDance,Happy Ending,,0.0
+Tinka Tinka Dil Mera,Rahat Fateh Ali Khan,BollywoodSad,Tubelight,,0.0
+Kun Faya Kun,"A.R. Rahman, Javed Ali, Mohit Chauhan",BollywoodDance,Rockstar,,0.0
+Humnava,Papon,BollywoodSad,Hamari Adhuri Kahani,,0.0
+Pyar Ho (Redux),Sunidhi Chauhan,Bollywood,Munna Michael,,0.0
+Aa Jao Na,"Arijit Singh, Shashwat Sachdev",BollywoodSad,Veere Di Wedding,,0.0
+Dard Ka Pata,"Mohammed Irfan, Sam",BollywoodSad,Gandhigiri,,0.0
+Kukkad Kamaal Da,"Marianne, Nisha Mascarenhas, Shahid Mallya",BollywoodDance,Student of the Year,,0.0
+Mose Mera Shyam Rootha,Lata Mangeshkar,BollywoodDevotional,Johny Mera Naam,,0.0
+Do Pal,"Lata Mangeshkar, Sonu Nigam",BollywoodRomanticSad,Veer Zaara,,0.0
+Lamha Lamha,Abhijeet,BollywoodRomance,Gangster,,0.0
+Jab Tak,"Amaal Mallik, Armaan Malik",BollywoodRomantic,M.S. Dhoni,,0.0
+Maula Mere Maula,Roop Kumar Rathod,BollywoodRomantic,Anwar,,0.0
+Mubarakan Title Song,"Badshah, Juggy D, Sukriti Kakar, Yash Narvekar",BollywoodDance,Mubarakan,,0.0
+Tumsa Nahin Dekha,Mohammed Rafi,BollywoodRomantic,Tumsa Nahin Dekha,,0.0
+Sau Aasmaan,"Armaan Malik, Neeti Mohan",BollywoodDance,Baar Baar Dekho,,0.0
+Woh Chand Jaisi Ladki,Udit Narayan,BollywoodRomantic,Devdas,,0.0
+Lets Rock Soniye,"Shaan, Tulsi Kumar",BollywoodDance,Bhool Bhulaiyaa,,0.0
+Dhayaan Chand,"Amit Trivedi, Nikhita Gandhi, Suhas Sawant, Vijay Yamla",BollywoodDance,Manmarziyaan,,0.0
+Senorita (Remix),"Abhay Deol, Farhan Akhtar, Hrithik Roshan",BollywoodDance,Zindagi Na Milegi Dobara,,0.0
+Kabira,"Rekha Bhardwaj, Tochi Raina",BollywoodSad,Yeh Jawaani Hai Deewani,,0.0
+Tu Hai,"A.R. Rahman, Sanah Moidutty",BollywoodRomantic,Mohenjo Daro,,0.0
+Woh Lamhe Woh Baatein,Atif Aslam,BollywoodSad,Zeher,,0.0
+Mohabbat Nasha Hai,"Neha Kakkar, Tony Kakkar",BollywoodSad,Hate Story 4,,0.0
+Ayaashi,K.K.,BollywoodDance,Badmaash Company,,0.0
+Ishqe Di Lat,Ankit Tiwari,BollywoodRomantic,Junooniyat,,0.0
+Lo Safar,Jubin Nautiyal,BollywoodRomantic,Baaghi 2,,0.0
+Dheemi Dheemi,Hariharan,BollywoodRomantic,1947: Earth,,0.0
+Desi Girl,"Shankar Mahadevan, Sunidhi Chauhan, Vishal Dadlani",BollywoodDance,Dostana,,0.0
+Badlapur,Multiple,BollywoodDance,Badlapur,,0.0
+Dua,"Kailash Kher, Marianne D'cruz Aiman, Sukhwinder Sing",BollywoodDance,Kurbaan,,0.0
+Mora Gora Ang Laile,Lata Mangeshkar,BollywoodRomantic,Bandini,,0.0
+Zindagi Kuch Toh Bata,Jubin Nautiyal,Bollywood,Bajrangi Bhaijaan,,0.0
+O Saathi,"Atif Aslam, Payal Dev",BollywoodRomantic,Baaghi 2,,0.0
+Dariya Ho,"Monali Thakur, Shadab Faridi",BollywoodDance,Kamaal Dhamaal Malamaa,,0.0
+Prem Jogan Ban Ke,Ustad Bade Ghulam Ali,BollywoodSad,Mughal-E-Azam,,0.0
+Saad Shukrana,Ankit Tiwari,BollywoodRomantic,Mr. X,,0.0
+Meri Nazren Hasin Hai Ki Tum,Asha Bhosle,BollywoodRomantic,Ek Musafir Ek Hasina,,0.0
+Tu Hi Tu,Ayushman Khurana,BollywoodRomance,Nautanki Saala,,0.0
+Agg Lage Aaj Kal De Fashion Nu,"Hard Kaur, Labh Janjua",BollywoodDance,Haal-E-Dil,,0.0
+Mummy Kasam,"Gurinder Seagal, Payal Dev",BollywoodDance,Nawabzaade,,0.0
+Aakhon Aakhon,Yo Yo Honey Singh,BollywoodDance,Bhaag Johnny,,0.0
+Tik Tuk,"Daler Mehndi, Monali Thakur, Vishal Dadlani",BollywoodDance,Rascals,,0.0
+Shanana Na,"Abhijeet, Alka Yagnik, Ayub, Dabboo Malik, Jordy Patel, Sriijiit",BollywoodDance,Maine Dil Tujhko Diya,,0.0
+Behti Hawa Sa Tha Woh,"Shaan, Shantanu Moitra",BollywoodSad,3 Idiots,,0.0
+Lucky Boy,"Hard Kaur, Raja Hassan, Sunidhi Chauhan",BollywoodDance,Bachna Ae Haseeno,,0.0
+Challa,Rabbi Shergill,BollywoodDance,Jab Tak Hai Jaan,,0.0
+Jab Chaye Tera Jadoo,Kanika Kapoor,BollywoodDance,Main Aur Charles,,0.0
+Kay Sera Sera,"Kavita Krishnamurthy, Shankar Mahadevan",BollywoodDance,Pukar,,0.0
+Yadaan Teriyaan,Rahat Fateh Ali Khan,Bollywood,Hero,,0.0
+Theher Ja (Remix),Armaan Malik,BollywoodRomantic,October,,0.0
+Mere Khwabon Ka,Udit Narayan,BollywoodRomantic,Jism,,0.0
+Poore Chand,Shail Hada,BollywoodRomantic,Goliyon Ki Rasleela Ram-leela,,0.0
+Ek Tha Tiger Mashup,Multiple,BollywoodDance,Ek Tha Tiger,,0.0
+You Are My Soniya,"Alka Yagnik, Sonu Nigam",BollywoodDance,Kabhi Khushi Kabhie Gham,,0.0
+Shabe Firaq,"Himesh Reshammiya, Tulsi Kumar",BollywoodDance,Chup Chup Ke,,0.0
+Tenu Le Ke,"Mahalakshmi Iyer, Sonu Nigam",BollywoodDance,Salaam-E-Ishq,,0.0
+Peh Gaya Khalara,"Akanksha Bhandari, Akasa Singh, Divya Kumar, Jasleen Royal",BollywoodDance,Fukrey Returns,,0.0
+Hamdam Mere,"Asha Bhosle, Mohammed Rafi",BollywoodDance,Phir Wohi Dil Laya Hoon,,0.0
+Maine Tere Liye,Mukesh,BollywoodDance,Anand,,0.0
+Miss India Martee Mujhpe,"Adnan Sami, Amit Kumar",BollywoodDance,Dhamal,,0.0
+Thug Le,"Sweta Pandit, Vishal Dadlani",BollywoodDance,Ladies Vs Ricky Bahl,,0.0
+Tera Fitoor,Arijit Singh,BollywoodRomantic,Genius,,0.0
+Every Night & Day,"Himesh Reshammiya, Iulia Vantur",BollywoodDance,Aap Se Mausiiquii,,0.0
+Kabhi Alvida Naa Kehna Title Track,"Alka Yagnik, Sonu Nigam",BollywoodRomanticSad,Kabhi Alvida Naa Kehna,,0.0
+Do Dilon Ke,"Hariharan, Shreya Ghoshal",BollywoodPatrioticSad,Partition 1947,,0.0
+Phir Bhi Tumko Chaahunga,"Arijit Singh, Shashaa Tirupati",BollywoodSad,Half Girlfriend,,0.0
+Dhadak Title Track,"Ajay Gogavale, Shreya Ghoshal",BollywoodRomantic,Dhadak,,0.0
+Sweeta,Adnan Sami,BollywoodDance,Kill Dil,,0.0
+Pee Paa Pee Paa,Diljit Dosanjh,BollywoodDance,Tere Naal Love Ho Gaya,,0.0
+Pukarta Chala Hoon Main,Mohammed Rafi,Bollywood,Mere Sanam,,0.0
+Sanam Teri Kasam (Reprise),"Mohammed Irfan, Palak Muchhal",BollywoodSad,Sanam Teri Kasam,,0.0
+Kaun Hai Woh,"Alisha Chinai, Udit Narayan",BollywoodDance,Ishq Vishk,,0.0
+Saadi Galli Aaja (Remix),Ayushman Khurana,BollywoodDance,Nautanki Saala,,0.0
+Gore Gore Se,Alka Yagnik,BollywoodDance,Hum Tum,,0.0
+Binte Dil,Arijit Singh,BollywoodDance,Padmaavat,,0.0
+Aap Ki Kashish,Himesh Reshammiya,BollywoodRomantic,Aashiq Banaya Aapne,,0.0
+Aaja Mahiya,"Alka Yagnik, Udit Narayan",BollywoodDance,Yaadein,,0.0
+Tera Noor,Jyoti Nooran,Bollywood,Tiger Zinda Hai,,0.0
+Ay Sakhi,"Aanchal Sethi, Chinmayi Sripaada, Madhushree, Vaishali Samant",Bollywood,Raanjhanaa,,0.0
+Pyar De Pyar Le,"Dev Negi, Ikka, Iulia Vantur",BollywoodDance,Genius,,0.0
+Tumse Pyar Ho Gaya,"Mili Nair, Neeti Mohan",BollywoodDance,Shaadi Ke Side Effects,,0.0
+Haath Chhute Bhi,Jagjit Singh,BollywoodSad,Pinjar,,0.0
+Fukraa,"Hard Kaur, Jazzy B",BollywoodDance,Rush,,0.0
+Race Saanson Ki,"Neeraj, Sunidhi Chauhan",BollywoodDance,Race,,0.0
+Soch Na Sake,"Amaal Mallik, Arijit Singh, Tulsi Kumar",BollywoodRomantic,Airlift,,0.0
+Toh Phir Aao,Mustafa Zahid,BollywoodSad,Awarapan,,0.0
+Kehdoon Tumhen,"Asha Bhosle, Kishore Kumar",BollywoodRomantic,Deewaar,,0.0
+Aila Re Aila,Daler Mehndi,BollywoodDance,Khatta Meetha,,0.0
+Rafta Rafta Medley,"Akash Ojha, Disha Sharma, Jordi Patel, Rekha, Sonakshi Sinha, Vishal Mishra",BollywoodDance,Yamla Pagla Deewana Phir Se,,0.0
+Dil Ka Qaraar,"Shraddha Pandit, Sonu Nigam",BollywoodRomantic,Sangharsh,,0.0
+Dekho Nashe Mein,"K.K., Shaan, Sunidhi Chauhan",BollywoodDance,Race,,0.0
+Kuch Din,Jubin Nautiyal,BollywoodRomantic,Kaabil,,0.0
+Mein Sharabi,Yo Yo Honey Singh,BollywoodDance,Cocktail,,0.0
+Ankhiyaan,Kanika Kapoor,BollywoodSad,Do Lafzon Ki Kahani,,0.0
+Neele Neele Ambar par,Kishore Kumar,BollywoodDance,Kalaakaar,,0.0
+Girl I Need You,"Arijit Singh, Roach Killa",BollywoodRomantic,Baaghi,,0.0
+Sanam Teri Kasam,Ankit Tiwari,BollywoodRomantic,Sanam Teri Kasam,,0.0
+Bholi Si Surat,"Lata Mangeshkar, Udit Narayan",BollywoodRomantic,Dil To Pagal Hai,,0.0
+Zindagi Kaisi Hai Paheli,Manna Dey,BollywoodDance,Anand,,0.0
+Lovely,"Fateh, Kanika Kapoor, Miraya Varma, Ravindra Upadhyay",BollywoodDance,Happy New Year,,0.0
+Koi Aisa Alam,"Mahalakshmi Iyer, Sonu Nigam",BollywoodRomantic,Karam,,0.0
+Chogada,"Asees Kaur, Darshan Raval",BollywoodDance,Loveratri,,0.0
+Most Wanted Munda,"Earl Edgar, Meet Bros",BollywoodDance,Ki & Ka,,0.0
+Tanhayee,Sonu Nigam,BollywoodSad,Dil Chahta Hai,,0.0
+Gud Naal Ishq Mitha,"Harshdeep Kaur, Navraj Hans",BollywoodDance,Ek Ladki Ko Dekha Toh Aisa Laga,,0.0
+Ungli Pe Nachalein,"Dev Negi, Shipra Goyal",BollywoodDance,Ungli,,0.0
+Tujhko Bhulana,"Roshni Baptist, Sangeet Haldipur",BollywoodDance,Murder 2,,0.0
+Ruk Ja O Dil Deewane,Udit Narayan,BollywoodRomantic,Dilwale Dulhania Le Jayenge,,0.0
+Alvida,Mohammed Irfan,BollywoodRomantic,Luv Shv Pyar Vyar,,0.0
+Tu Hi Khwahish,Sunidhi Chauhan,BollywoodDance,Once Upon A Time In Mumbaai Dobara,,0.0
+Aise Na Mujhe Tum Dekho,Kishore Kumar,BollywoodRomantic,Darling Darling,,0.0
+Jane Kya Dhoondti Rahti Hai,Mohammed Rafi,BollywoodSad,Shola Aur Shabnam,,0.0
+Dil Kehta Hai,"Alka Yagnik, Kumar Sanu",BollywoodSad,Akele Hum Akele Tum,,0.0
+Sheher Mein,"Karthik, Mohit Chuahaan",BollywoodDance,Rockstar,,0.0
+Chor Bazari,Neeraj Shridhar,BollywoodDance,Love Aj Kal,,0.0
+Ishq Wala Love,"Neeti Mohan, Salim Merchant",Bollywood,Student of the Year,,0.0
+Hona Hai Kya,Ram Sampath,BollywoodDance,Talaash,,0.0
+Holi Khelein,"Anmol Malik, Shreya Ghoshal",BollywoodDance,Begum Jaan,,0.0
+Chal Wahan Jaate Hain,Arijit Singh,BollywoodRomantic,Heropanti,,0.0
+Gori Zara Hans De Tu Hans De,Mohammed Rafi,BollywoodDance,Asli Naqli,,0.0
+Mat Ja Re,Ankit Tiwari,BollywoodDance,Tanu Weds Manu,,0.0
+Raasleela,Sumedha Karmahe,BollywoodDance,3 Storeys,,0.0
+Beedi,"Clinton Cerejo, Nachiketa, Sukhwinder Singh, Sunidhi Chauhan",BollywoodDance,Omkara,,0.0
+Piya Aaye Na,"K.K., Tulsi Kumar",BollywoodSad,Aashiqui 2,,0.0
+Hum To Dil Chahen Tumhara,"Hema Sardesai, Kumar Sanu",BollywoodRomantic,Soldier,,0.0
+Billionaire,"Simar Kaur, Singhsta, Yo Yo Honey Singh",BollywoodDance,Baazaar,,0.0
+Hamari Adhuri Kahani,Arijit Singh,BollywoodSad,Hamari Adhuri Kahani,,0.0
+Dekho Dekho Jaanam,"Alka Yagnik, Udit Narayan",BollywoodDance,Ishq,,0.0
+Aisa Kyoon Hota Hai,Alka Yagnik,BollywoodRomantic,Ishq Vishk,,0.0
+Hasi Ban Gaye,Shreya Ghoshal,BollywoodRomantic,Hamari Adhuri Kahani,,0.0
+Humsafar,"Akhil Sachdeva, Mansheel Gujral",BollywoodRomanticSad,Badrinath Ki Dulhania,,0.0
+Dillagi Main Jo Beet Jaye,"Himesh Reshammiya, Jayesh Gandhi, Shaan, Sonu Nigam, Sunidhi Chauhan, Vasundhara Das",BollywoodDance,Aashiq Banaya Aapne,,0.0
+Sapne Mein,"Asha Bhosle, Suresh Wadkar",BollywoodDance,Satya,,0.0
+Happy Ending,"Abhijeet Sawant, Debojit Saha, Harshit Saxena",BollywoodDance,Tees Maar Khan,,0.0
+Bolo Har Har Har,"Anugrah, Badshah, Megha Sriram Dalton, Mithoon, Mohit Chauhan, Sukhwinder Singh",BollywoodDance,Shivaay,,0.0
+Bola Har Har Har,"Aaman Trikha, Badshah, Sukhwinder Singh",BollywoodDevotional,Shivaay,,0.0
+Pinjra Tod Ke,Sunidhi Chauhan,Bollywood,Simran,,0.0
+Phatte Tak Nachna,Sunidhi Chauhan,BollywoodDance,Dolly Ki Doli,,0.0
+Ishq Nachaya Kare,Sunidhi Chauhan,BollywoodDance,Karam,,0.0
+Dil Darbadar,Ankit Tiwari,BollywoodSad,PK,,0.0
+O Re Piya,Rahat Fateh Ali Khan,BollywoodSad,Aaja Nachle,,0.0
+Pyar Ko Ho Jane Do,"Kumar Sanu, Lata Mangeshkar",BollywoodRomantic,Dushman,,0.0
+Chookar Mere Man Ko,Kishore Kumar,BollywoodRomantic,Yaarana,,0.0
+Nain Na Jodeen,"Ayushmann Khurrana, Neha Kakkar, Rochak Kohli",BollywoodRomanticSad,Badhaai Ho,,0.0
+Ishq Sufiyana (Male),Kamal Khan,BollywoodRomantic,The Dirty Picture,,0.0
+O Sathiya,"Alka Yagnik, Udit Narayan",BollywoodDance,Saaya,,0.0
+Aahun Aahun,"Ashish Pandit, Jaspreet Singh, Master Saleem, Suzanne D'Mello",BollywoodDance,Love Ajkal,,0.0
+Channa Mereya,Arijit Singh,BollywoodSad,Ae Dil Hai Mushkil,,0.0
+Tujhse Kahan Judaa Hoon Main,"Himesh Reshammiya, Neeti Mohan, Vineet Singh",BollywoodSad,Genius,,0.0
+Sharabi,"Nindy Kaur, Shekhar Ravjiani, Vishal Dadlani",BollywoodDance,Happy New Year,,0.0
+O Saathi Re,"Shreya Ghoshal, Vishal Bhardwaj",BollywoodDance,Omkara,,0.0
+Shikayat Hai,Roop Kumar Rathod,BollywoodSad,Jism,,0.0
+Awara Hoon,Mukesh,BollywoodDance,Awaara,,0.0
+Chand Sitare,Kumar Sanu,BollywoodRomantic,Kaho Naa.... Pyaar Hai,,0.0
+Yeh Joker,"Shweta Pandit, Sonu Nigam",BollywoodDance,Joker,,0.0
+Mehbooba Mehbooba,"Adnan Sami, Sunidhi Chauhan",Bollywood,Ajnabee,,0.0
+Abhagi Piya Ki,"Ahmed Hussain, Kanika Kapoor, Mohammed. Hussain, Raja Hasan",BollywoodSad,Tera Intezaar,,0.0
+This Party Is Over Now,Yo Yo Honey Singh,BollywoodDance,Mitron,,0.0
+Race 2 (Mashup),Multiple,BollywoodDance,Race 2,,0.0
+ABCD,"Benny Dayal, Shefali Alvares, Yo Yo Honey Singh",BollywoodDance,Yaariyan,,0.0
+Chura Lo Dil Mera,"Kumar Sanu, Sanjivani",BollywoodRomantic,Kareeb,,0.0
+ABCD Yaariyan,"Benny Dayal, Shefali Alvares",BollywoodDance,Yaariyan,,0.0
+Thirkat Ang,Alka Yagik,Bollywood,Payal Ki Jhankaar,,0.0
+Sawan Aaya Hai (Unplugged Version),"Neha Kakkar, Tony Kakkar",BollywoodSad,Creature 3D,,0.0
+Pyaar Tune Kya Kiya,"Alka Yagnik, Sonu Nigam",BollywoodDance,Pyaar Tune Kya Kiya,,0.0
+Pinky,"Mamta Sharma, Meet Bros Anjjan",BollywoodDance,Zanjeer,,0.0
+Jigar Da Tukda,"Salim Merchant, Shraddha Pandit",BollywoodDance,Ladies Vs Ricky Bahl,,0.0
+Sanu Ek Pal Chain,Rahat Fateh Ali Khan,BollywoodRomantic,Raid,,0.0
+Tanhaiyan,"Himesh Reshammiya, Sunidhi Chauhan",BollywoodSad,Aap Kaa Surroor,,0.0
+Baarish,"Ash King, Shashaa Tirupati",BollywoodRomantic,Half Girlfriend,,0.0
+Hai Junoon,K.K.,BollywoodDance,New York,,0.0
+Apni Ulfat Pe Zamane Ka,Mukesh,BollywoodDance,Sasural,,0.0
+Ishqyaun Dhishyaun,Aditya Narayan,BollywoodRomantic,Goliyon Ki Rasleela Ram-leela,,0.0
+Let It Be,Shaan,BollywoodDance,Desi Boyz,,0.0
+Jee Karda,"Labh Janjua, Suzanne D'Mello",BollywoodDance,Singh Is Kinng,,0.0
+Jhuki Jhuki Si Nazar,Jagjit Singh,BollywoodSad,Arth,,0.0
+Holi Biraj Ma,Jubin Nautiyal,BollywoodDance,Genius,,0.0
+Gerua,"Antara Mitra, Arijit Singh",BollywoodRomantic,Dilwale,,0.0
+Seedha Saadha,Amit Mishra,BollywoodSad,Commando 2,,0.0
+Ae Dil Hai Mushkil,Arijit Singh,BollywoodSad,Ae Dil Hai Mushkil,,0.0
+Dooba Re Dooba,"Alka Yagnik, Sonu Nigam",BollywoodDance,Ishq Vishk,,0.0
+Chalo Dildar Chalo,"Himani Kapoor, Himesh Reshammiya, Vinit",BollywoodRomantic,Dil Diya Hai,,0.0
+Mallo Malli (Lehmber Hussainpuri),"Hard Kaur, Lehmber Hussainpuri",BollywoodDance,Mausam,,0.0
+Bachna Ae Haseeno,"Kishore Kumar, Sumit Kumar, Vishal Dadlani",BollywoodDance,Bachna Ae Haseeno,,0.0
+khwab jo raag de,"Rahat Fateh Ali Khan, Shankar Mahadevan",Bollywood,London Dreams,,0.0
+Jahan Teri Yeh Nazar Hai,Kishore Kumar,BollywoodDance,Kaalia,,0.0
+O Jaana Na Jaana,"Kumar Sanu, Lata Mangeshkar",BollywoodRomantic,Jab Pyar Kisisi Se Hota Hai,,0.0
+Sab Tera,"Armaan Malik, Shraddha Kapoor",BollywoodRomantic,Baaghi,,0.0
+Sau Tarah Ke,"Amit Mishra, Jonita Gandhi",BollywoodDance,Dishoom,,0.0
+Aaj Ki Party (Remix),Mika Singh,BollywoodDance,Bajrangi Bhaijaan,,0.0
+Gulabi Aankhen,Mohammed Rafi,BollywoodDanceRomantic,The Train,,0.0
+Make Some Noise For The Desi Boyz,"Bob, K.K.",BollywoodDance,Desi Boyz,,0.0
+Chak De,"Sadhana Sargam, Sonu Nigam",BollywoodDance,Hum Tum,,0.0
+Hai Re Hai Re,"Hema Sardesai, KK",BollywoodDance,Khushi,,0.0
+Khol De Baahein,Monali Thakur,BollywoodRomantic,Meri Pyaari Bindu,,0.0
+Aankhon Ne Tumhari,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Ishq Vishk,,0.0
+Black Jama Hai,Sukhwinder Singh,Bollywood,Raid,,0.0
+Allah Maaf Kare,"Shilpa Rao, Sonu Nigam",BollywoodDanceRomantic,Desi Boyz,,0.0
+Halkat Jawani,Sunidhi Chauhan,BollywoodDance,Heroine,,0.0
+Chaska,Krishna Beura,BollywoodDance,Badmaash Company,,0.0
+Khuda Hafiz Anjaani Anjaana,"Karthik, Lucky Ali, Sunitha Sarathy",BollywoodDance,Yuva,,0.0
+Aap Ki Khatir,Himesh Reshammiya,BollywoodRomantic,Aap Ki Khatir,,0.0
+O Panchhi Pyare Sanjh Sakare,Asha Bhosle,BollywoodDance,Bandini,,0.0
+Pee Loon,Mohit Chauhan,BollywoodRomance,Once Upon A Time In Mumbai,,0.0
+Jhak Maar Ke,"Harshdeep Kaur, Neeraj Shridhar",BollywoodDance,Desi Boyz,,0.0
+Naa Jaane,"Anushka Manchanda, Neeraj Shridhar",BollywoodDance,I Me Aur Main,,0.0
+Tera Rastaa Chodun Na,"Amitabh Bhattacharya, Anusha Mani",BollywoodRomantic,Chennai Express,,0.0
+Laagi Na Choote,"Arijit Singh, Shreya Ghoshal",BollywoodRomantic,A Gentleman,,0.0
+Gudgudi,Sunidhi Chauhan,Bollywood,Secret Superstar,,0.0
+Boss Title Track,"Anjjan, Meet Bros, Yo Yo Honey Singh",BollywoodDance,Boss,,0.0
+Badtameez Dil,Benny Dayal,BollywoodDance,Yeh Jawaani Hai Deewani,,0.0
+Tere Bin Nahi Laage,Uzair Jaswal,BollywoodRomanticSad,Ek Paheli Leela,,0.0
+Sooraj Dooba Hai,"Adit Singh Sharma, Arijit Singh",BollywoodDance,Roy,,0.0
+Rola Pe Gaya,"Earl D'Souza, Hard Kaur, Mahadevan, Mahalakshmi Iyer, Master Saleem, Shankar",BollywoodDance,Patiala House,,0.0
+Pal Pal Har Pal,"Shreya Ghoshal, Sonu Nigam",BollywoodRomantic,Lage Raho Munna Bhai,,0.0
+Gajanana,"Shreyas Puranik, Sukhwinder Singh",BollywoodDevotional,Bajirao Mastani,,0.0
+Suhana Safar Aur Yeh Mausam,Mukesh,BollywoodDance,Madhumati,,0.0
+Jeena Jeena,Atif Aslam,BollywoodRomanticSad,Badlapur,,0.0
+Yahi Hota Pyaar,"Himesh Reshammiya, Sunidhi Chauhan",BollywoodSad,Namastey London,,0.0
+Yeh Raat Aur Yeh Doori,"Asha Bhosle, S.P. Balasubrahmanyam",BollywoodDance,Andaz Apna Apna,,0.0
+Ajnabi,Zebunnisa Bangash,BollywoodRomantic,Madras Cafe,,0.0
+Arre Yaaro Mere Pyaaro,"Udit Narayan, Vijayeta Pandit",Bollywood,Jo Jeeta Wohi Sikander,,0.0
+Punjabi Wedding Song,"Benny Dayal, Sunidhi Chauhan",BollywoodDance,Hasee Toh Phasee,,0.0
+Mannat,"Keerthi Sagathia, Shreya Ghoshal, Sonu Nigam",BollywoodDance,Daawat e Ishq,,0.0
+Rama Re,"Shaan, Zubeen Garg",Bollywood,Kaante,,0.0
+Hoor,Atif Aslam,BollywoodSad,Hindi Medium,,0.0
+Senti Wali Mental,"Amit Trivedi, Arijit Singh, Neeti Mohan, Swanand Kirkire",BollywoodDance,Shaandaar,,0.0
+Pyar Kar,"Lata Mangeshkar, Udit Narayan",BollywoodRomantic,Dil To Pagal Hai,,0.0
+Badan Pe Sitaare,Sonu Nigam,BollywoodDanceRomantic,Fanney Khan,,0.0
+Party On My Mind,"K.K., Shefali Alvares, Yo Yo Honey Singh",BollywoodDance,Race 2,,0.0
+Anjaana Anjaani Ki Kahani,"Monali Thakur, Nikhil Dsouza",BollywoodSad,Anjaana Anjaani,,0.0
+Ghoongte Mein Chanda,Udit Narayan,BollywoodDance,Koyla,,0.0
+Behene De,"Karthik, Mohammed Irfan",BollywoodDance,Raavan,,0.0
+Kuch Toh Hua Hai,Ankit Tiwari,BollywoodRomantic,Singham Returns,,0.0
+Chammak Challo (Remix),"Akon, Hamsika Iyer",BollywoodDance,Ra-One,,0.0
+Khol De Par,Arijit Singh,Bollywood,Hichki,,0.0
+Aye Khuda,"Kshitij Tarey, Mithoon, Saim Bhat",BollywoodSad,Murder 2,,0.0
+Talli Tonight,"Deep Money, Meet Bros, Mellow D, Neha Kakkar",BollywoodDance,Veerey Ki Wedding,,0.0
+Mauja Hi Mauja,Mika Singh,BollywoodDance,Jab We Met,,0.0
+Dhokha Dhadi,Arijit Singh,BollywoodRomantic,R... Rajkumar,,0.0
+Dhoom Machale Dhoom,Aditi Singh Sharma,BollywoodDance,Dhoom 3,,0.0
+Character Dheela,"Amrita Kak, Neeraj Shridhar",BollywoodDance,Ready,,0.0
+Bhool Bhulaiyaa,Neeraj Shridhar,BollywoodDance,Bhool Bhulaiyaa,,0.0
+Ada,Sonu Nigam,BollywoodDance,Garam Masala,,0.0
+Kashmir Main Tu Kanyakumari,"Arijit Singh, Neeti Mohan, Sunidhi Chauhan",BollywoodDance,Chennai Express,,0.0
+Kaala Doreya,Neha Bhasin,Bollywood,Kaalakaandi,,0.0
+Jiya Lage Na,"Ravindra Upadhyay, Sona Mohapatra",BollywoodRomantic,Talaash,,0.0
+Bam Lahiri,Kailash Kher,BollywoodDance,Shor in the City,,0.0
+Jab Kisiki Taraf Dil,Kumar Sanu,BollywoodRomantic,Pyaar To Hona Hi Tha,,0.0
+Tareefan Remix,Badshah,BollywoodDance,Veere Di Wedding,,0.0
+Deewangi Deewangi,"Rahul Saxena, Shaan, Shreya Ghoshal, Sunidhi Chauhan, Udit Narayan",BollywoodDance,Om Shanti Om,,0.0
+Bawara Mann,"Jubin Nautiyal, Neeti Mohan",BollywoodRomantic,Jolly LLB 2,,0.0
+Asalaam-E-Ishqum,"Bappi Lahiri, Neha Bhasin",BollywoodDance,Gunday,,0.0
+Banarasiya,"Anwesshaa, Meenal Jain, Shreya Ghoshal",BollywoodRomantic,Raanjhanaa,,0.0
+Aaoge Jab Tum,Rashid Khan,BollywoodSad,Jab We Met,,0.0
+Love Mera Hit Hit,"Neeraj Shridhar, Tulsi Kumar",BollywoodDance,Billu,,0.0
+Hum Ko Tumhare Ishq Ne,Mohammed Rafi,BollywoodRomantic,Ek Musafir Ek Hasina,,0.0
+Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,BollywoodRomantic,Rab Ne Bana Di Jodi,,0.0
+Mor Bani Thanghat Kare,"Aditi Paul, Osman Mir",BollywoodDance,Ram-Leela,,0.0
+Lootnewale,"Master Saleem, Sukhwinder Singh, Vishal Bhardwaj",BollywoodDance,Matru Ki Bijlee Ka Mandola,,0.0
+Tu Zaroori,"Sharib Sabri, Sunidhi Chauhan",BollywoodRomantic,ZiD,,0.0
+Aao Bachho Tumhe Dikhaye,Kavi Pradeep,BollywoodPatriotic,Jagriti,,0.0
+Dekh Lena,"Arijit Singh, Tulsi Kumar",BollywoodRomantic,Tum Bin 2,,0.0
+Crazy Kiya Re,Sunidhi Chauhan,BollywoodDance,Dhoom 2,,0.0
+Saathiya Tune Kya Kiya,"K. S. Chithra, S.P. Balasubrahmanyam",BollywoodDance,Love,,0.0
+Bas Ek Kinng,"Hard Kaur, Jaaved Jaffrey, Neeraj Shridhar",BollywoodDance,Singh Is Kingh,,0.0
+Nakhriley,"Ali Zafar, Gulzar, Mahalakshmi Iyer, Shankar Mahadevan",BollywoodDance,Kill Dil,,0.0
+The Padman Song,Mika Singh,BollywoodDance,Padman,,0.0
+Gela Gela Gela,"Adnan Sami, Sunidhi Chauhan",BollywoodDance,Aitraaz,,0.0
+Tu Milade,Ankit Tiwari,BollywoodDance,All is Well,,0.0
+Wheres the Party Tonight,"Loy Mendonsa, Shaan, Shankar Mahadevan, Vasundhara Das",BollywoodDance,Kabhi Alvida Naa Kehna,,0.0
+Sach Hue Sapne Apne,Asha Bhosle,BollywoodDance,Kala Bazar,,0.0
+Chak Lein De,Kailash Kher,BollywoodMotivational,Chandni Chowk To China,,0.0
+Helicopter,"Neha Kakkar, Tony Kakkar",BollywoodDance,Ranchi Diaries,,0.0
+Ab Mujhe Koi,Rekha Bhardwaj,BollywoodSad,Ishqiya,,0.0
+Tera Hi Karam,Pankaj Awasthi,BollywoodSad,Karam,,0.0
+Kaara Fankaara,"A.R. Rahman, Aaryan Dinesh Kanagaratnam, Ashima Mahajan, Hard Kaur, Kaly, Paroma Dasgupta, Shashaa Tirupati",BollywoodDance,Ok Jaanu,,0.0
+Rabba Meray Haal Da Mehram Tu,"Amit Mishra, Sumeet Anand",BollywoodDevotional,Guest In London,,0.0
+Dil Ko Aaya Sukoon,"Hiral Brahmbhatt, Rahat Fateh Ali Khan",Bollywood,Rangrezz,,0.0
+Tu Chahiye,Atif Aslam,BollywoodRomantic,Bajrangi Bhaijaan,,0.0
+Tooh,"Mamta Sharma, Mika Singh, Shekhar, Vishal",BollywoodDance,Gori Tere Pyaar Mein,,0.0
+Meri Ada Bhi,"Rahat Fateh Ali Khan, Tulsi Kumar",BollywoodDanceRomantic,Ready,,0.0
+Sunn Raha Hai (Male),Ankit Tiwari,BollywoodSad,Aashqui 2,,0.0
+Hey Shona,"Shaan, Sunidhi Chauhan",BollywoodDanceRomantic,Tara Rum Pum,,0.0
+Le Gayi,Asha Bhosle,BollywoodDance,Dil Toh Pagal Hai,,0.0
+Hans Mat Pagli,"Shreya Ghoshal, Sonu Nigam",BollywoodRomantic,Toilet Ek Prem Katha,,0.0
+Toota Jo Kabhi Tara,"Atif Aslam, Sumedha Karmahe",BollywoodSad,A Flying Jatt,,0.0
+Dancing Jodi,"Labh Janjua, Sunidhi Chauhan",BollywoodDance,Rab Ne Bana Di Jodi,,0.0
+Galla Goriyan  Aaja Soniye,"Kanika Kapoor, Mika Singh",BollywoodDance,Baa Baa Black Sheep,,0.0
+Ek Mulaqat,Jubin Nautiyal,BollywoodRomanticSad,Sonali Cable,,0.0
+Piya Piya O Piya,"Pinky, Prashant, Preeti",BollywoodDance,Har Dil Jo Pyar Karega,,0.0
+Chot Dil Pe Lagi,"Alisha Chinai, Kumar Sanu",BollywoodRomantic,Ishq Vishk,,0.0
+Pyaar Ki Ek Kahani,"Shreya Ghosal, Sonu Nigam",BollywoodDanceRomantic,Krrish,,0.0
+Mujhe Raat Din Bas,Sonu Nigam,BollywoodRomantic,Sangharsh,,0.0
+Dhingana,Mikha Singh,BollywoodDance,Raees,,0.0
+Dil Ka Koi Tukda,"Hariharan, Kavita Krishnamurthy",BollywoodSad,Kya Kehna,,0.0
+Ji Huzoori,"Deepali, Mithoon",BollywoodRomantic,Ki & Ka,,0.0
+Krazzy 4,Vishal Dadlani,BollywoodDance,Krazzy 4,,0.0
+Jai Govinda Jai Gopala,Neeraj Shridhar,BollywoodDance,Bullett Raja,,0.0
+Ainvayi Ainvayi,"Salim Merchant, Sunidhi Chauhan",BollywoodDance,Band Baaja Baaraat,,0.0
+Baarish (Atif Aslam),Atif Aslam,BollywoodRomantic,Half Girlfriend,,0.0
+Tu Meri (Remix),Vishal Dadlani,BollywoodDance,Bang bang,,0.0
+Shuru Kar,"Amit Mishra, Neha Bhasin, Rochak Kohli",BollywoodDance,Aiyaary,,0.0
+Titliyan,Sunidhi Chauhan,BollywoodDance,Rocky Handsome,,0.0
+O O Jaane Jaana,Kamaal khan,BollywoodDance,Pyaar Kiya To Darna Kya,,0.0
+Khair Mangda,Atif Aslam,BollywoodSad,A Flying Jatt,,0.0
+Zara Zara Touch Me,Monali Thakur,BollywoodDanceSensual,Race,,0.0
+Kudi Gujarat Di,"Akasa Singh, Jasbir Jassi, Sonia Sharma",BollywoodDance,Sweetiee Weds NRI,,0.0
+Small Town Girl,"Himani Kapoor, Shekhar Ravjiani, Sukhwinder Singh",BollywoodDance,Bachna Ae Haseeno,,0.0
+Waada Raha Sanam,"Abhijeet, Alka Yagnik",BollywoodDanceRomantic,Khiladi,,0.0
+One Two Three Four,"Hamsika Iyer, Vishal Dadlani",BollywoodDance,Chennai Express,,0.0
+Barso Re,Shreya Ghoshal,BollywoodDance,Guru,,0.0
+Besharmi Ki Height (Remix),"Benny Dayal, Shalmali Kholgade",BollywoodDance,Main Tera Hero,,0.0
+Shaam Shaandaar,Amit Trivedi,BollywoodDance,Shaandaar,,0.0
+Jhumritalaiyya,"Arijit Singh, Mohan Kanan",BollywoodDance,Jagga Jasoos,,0.0
+Mujhko Barsaat Bana Lo,Armaan Malik,BollywoodRomantic,Junooniyat,,0.0
+Bang Bang,"Benny Dayal, Neeti Mohan",BollywoodDance,Bang bang,,0.0
+Dil Mera Churaya Kyun,Kumar Sanu,BollywoodSad,Akele Hum Akele Tum,,0.0
+Hookah Bar (Remix),"Aman Trikha, Himesh Reshammiya, Vineet Singh",BollywoodDance,Khiladi 786,,0.0
+Jaana Ve,Arijit Singh,BollywoodRomantic,Aksar 2,,0.0
+Aaya Tere Dar Par,"Ahmed Hussain, Javed Hussain, Mohd Vakil, Mohd. Hussain",BollywoodDevotional,Veer Zaara,,0.0
+Katiya Karun,Harshdeep Kaur,BollywoodDance,Rockstar,,0.0
+Manwa Laage,"Arijit Singh, Shreya Ghoshal",BollywoodRomantic,Happy New Year,,0.0
+Bewajah,Himesh Reshammiya,BollywoodSad,Sanam Teri Kasam,,0.0
+Namak Paare,"Anupam Amod, Mamta Sharma",BollywoodDance,Raja Natwarlal,,0.0
+Aadat (Juda Hoke Bhi),Atif Aslam,BollywoodSad,Kalyug,,0.0
+Dhup Chik,"Badshah, Raftaar",BollywoodDance,Fugly,,0.0
+Kismat Se Tum Hum Ko Mile,"Anuradha Paudwal, Sonu Nigam",BollywoodSad,Pukar,,0.0
+Nagada Nagada,"Javed Ali, Sonu Nigam",BollywoodDance,Jab We Met,,0.0
+Hummein Tummein Jo Tha,"Palak Muchhal, Papon",BollywoodSad,Raaz Reboot,,0.0
+Thoda Thoda Pyar,Sunidhi Chauhan,BollywoodDance,Love Aj Kal,,0.0
+Kaun Hai Jo Sapnon Mein Aaya,Mohammed Rafi,BollywoodRomantic,Jhuk Gaya Aasman,,0.0
+Pak Chik Pak,"Anand, Jolly Mukherjee, Vinod Rathod",BollywoodDanceRomantic,Raja Babu,,0.0
+Jab Tumhein Aashiqui Maloom,Kumar Sanu,BollywoodRomantic,Ajnabee,,0.0
+Dil Diwana,Sonu Nigam,BollywoodDance,Jawani Diwani,,0.0
+Aye Manya,"Adnan Sami, Shaan",BollywoodDance,Shootout at Wadala,,0.0
+Foolishq,"Armaan Malik, Shreya Ghoshal",BollywoodRomantic,Ki & Ka,,0.0
+Teri Tamanna,"KK, Shilpa Rao, Zubeen Garg",BollywoodDance,The Train,,0.0
+Mann Ki Lagan,Rahat Fateh Ali Khan,BollywoodSad,Paap,,0.0
+Naraaz Savera Hai,Kumar Sanu,BollywoodSad,Sangharsh,,0.0
+Hip Hip Huraah,Sonu Kakkar,BollywoodDance,Mere Dad Ki Maruti,,0.0
+Yaad Teri Yaad,"Abhijeet Sawant, Shreya Ghoshal",BollywoodDance,Jawani Diwani: A Youthful Joyride,,0.0
+Aap Aye To Khayal,Mahendra Kapoor,BollywoodRomantic,Gumrah,,0.0
+O Mere Majhi Mere Sajan Hai,S. D. Burman,BollywoodSad,Bandini,,0.0
+Alcoholic,Yo Yo Honey Singh,BollywoodDance,The Shaukeens,,0.0
+Mujhpe Har Haseena,"Alisha Chinai, Kumar Sanu, Sonu Nigam",BollywoodDance,Ishq Vishk,,0.0
+Ye Awaaz Hai,Monali Thakur,BollywoodSad,Indu Sarkar,,0.0
+Ek Tu Hi Bharosa,Lata Mangeshkar,BollywoodDevotional,Pukar,,0.0
+O Haseena Zulfonwale Jane Jahan,"Asha Bhosle, Mohammed Rafi",BollywoodDance,Teesri Manzil,,0.0
+Sufi Salam,Rahat Fateh Ali Khan,BollywoodRomantic,Tishnagi,,0.0
+Salaam Namaste,"Kunal Ganjawala, Vasundhara Das",BollywoodDance,Salaam Namaste,,0.0
+Aaur Main Khush Hoon,Ash King,BollywoodDance,Kahaani 2,,0.0
+Jai Ho Tiltle Song,"Armaan Malik, Wajid",BollywoodDance,Jai Ho,,0.0
+Aap Ki Ankhon Mein Kuch,"Kishore Kumar, Lata Mangeshkar",BollywoodRomantic,Ghar,,0.0
+Happy Budday,"Shankar Mahadevan, Sukhwinder Singh",BollywoodDance,Kill Dil,,0.0
+Mujhse Shaadi Karogi,"Sonu Nigam, Sunidhi Chauhan, Udit Narayan",BollywoodDance,Mujhse Shaadi Karogi,,0.0
+Jiya Maine Jiya,"Alka Yagnik, Udit Narayan",BollywoodRomantic,Khushi,,0.0
+Muh Meetha Kara De,"Benny Dayal, Monali Thakur",BollywoodDance,Rabba Main Kya Karoon,,0.0
+Bhaag Milky Bhaag,"Sanam Puri, Sonu Kakkar",BollywoodDance,Running Shaadi,,0.0
+Jiya Dhadak Dhadak Jaye,Rahat Fateh Ali Khan,BollywoodRomantic,Kalyug,,0.0
+Ye Mera Dil Pagal Hai,"Asha Bhosle, S.P. Balasubrahmanyam",BollywoodDance,Gardish,,0.0
+Yeh Jo Halki Halki Khumariya,Rahat Fateh Ali Khan,BollywoodRomantic,Son of Sardaar,,0.0
+Sanam Tum Jahan Mera Dil Wahan,Asha Bhosle,BollywoodDance,Kaalia,,0.0
+Aayi Re Aayi Re Khushi,Sunidhi Chauhan,BollywoodDance,Khushi,,0.0
+Tere Dil Ka Rishta,Sonu Nigam,BollywoodRomantic,Koi Aap Sa,,0.0
+Babuji Zara Dheere Chalo,Sonu Kakkar,BollywoodDance,Dum,,0.0
+Aankhon Aankhon (Remix),Yo Yo Honey Singh,BollywoodDance,Bhaag Johnny,,0.0
+Raitaa Phail Gayaa,Divya Kumar,BollywoodDance,Shaandaar,,0.0
+Shikdum,"Shaan, Shreya Ghoshal",BollywoodDanceRomantic,Dhoom,,0.0
+Mere Buddy,"Amitabh Bachchan, Armaan Malik",BollywoodDance,Bhoothnath,,0.0
+In Lamhon Ke Daaman Mein,Javed Ali,BollywoodRomantic,Jodha Akbar,,0.0
+Mera Yaar Mila De,A.R. Rahman,BollywoodSad,Saathiya,,0.0
+Idhar Chala Mein Udhar Chala,"Alka Yagnik, Udit Narayan",BollywoodDance,Koi Mil Gaya,,0.0
+Dil Tadap Tadap Ke Kah Raha,"Lata Mangeshkar, Mukesh",BollywoodRomantic,Madhumati,,0.0
+Desi Romance,"Arijit Singh, Suchi",BollywoodDance,Shaadi Ke Side Effects,,0.0
+Chahe Zubaan,Sonu Nigam,BollywoodRomantic,Dil Hai Tumhaara,,0.0
+Peer Manava,"Shraddha Pandit, Sukhwinder Singh",BollywoodDance,Black & White,,0.0
+Dekho Dekho Dil Ye Bole,"Adnan Sami, Shaan",BollywoodDance,Dhamaal,,0.0
+Ishq Vishq,"Kamaal khan, Sunidhi Chauhan, Suzanne D'Mello",BollywoodRomantic,Wanted,,0.0
+Mere Dushman Mere Bhai,Hariharan,BollywoodSad,Border,,0.0
+Mehfil Mein Bar Bar,"Alka Yagnik, Kumar Sanu",BollywoodDance,Soldier,,0.0
+Koi Mil Gaya,"K. S. Chithra, Udit Narayan",BollywoodRomantic,Koi Mil Gaya,,0.0
+Kaahe Chhed,"Kavita Krishnamurthy, Madhuri Dixit, Pandit Birju Maharaj",BollywoodDance,Devdas,,0.0
+Namak,"Rakesh Pandit, Rekha Bhardwaj",BollywoodDance,Asoka,,0.0
+Chhote Chhote Peg (Remix),"Navraj Hans, Neha Kakkar, Yo Yo Honey Singh",BollywoodDance,Sonu Ke Titu Ki Sweety,,0.0
+Lakhon Hain Nigahon Mein,Mohammed Rafi,BollywoodDance,Phir Wohi Dil Laya Hoon,,0.0
+Aashiyana,Salim Merchant,BollywoodDance,Fashion,,0.0
+Dil Dil Deewana,"Alka Yagnik, Udit Narayan",BollywoodDance,Har Dil Jo Pyar Karega,,0.0
+Moh Moh Ke Dhaage (Female),Monali Thakur,BollywoodRomance,Dum Laga Ke Haisha,,0.0
+Jalebi Bai,Sunidhi Chauhan,BollywoodDance,Double Dhammal,,0.0
+Hum To Bhai Jaise Hain,Lata Mangeshkar,BollywoodDance,Veer Zaara,,0.0
+Chhupana Bhi Nahin Aata,Vinod Rathod,BollywoodRomantic,Baazigar,,0.0
+Bawla Sa Sapna,"Chorus, Diva",BollywoodDance,Shaadi Ke Side Effects,,0.0
+Chaudhvin Ka Chand,Mohammed Rafi,BollywoodRomantic,Chaudhvin Ka Chand,,0.0
+Na Jane Kahan Tum The,"Manna Dey, Suman Kalyanpur",BollywoodRomantic,Zindagi Aur Khwab,,0.0
+Tere Bina,Rahat Fateh Ali Khan,BollywoodRomantic,Tezz,,0.0
+Falak Dekhun,Sonu Nigam,BollywoodDance,Garam Masala,,0.0
+Deewana Main Chala,Udit Narayan,BollywoodDance,Pyaar Kiya To Darna Kya,,0.0
+Banda Parwar,Mohammed Rafi,BollywoodDance,Phir Wohi Dil Laya Hoon,,0.0
+Aisa Deewana,Sonu Nigam,BollywoodRomantic,Dil Maange More,,0.0
+Kai Baar Yun Bhi Dekha Hai,Mukesh,BollywoodRomantic,Rajnigandha,,0.0
+Bhangra Bistar,"Alisha Chinoy, Hard Kaur, Sunidhi Chauhan",BollywoodDance,Dil Bole Hadippa!,,0.0
+Mehboob Mere,"Alka Yagnik, Sukhwinder Singh",BollywoodDance,Biwi No.1,,0.0
+O Re Kaharo,"Altamash Faridi, Kalpana Patowary",BollywoodSad,Begum Jaan,,0.0
+All The Best,"Antara Mitra, Rana, Soham",BollywoodDance,All The Best,,0.0
+Raju Chacha,"Francis Menezes, Jatin-Lalit, Sehar, Shaan, Shraddha Pandit, Shweta Pandit, Sneha Pant",BollywoodDance,Raju Chacha,,0.0
+Jatt Jaguar,"Apeksha Dandekar., Navraj Hans, Vishal Dadlani",BollywoodDance,Mubarakan,,0.0
+Mere Angne Mein,Amitabh Bachchan,BollywoodDance,Laawaris,,0.0
+Dil Samander,"K.K., Sunidhi Chauhan",BollywoodDance,Garam Masala,,0.0
+Dance Basanti (Remix),"Anushka Manchanda, Vishal Dadlani",BollywoodDance,Ungli,,0.0
+Bahut Pyar Karte Hai (Male Version),S.P. Balasubrahmanyam,BollywoodDance,Saajan,,0.0
+Tonight,Suman Sridhar,BollywoodRomantic,Love Ka The End,,0.0
+Talli,"Anmol Malik, Hard Kaur, Mika Singh",BollywoodDance,Ugly Aur Pagli,,0.0
+Na Main Dhan Chahun,"Geeta Dutt, Sudha Malhotra",BollywoodSad,Kala Bazar,,0.0
+Sukh Karta (Ganpati Aarti),Amit Mishra,BollywoodDevotional,Atithi Tum Kab Jaoge,,0.0
+Vadiya,Amit Trivedi,BollywoodDance,Udta Punjab,,0.0
+Ranga Re,Shreya Ghoshal,BollywoodDance,Tutak Tutak Tutiya,,0.0
+Aye Zindagi Gale Lagaa Le,Suresh Wadkar,BollywoodRomantic,Sadma,,0.0
+Humka Peeni Hai,"Master Saleem, Shabab Sabri, Wajid",BollywoodDance,Dabangg,,0.0
+Humka Peeni Hai Peeni,"Master Saleem, Shabab Sabri",BollywoodDance,Dabangg,,0.0
+Sunny Sunny (Remix),"Neha Kakkar, Yo Yo Honey Singh",BollywoodDance,Yaariyan,,0.0
+Surmayee Ankhiyon Mein,"Ilaiyaraaja, K.J. Yesudas",BollywoodRomantic,Sadma,,0.0
+Mohabbat Ke,"Himesh Reshammiya, Tulsi Kumar",BollywoodDance,Aksar,,0.0
+Aisa Jadoo,Sunidhi Chauhan,BollywoodDance,Khakee,,0.0
+Dum Dum Diga Diga,Mukesh,BollywoodDance,Chhalia,,0.0
+Meri Aawargi,Himesh Reshammiya,BollywoodDance,Good Boy Bad Boy,,0.0
+Engine Ki Seeti,"Resmi Sateesh, Sunidhi Chauhan",BollywoodDance,Khoobsurat,,0.0
+Pyaar Se Pyaar,Abhijeet,BollywoodDance,Raaz,,0.0
+Mehfooz,Yasser Desai,BollywoodRomanticSad,Tera Intezaar,,0.0
+Chikni Chameli,Shreya Ghoshal,BollywoodDance,Agneepath,,0.0
+Zor Ka Jhatka Haye (Remix),"Master Saleem, Richa Sharma",BollywoodDance,Action Replayy,,0.0
+Beech Beech Mein,"Arijit Singh, Shalmali Kholgade, Shefali Alvares",BollywoodDance,Jab Harry Met Sejal,,0.0
+Right Now Now,"Sunidhi Chauhan, Suzanne D'Mello, Wajid",BollywoodDance,Housefull 2,,0.0
+Saanwali Si Ek Ladki,Udit Narayan,BollywoodRomantic,Mujhse Dosti Karoge!,,0.0
+Tum Itna Jo Muskura Rahe Ho,Jagjit Singh,BollywoodRomantic,Arth,,0.0
+Tujhse Naaraz Nahi Zindagi,Anup Ghoshal,BollywoodSad,Masoom,,0.0
+Kisi Se Pyar Ho Jaye,Jubin Nautiyal,BollywoodDanceRomantic,Kaabil,,0.0
+Badnaamiyan,Armaan Malik,BollywoodRomantic,Hate Story 4,,0.0
+Pyar Ke Liye,Alka Yagnik,BollywoodRomantic,Dil Kya Kare,,0.0
+Chad Gayi Hai,"Jigar, Sachin Sanghvi, Vishal Dadlani",BollywoodDance,Gold,,0.0
+Tu Tu Hai Wahi,"Asha Bhosle, Kishore Kumar",BollywoodRomantic,Yeh Vaada Raha,,0.0
+Birthday Bash,"Alfaaz, Yo Yo Honey Singh",BollywoodDance,Dilliwaali Zaalim Girlfriend,,0.0
+Hum Mar Jayenge,"Arijit Singh, Tulsi Kumar",BollywoodSad,Aashiqui 2,,0.0
+Ho Gaya Hai Tujhko To Pyar Sajna,"Lata Mangeshkar, Udit Narayan",BollywoodRomantic,Dilwale Dulhania Le Jayenge,,0.0
+Suraj Hua Maddham,"Alka Yagnik, Sonu Nigam",Bollywood,Kabhi Khushi Kabhie Gham,,0.0
+Aa Toh Sahii,"Meet Bros, Neha Kakkar",BollywoodDance,Judwaa 2,,0.0
+Bhar Do Jholi Meri,Adnan Sami,BollywoodDevotional,Bajrangi Bhaijaan,,0.0
+Dil Leke,"Shaan, Shreya Ghoshal",BollywoodDanceRomantic,Wanted,,0.0
+Badi Mushkil Hai,Abhijeet,BollywoodRomance,Anjaam,,0.0
+I Wanna Tera Ishq,"Shivangi Bhayana, Shivranjani Singh",BollywoodDance,Great Grand Masti,,0.0
+Veerey Ki Wedding,Navraj Hans,BollywoodDance,Veerey Ki Wedding,,0.0
+Tere Jaisa,"Arko, Tulsi Kumar",BollywoodRomantic,Satyameva Jayate,,0.0
+Ek Pal Ka Jeena,Lucky Ali,BollywoodDance,Kaho Naa.... Pyaar Hai,,0.0
+Bloody Hell,Sunidhi Chauhan,BollywoodDance,Rangoon,,0.0
+Ye Dosti Hum Nahi Todenge,"Kishore Kumar, Manna Dey",Bollywood,Sholay,,0.0
+Daata Tu,Shreya Ghoshal,BollywoodMotivational,Tiger Zinda Hai,,0.0
+Larki Deewani Dekho,"Sunidhi Chauhan, Udit Narayan",Bollywood,Shastra,,0.0
+Matargashti,Mohit Chauhan,BollywoodDance,Tamasha,,0.0
+Gold Tamba,Nakash Aziz,BollywoodDance,Batti Gul Meter Chalu,,0.0
+I Dont Luv U,"Monali Thakur, Neuman Pinto",BollywoodDance,I Don't Luv U,,0.0
+Bas Tu Hai,"Arijit Singh, Jonita Gandhi",BollywoodRomanticSad,3 Storeys,,0.0
+Gori Tu Latth Maar,"Palak Muchhal, Sonu Nigam",BollywoodRomantic,Toilet Ek Prem Katha,,0.0
+Yeh Mera Diwanapan Hai,Mukesh,BollywoodSad,Yahudi,,0.0
+Chandralekha,"Jonita Gandhi, Vishal Dadlani",BollywoodDance,A Gentleman,,0.0
+Tere Thumke Sapna Chaudhary,"Gunwant Sen, Khushboo Jain, Saumya Upadhyay",BollywoodDance,Nanu Ki Jaanu,,0.0
+Maar Daala,Kavita Krishnamurthy,BollywoodDance,Devdas,,0.0
+Dance Basanti,"Anushka Manchanda, Vishal Dadlani",BollywoodDance,Ungli,,0.0
+O Janiya,Neha Kakkar,BollywoodDance,Force 2,,0.0
+Ek Dil Ek Jaan,Shivam Pathak,BollywoodRomantic,Padmaavat,,0.0
+Mat Ro Mata Lal Tere,Manna Dey,BollywoodSad,Bandini,,0.0
+Sleepy Sleepy Akiyaan,"Asees Kaur, Yasser Desai",BollywoodDance,Bhaiaji Superhit,,0.0
+Sadda Move,"Diljit Dosanjh, Pardeep Singh Sran",BollywoodDance,Raabta,,0.0
+Sheila Ki Jawani,"Sunidhi Chauhan, Vishal Dadlani",BollywoodDance,Tees Maar Khan,,0.0
+Tum Ko Dekha To Yeh Khayal Aya,"Chitra Singh, Jagjit Singh",BollywoodRomantic,Saath Saath,,0.0
+Lakk Mera Hit,"Mannat Noor, Rochak Kohli, Sukriti Kakar",BollywoodDance,Sonu Ke Titu Ki Sweety,,0.0
+Radha,"Shahid Mallya, Sunidhi Chauhan",BollywoodRomantic,Jab Harry Met Sejal,,0.0
+Teri Meri Prem Kahani,"Rahat Fateh Ali Khan, Shreya Ghoshal",BollywoodSad,Bodyguard,,0.0
+Ghagra,"Rehka Bharadwaj, Vishal Dadlani",BollywoodDance,Yeh Jawaani Hai Deewani,,0.0
+Are Re Are,"Lata Mangeshkar, Udit Narayan",BollywoodDance,Dil To Pagal Hai,,0.0
+Lagdi Hai Thaai,"Guru Randhawa, Jonita Gandhi",BollywoodDance,Simran,,0.0
+Bol Do Na Zara,Armaan Malik,BollywoodRomantic,Azhar,,0.0
+Mehndi Laga Ke Rakhna,"Lata Mangeshkar, Udit Narayan",BollywoodDance,Dilwale Dulhania Le Jayenge,,0.0
+Naiyn Tere Zuke Zuke (Sad),Pamela Jain,BollywoodDance,Khelein Hum Jee Jaan Sey,,0.0
+Ittefaq Se Raat Baaki,"Jubin Nautiyal, Nikhita Gandhi",BollywoodDance,Ittefaq,,0.0
+Intezaar,Shreya Ghoshal,BollywoodSad,Tera Intezaar,,0.0
+Ek Thi Ladki Meri Saheli,Asha Bhosle,BollywoodDance,Gumrah,,0.0
+Sata Le Ae Jahan,Mukesh,BollywoodSad,Sasural,,0.0
+Happy Happy,"Aastha Gill, Badshah",Bollywood,Blackmail,,0.0
+Kasam Ki Kasam,"K. S. Chithra, Shaan",BollywoodRomanticSad,Main Prem Ki Diwani Hoon,,0.0
+Jay-Jaykara,Kailash Kher,BollywoodSad,Baahubali 2 - The Conclusion,,0.0
+O Janewale Ho Sake To Laut Ke Aana,Mukesh,BollywoodSad,Bandini,,0.0
+Nachde Ne Saare,"Harshdeep Kaur, Jasleen Royal, Siddharth Mahadevan",BollywoodDance,Baar Baar Dekho,,0.0
+Ishq Bina,"A.R. Rahman, Anuradha Sriram, Sonu Nigam, Sujatha Mohan",BollywoodRomantic,Taal,,0.0
+Afsana,"Himesh Reshammiya, Tulsi Kumar",BollywoodDance,Dil Diya Hai,,0.0
+Lipstick Laga Ke,"Payal Dev, Shaan",BollywoodDance,Great Grand Masti,,0.0
+Twist,Neeraj Shridhar,BollywoodDance,Love Aj Kal,,0.0
+Bismillah,Kailash Kher,BollywoodSad,Aazaan,,0.0
+Aa Re Pritam Pyaare,"Mamta Sharma, Sarosh Sami",BollywoodDance,Rowdy Rathore,,0.0
+Jaanu,"Juggy D, Raftaar, Shivi",BollywoodDance,Behen Hogi Teri,,0.0
+Prem Mein Tohre,Asha Bhosle,BollywoodRomantic,Begum Jaan,,0.0
+Zaalima,"Arijit Singh, Harshdeep Kaur",BollywoodDanceRomantic,Raees,,0.0
+Sawaar Loon,Monali Thakur,BollywoodDance,Lootera,,0.0
+Meri Jaaniye,"Monali Thakur, Shaan",BollywoodDance,I Me Aur Mein,,0.0
+Mere Humsafar,"Mithoon, Tulsi Kumar",BollywoodSad,All is Well,,0.0
+Sarsariya,"Shashaa Tirupati, Shashwat Singh",BollywoodRomantic,Mohenjo Daro,,0.0
+Gulaabo,"Anusha Mani, Vishal Dadlani",BollywoodDance,Shaandaar,,0.0
+Ya Ali,Zubeen Garg,BollywoodSad,Gangster,,0.0
+Gum Hai Kisi Ke Pyar Mein,"Kishore Kumar, Lata Mangeshkar",BollywoodRomantic,Raampur Ka Lakshman,,0.0
+Nonsense Ki Night,Mika Singh,BollywoodDance,Happy New Year,,0.0
+Little Little,Harrdy Sandhu,BollywoodDance,Yamla Pagla Deewana Phir Se,,0.0
+Mujhko Yaad Sataye Teri,Himesh Reshammiya,BollywoodDance,Phir Hera Pheri,,0.0
+Kuch Kuch Hota Hai,"Alka Yagnik, Udit Narayan",BollywoodRomantic,Kuch Kuch Hota Hai,,0.0
+Tere Naal Nachna,"Badshah, Sunanda Sharma",BollywoodDance,Nawabzaade,,0.0
+Tumhi Ho Bandhu,"Kavita Seth, Neeraj Shridhar",BollywoodDance,Cocktail,,0.0
+Radha Kaise Na Jale,"Asha Bhosle, Udit Narayan",BollywoodDanceRomantic,Lagaan,,0.0
+Bipasha,"Shadab Faridi, Shraddha Pandit",BollywoodDance,Jodi Breakers,,0.0
+Chodo Kal Ki Batein,Mukesh,BollywoodPatriotic,Hum Hindustani,,0.0
+Satakli,Sukhwinder Singh,BollywoodDance,Happy New Year,,0.0
+Dholida,"Neha Kakkar, Palak Muchchal, Raja Hassan, Udit Narayan",BollywoodDance,Loveratri,,0.0
+Lets Talk About Love,"Manj Musik, Neha Kakkar, Raftaar",BollywoodDance,Baaghi,,0.0
+High Rated Gabru  Nawabzaade,Guru Randhawa,BollywoodDance,Nawabzaade,,0.0
+Chand Sifarish,"Kailash Kher, Shaan",BollywoodRomantic,Fanaa,,0.0
+Nazar Se Nazar Mile,Rahat Fateh Ali Khan,BollywoodRomantic,Bollywood HeightsMiley Naa Miley Hum,,0.0
+O Saaki Saaki,"Sukhwinder Singh, Sunidhi Chauhan",BollywoodDance,Musafir,,0.0
+Mere Naam Tu,Abhay Jodhpurkar,BollywoodRomantic,Zero,,0.0
+Dum Maaro Dum,Anushka Manchanda,BollywoodDance,Dum Maaro Dum,,0.0
+Sanjh Dhali,"Asha Bhosle, Manna Dey",BollywoodRomantic,Kala Bazar,,0.0
+Dilli Wali Girlfriend,"Arijit Singh, Sunidhi Chauhan",BollywoodDance,Yeh Jawaani Hai Deewani,,0.0
+Sab Badhiya Hai,Sukhwinder Singh,BollywoodDance,Sui Dhaaga,,0.0
+Lahu Munh Lag Gaya,Shail Hada,BollywoodDance,Goliyon Ki Rasleela Ram-leela,,0.0
+Hamesha Tumko Chaha,"Kavita Krishnamurthy, Udit Narayan",BollywoodSad,Devdas,,0.0
+Dilbar,"Dhvani Bhanushali, Ikka, Neha Kakkar",BollywoodDance,Satyameva Jayate,,0.0
+Mashallah,"Shreya Ghoshal, Wajid",BollywoodDance,Ek Tha Tiger,,0.0
+Aap Ki Nazron Ne Samjha,Lata Mangeshkar,BollywoodRomantic,Anpadh,,0.0
+Yeh Vaada Raha,"Asha Bhosle, Kishore Kumar",BollywoodDance,Yeh Vaada Raha,,0.0
+Besharmi Ki Height,"Benny Dayal, Shalmali Kholgade",BollywoodDance,Main Tera Hero,,0.0
+Balma,"Rekha Bhardwaj, Sunidhi Chauhan",BollywoodDance,Pataakha,,0.0
+Hale Dil,Harshit Saxena,BollywoodRomantic,Murder 2,,0.0
+Party On My Mind (Remix),"Shefali Alvares, Yo Yo Honey Singh",BollywoodDance,Race 2,,0.0
+Lets Nacho,"Badshah, Benny Dayal",BollywoodDance,Kapoor & Sons,,0.0
+Likhe Jo Khat Tujhe,Mohammed Rafi,BollywoodDance,Kanyadaan,,0.0
+Dil Laga Na,"Jolly Mukherjee, Mahalaxmi Iyer, Soham Chakrabarthy, Sukhbir, Suzanne D'Mello",BollywoodDance,Dhoom 2,,0.0
+Kajra Re,"Alisha Chinai, Javed Ali, Shankar Mahadevan",BollywoodDance,Bunty Aur Babli,,0.0
+Akh Lad Jaaye,"Asees Kaur, Badshah, Jubin Nautiyal",BollywoodDanceRomantic,Loveratri,,0.0
+Sweetheart,Dev Negi,BollywoodDance,Kedarnath,,0.0
+Pairon Mein Bandhan Hai,"Manohar Shetty, Preetha Mazumdar, Sonali Bhatawdekar, Udbhav",BollywoodDance,Mohabbatein,,0.0
+Shut Up & Bounce,"Sunidhi Chauhan, Vishal Dadlani",BollywoodRomantic,Dostana,,0.0
+Nasha Nasha,Neha Bhasin,BollywoodDance,Daddy Cool,,0.0
+Aankhein Khuli,"Ishaan, Lata Mangeshkar, Manohar Shetty, Shweta Pandit, Sonali Bhatawdekar, Udbhav, Udit Narayan",BollywoodDance,Mohabbatein,,0.0
+Saiyaara,"Mohit Chauhan, Tarannum Malik",BollywoodSad,Ek Tha Tiger,,0.0
+Kundali,"Anita Gandharva, Meenal Jain, Meghna Mishra, Rani Kaur, Vaishnavi Mishra, Yashika Sikka, Yashita Sharma",BollywoodDance,Manmarziyaan,,0.0
+Chamma Chamma,"Arun, Ikka, Neha Kakkar, Romy",BollywoodDance,Fraud Saiyaan,,0.0
+Lage Na Mora Jiya,Lata Mangeshkar,BollywoodSad,Ghunghat,,0.0
+Kamariya,Darshan Raval,BollywoodDance,Mitron,,0.0
+Mere Khwabon Mein,Lata Mangeshkar,BollywoodRomantic,Dilwale Dulhania Le Jayenge,,0.0
+Kabhi Khushi Kabhie Gham,Lata Mangeshkar,BollywoodSad,Kabhi Khushi Kabhie Gham,,0.0
+Tera Mujhse Hai Pehle Ka Naata Koi,"Kishore Kumar, Sushma Shrestha",BollywoodRomantic,Aa Gale Lag Jaa,,0.0
+Dhating Naach,"Nakash Aziz, Neha Kakkar",BollywoodDance,Phata Poster Nikhla Hero,,0.0
+Dhai Akhar,Mohammed Irfan,BollywoodRomantic,Ishq Click,,0.0
+Zoobi Doobi,"Shreya Ghoshal, Sonu Nigam",BollywoodDanceRomantic,3 Idiots,,0.0
+Seena Pada,"Shreya Ghoshal, Udit Narayan",BollywoodSad,Saaya,,0.0
+Morey Piya,Udit Narayan,BollywoodRomantic,Devdas,,0.0
+Kahin Deep Jale Kahin Dil,Lata Mangeshkar,BollywoodSad,Bees Saal Baad,,0.0
+Jhalla Wallah,Shreya Ghoshal,BollywoodDance,Ishaqzaade,,0.0
+Baari Barsi,"Harshdeep Kaur, Salim Merchant",BollywoodDance,Band Baaja Baaraat,,0.0
+Oh My Darling,"Alisha Chinai, Sonu Nigam",BollywoodDance,Mujhse Dosti Karoge!,,0.0
+Kahan Chal Diye Idhar To Aao,Mohammed Rafi,BollywoodRomantic,Jhuk Gaya Aasman,,0.0
+Jawani Janeman,Asha Bhosle,BollywoodDance,Namak Halaal,,0.0
+Patli Kamar Hai,"Lata Mangeshkar, Mukesh",BollywoodDance,Barsaat,,0.0
+Yaad Hai Na,Arijit Singh,BollywoodRomantic,Raaz Reboot,,0.0
+Hum To Dil Se Haare,"Alka Yagnik, Udit Narayan",BollywoodSad,Josh,,0.0
+Second Hand Jawaani,"Miss Pooja, Nakkash Aziz, Neha Kakkar",BollywoodDance,Cocktail,,0.0
+Mujhse Dosti Karoge,"Alka Yagnik, Asha Bhosle, Udit Narayan",BollywoodRomantic,Mujhse Dosti Karoge!,,0.0
+Na Tum Jano Na Hum,Lucky Ali,BollywoodRomantic,Kaho Naa.... Pyaar Hai,,0.0
+Luv Letter,"Kanika Kapoor, Meet Bros",BollywoodDance,The Legend of Michael Mishra,,0.0
+Auva Auva Koi Yahan Nache,Bappi Lahiri,BollywoodDance,Disco Dancer,,0.0
+Mohe Panghat Pe,Lata Mangeshkar,BollywoodDevotional,Mughal-E-Azam,,0.0
+Tauba Main Vyaah Karke Pachtaya,"Poorvi Koutish, Shahid Malya",BollywoodDance,Shaadi Ke Side Effects,,0.0
+Aaj Zid,Arijit Singh,BollywoodSensual,Aksar 2,,0.0
+Main Hoon,Siddharth Mahadevan,BollywoodDance,Munna Michael,,0.0
+Swag Saha Nahi Jaye,"Neha Bhasin, Shadab Faridi, Sohail Sen",BollywoodDance,Happy Phirr Bhaag Jayegi,,0.0
+Haan Bhai Haan,"Amit Kumar, Anuradha Paudwal",BollywoodDance,Toofan,,0.0
+Balam Pichkari,"Shalmali Kholgade, Vishal Dadlani",BollywoodDance,Yeh Jawaani Hai Deewani,,0.0
+Dhoom Dhadakka,"Antara Mitra, Shahid Mallya",BollywoodDance,Namaste England,,0.0
+Jag Ja,Suresh Wadkar,BollywoodRomantic,Omkara,,0.0
+Piya Tu Ab To Aaja,Asha Bhosle,BollywoodDance,Caravaan,,0.0
+Ek Lo Ek Muft,Bappi Lahiri,BollywoodDance,Guru,,0.0
+Dholna,"Lata Mangeshkar, Udit Narayan",BollywoodRomantic,Dil To Pagal Hai,,0.0
+Humko Humise Chura Lo,"Lata Mangeshkar, Udit Narayan",BollywoodRomantic,Mohabbatein,,0.0
+Aaja Nachle,Sunidhi Chauhan,BollywoodDance,Aaja Nachle,,0.0
+Soni Soni,"Ishaan, Jaspinder Narula, Manohar Shetty, Pritha Majumdar, Shweta Pandit, Sonali Bhatawdekar, Udbhav, Udit Narayan",BollywoodDance,Mohabbatein,,0.0
+Neendein Khul Jaati Hain,"Kanika Kapoor, Meet Bros, Mika Singh",BollywoodDance,Hate Story 3,,0.0
+Malang,"Shilpa Rao, Siddharth Mahadevan",BollywoodDance,Dhoom 3,,0.0
+Chandan Sa Badan,Mukesh,BollywoodRomantic,Saraswatichandra,,0.0
+Dil Na Kahin Lagana,Asha Bhosle,BollywoodDance,Ghunghat,,0.0
+Aap Yun Hi Agar Humse Milte Rahe,"Asha Bhosle, Mohammed Rafi",BollywoodRomantic,Ek Musafir Ek Hasina,,0.0
+Akkad Bakkad,"Badshah, Neha Kakkar",BollywoodDance,Sanam Re,,0.0
+Rang Deni,"Kailash Kher, Mahua Kamat, Shraddha Pandit",BollywoodDance,Dev,,0.0
+Saturday,"Akriti Kakar, Badshah, Indeep Bakshi",BollywoodDance,Humpty Sharma Ki Dulhania,,0.0
+Aye Meri Zindagi  Male Version,"Shreya Ghoshal, Udit Narayan",BollywoodSad,Saaya,,0.0
+Aapka Kya Hoga,"Arun Ingle, Mika Singh, Sajid Khan, Shankar Mahadevan, Sunidhi Chauhan",BollywoodDance,Housefull,,0.0
+Hangover,"Anjjan, Meet Bros, Salman Khan, Shreya Ghoshal",BollywoodRomantic,Kick,,0.0
+Mind Blowing,Mika Singh,BollywoodDance,Veerey Ki Wedding,,0.0
+Hudd Hudd Dabangg,"Sukhwinder Singh, Wajid",BollywoodDance,Dabangg,,0.0
+Jaaneman Aah,"Aaman Trikha, Antara Mitra",BollywoodDance,Dishoom,,0.0
+Dangal,Daler Mehndi,BollywoodMotivational,Dangal,,0.0
+Jag Ghoomeya (Female),Neha Bhasin,BollywoodRomantic,Sultan,,0.0
+Madamiyan,"Mamta Sharma, Mika Singh",BollywoodDance,Tevar,,0.0
+Azmale Ye Formulae,"Abhijeet, Shraddha Pandit",BollywoodDance,Khoobsurat,,0.0
+Tan Rang Lo Ji Aaj Man Ranglo,"Lata Mangeshkar, Mohammed Rafi",BollywoodDance,Kohinoor,,0.0
+Mere Mehboob Qayamat Hogi,Kishore Kumar,BollywoodSad,Mr.X In Bombay,,0.0
+Koi Jab Tumhara Hriday Tod De,Mukesh,BollywoodSad,Purab Aur Pachim,,0.0
+Butterfly,"Aaman Trikha, Dev Negi, Jyoti Nooran, Sultana Nooran, Sunidhi Chauhan",BollywoodDance,Jab Harry Met Sejal,,0.0
+Ram Chahe Leela,Bhoomi Trivedi,BollywoodDance,Goliyon Ki Rasleela Ram-leela,,0.0
+India Wale,"K.K., Neeti Mohan, Shankar Mahadevan, Vishal Dadlani",BollywoodDance,Happy New Year,,0.0
+Teri Pyari Pyari Soorat Ko,Mohammed Rafi,BollywoodRomantic,Sasural,,0.0
+Jeevan Se Bhari Teri Ankhen,Kishore Kumar,BollywoodRomantic,Safar,,0.0
+Kuch Khaas,"Mohit Chauhan, Neha Bhasin",BollywoodDance,Fashion,,0.0
+Yeh Ladka Hai Allah,"Alka Yadnik, Udit Narayan",BollywoodDance,Kabhi Khushi Kabhie Gham,,0.0
+Chhalka Chhalka Re,"Mahalaxmi, Richa Sharma, Shoma, Vaishali",BollywoodDance,Saathiya,,0.0
+Jaane Nahi Denge Tujhe,Sonu Nigam,BollywoodSad,3 Idiots,,0.0
+Humko Tumse Pyar Hai,Abhijeet,BollywoodDance,Ishq,,0.0
+Sava Dollar (Lavni),Sunidhi Chauhan,BollywoodDance,Aiyyaa,,0.0
+Rikshe Pe Mere Tum Aa Baithe,"Asha Bhosle, Mohammed Rafi",BollywoodDance,Dil Tera Deewana,,0.0
+Aga Bhai,Monali Thakur,BollywoodDance,Aiyyaa,,0.0
+Zindagi Ki Yahi Reet Hai,Kishore Kumar,BollywoodDance,Mr. India,,0.0
+Jab Dil Miley,"Asha Bhosle, Udit Narayan",BollywoodDance,Yaadein,,0.0
+Tu Pyar Hai Kisi Aur Ka,"Anuradha Paudwal, Kumar Sanu",BollywoodSad,Dil Hai Ke Manta Nahin,,0.0
+Dil Tham Chale Hum Aaj Kidhar,Mohammed Rafi,BollywoodDance,Love In Shimla,,0.0
+Tumse Milne Ki Tamanna Hai,S.P. Balasubrahmanyam,BollywoodDance,Saajan,,0.0
+Tere Jaisa Yaar Kahan,Kishore Kumar,Bollywood,Yaarana,,0.0
+Hug Me,"Kanika Kapoor, Raghav Sachar",BollywoodDance,Beiimaan Love,,0.0
+Churao Na Dil,"Kavita Krishnamurthy, Udit Narayan",BollywoodRomantic,Deewane,,0.0
+Kal Ki Daulat Aaj Ki Khushian,Mohammed Rafi,BollywoodDance,Asli Naqli,,0.0
+Aao Raja,"Neha Kakkar, Yo Yo Honey Singh",BollywoodDance,Gabbar Is Back,,0.0
+Sau Saal Pehle,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Jab Pyar Kisi Se Hota Hai,,0.0
+Pump It (The Workout Song),"Meet Bros, Yash Narvekar",BollywoodDance,Ki & Ka,,0.0
+Haseeno Ka Deewana,"Payal Dev, Raftaar",BollywoodDance,Kaabil,,0.0
+Swag,"Brijesh Shandaliya, Pranaay",BollywoodDance,Munna Michael,,0.0
+Guest In London,"Amit Mishra, Navendu Tripathi",BollywoodDance,Guest In London,,0.0
+Andekhi Anjaani,"Lata Mangeshkar, Udit Narayan",BollywoodRomantic,Mujhse Dosti Karoge!,,0.0
+The Disco Song,"Benny Dayal, Nazia Hassan, Sunidhi Chauhan",BollywoodDance,Student of the Year,,0.0
+The Google Song,"Amaal Mallik, Armaan Malik, Neeti Mohan, Sonu Nigam, Tulsi Kumar",BollywoodDance,Mubarakan,,0.0
+Say Shava Shava,"Aadesh, Alka Yagnik, Amitabh Bachchan, Sudesh Bhosle, Sunidhi Chauhan",BollywoodDance,Kabhi Khushi Kabhie Gham,,0.0
+Khuda Bhi,Mohit Chauhan,BollywoodRomantic,Ek Paheli Leela,,0.0
+Sandese Aate Hain,"Roop Kumar Rathod, Sonu Nigam",BollywoodPatriotic,Border,,0.0
+Chennai Express Mashup,Multiple,BollywoodDance,Chennai Express,,0.0
+Aahista Aahista,"Lucky Ali, Shreya Ghoshal",BollywoodRomantic,Bachna Ae Haseeno,,0.0
+Dil Mein Sanam Ki Soorat,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Phir Teri Kahani Yaad Aayi,,0.0
+Saans,"Mohit Chauhan, Shreya Ghoshal",BollywoodRomantic,Jab Tak Hai Jaan,,0.0
+Iski Uski,"Akriti Kakar, Shahid Mallya",BollywoodDance,2 States,,0.0
+Paisa Paisa,"Manak-E, RDB, Selina",BollywoodDance,De Dana Dan,,0.0
+Do Lafzon Ki Hai Dil Ki Kahani,"Amitabh Bachchan, Asha Bhosle, Sharad Kumar",BollywoodDance,The Great Gambler,,0.0
+Aashiq Banaya Aapne,"Himesh Reshammiya, Neha Kakkar",BollywoodDance,Hate Story 4,,0.0
+Main Heroine Hoon,Aditi Singh Sharma,BollywoodDance,Heroine,,0.0
+Dance Pe Chance,"Labh Janjua, Sunidhi Chauhan",BollywoodDance,Rab Ne Bana Di Jodi,,0.0
+Love Me Love Me,"Amrita Kak, Wajid",BollywoodDance,Wanted,,0.0
+Kaun Main Haan Tum,"Alka Yagnik, Udit Narayan",BollywoodDance,Ajnabee,,0.0
+Yeh Hawa Yeh Fiza Aa Bhi Jaa,Mahendra Kapoor,BollywoodRomantic,Gumrah,,0.0
+Mere Rashke Qamar,Tulsi Kumar,BollywoodDanceSad,Baadshaho,,0.0
+Dil Dance Maare,"Sukhwinder Singh, Sunidhi Chauhan, Udit Narayan",BollywoodDance,Tashan,,0.0
+Rangtaari,"Dev Negi, Yo Yo Honey Singh",BollywoodDance,Loveratri,,0.0
+Heer Badnaam,Romy,BollywoodDanceSad,Zero,,0.0
+Jane Kahan Gayi,Mohammed Rafi,BollywoodDance,Dil Apna Aur Preet Parai,,0.0
+Girls Like To Swing,Sunidhi Chauhan,BollywoodDance,Dil Dhadakne Do,,0.0
+Tu Mera Hero,"Mika, Shefali Alvaris",BollywoodDance,Desi Boyz,,0.0
+Masoom Chehra Ye Qatil Adayen,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Dil Tera Deewana,,0.0
+Kabhi Jo Badal Barse,Arijit Singh,BollywoodRomantic,Jackpot,,0.0
+Laagi Laagi,"Himesh Reshammiya, Sunidhi Chauhan",BollywoodRomantic,Aksar,,0.0
+Kahin Se Aayi Rani  Kahin Se Aaya Raja,"Amit Kumar, Ishwari, Kavita Krishnamurthy, Shraddha Pandit, Shweta",BollywoodDance,Raju Chacha,,0.0
+Capuchino,Abhishek Nehwal,BollywoodDance,I Me Aur Main,,0.0
+Yunhi Kat Jaayega,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Hum Hai Rahi Pyaar Ke,,0.0
+Shakira,"Hard Kaur, Master Saleem, Pritam Chakraborty",BollywoodDance,No Problem,,0.0
+Tera Mera Rishta Purana,Mustafa Zahid,BollywoodSad,Awarapan,,0.0
+Ali Ali  Qawwali,"Krishna Beura, Shraddha Pandit, Vijayta Pandit",BollywoodDevotional,Deewaar,,0.0
+Bakheda,"Sukhwinder Singh, Sunidhi Chauhan",Bollywood,Toilet Ek Prem Katha,,0.0
+Yahaan Vahaan,Farhan Akhtar,BollywoodDance,Shaadi Ke Side Effects,,0.0
+Chokra Jawaan,"Sunidhi Chauhan, Vishal Dadlani",BollywoodDance,Ishaqzaade,,0.0
+Tum Mere Ho,"Amrita Singh, Jubin Nautiyal",BollywoodSensual,Hate Story 4,,0.0
+Kudiye Di Kurti,"Neuman Pinto, Shazneen Arethna, Shreya Ghoshal, Sonu Nigam",BollywoodDance,Ishkq In Paris,,0.0
+Dil Ki Kahani Rang Layee Hai,Asha Bhosle,BollywoodDance,Chaudhvin Ka Chand,,0.0
+Main Pyar Ka Rahi Hoon,"Asha Bhosle, Mohammed Rafi",BollywoodRomantic,Ek Musafir Ek Hasina,,0.0
+Chori Chori Dil Le Gaya,"Hema Sardesai, Sukhwinder Singh",BollywoodDance,Garam Masala,,0.0
+Mungda,"Jyotica Tangri, Shaan, Subhro Ganguly",BollywoodDance,Total Dhamaal,,0.0
+Raabta Tujhse Raha,Aaman Trikha,BollywoodRomantic,Yeh Hai Judgement Hanged Till Death,,0.0
+Gali Gali,Neha Kakkar,BollywoodDance,KGF,,0.0
+Nazar Bachakar Chale Gaye Woh,Mohammed Rafi,BollywoodRomantic,Dil Tera Deewana,,0.0
+Daaru Wargi,Guru Randhawa,BollywoodDance,Cheat India,,0.0
+Dil Diyan Gallan,Atif Aslam,BollywoodRomantic,Tiger Zinda Hai,,0.0
+Mr. Lova Lova,"Abhijeet, Kavita Krishnamurthy, Sudesh Bhosle, Udit Narayan, Vibha Sharma",BollywoodDance,Ishq,,0.0
+Ladka Yeh Kehta Hai,K.K.,BollywoodDance,Main Prem Ki Diwani Hoon,,0.0
+Halla Re,"Salim Merchant, Shweta Pandit",BollywoodDance,Neal 'n' Nikki,,0.0
+Yeh Tera Ghar Yeh Mera Ghar,Jagjit Singh,Bollywood,Saath Saath,,0.0
+Bekas Pe Karam Kijiye,Lata Mangeshkar,BollywoodSad,Mughal-E-Azam,,0.0
+Issaqbaazi,"Divya Kumar, Sukhwinder Singh",BollywoodDance,Zero,,0.0
+Bodyguard,"Band of Power, Salman Khan",BollywoodDance,Bodyguard,,0.0
+E  Gulbadan Phoolon Ki Mahek,Mohammed Rafi,BollywoodRomantic,Professor,,0.0
+Good Morning India,Sonu Nigam,BollywoodDance,Khushi,,0.0
+Main Tera Boyfriend,"Arijit Singh, Meet Bros, Neha Kakkar",BollywoodDance,Raabta,,0.0
+Tareefan,Badshah,Bollywood,Veere Di Wedding,,0.0
+Kabhi Tu Chalia Lagta Hai,"Lata Mangeshkar, S.P. Balasubrahmanyam",BollywoodDance,Patthar Ke Phool,,0.0
+Catch Me If U Can,Amaal Mallik,BollywoodDance,Force 2,,0.0
+Mere Sapno Ki Rani,Kishore Kumar,BollywoodDanceRomantic,Aradhana,,0.0
+Ja Ja Ja Mere Bachpan,Lata Mangeshkar,BollywoodDance,Junglee,,0.0
+Miliyo Re,"Monali Thakur, Rochak Kohli",BollywoodSad,Monsoon Shootout,,0.0
+Bol Beliya,"Siddharth Mahadevan, Sunidhi Chauhan",BollywoodDance,Kill Dil,,0.0
+Milegi Milegi,Mika Singh,BollywoodDance,Stree,,0.0
+Hum Laye Hain Toofan Se Kashti Nikal Ke,Mohammed Rafi,BollywoodPatriotic,Jagriti,,0.0
+Khalibali,Shivam Pathak,BollywoodDance,Padmaavat,,0.0
+Jeeley Yeh Lamhe,"Amit Mishra, Anupam Amod",BollywoodDance,Days Of Tafree,,0.0
+Jaane Dil Mein,"Lata Mangeshkar, Sonu Nigam",BollywoodRomantic,Mujhse Dosti Karoge!,,0.0
+Chhote Chhote Peg,"Navraj Hans, Neha Kakkar, Yo Yo Honey Singh",BollywoodDance,Sonu Ke Titu Ki Sweety,,0.0
+Rafu,Ronkini Gupta,BollywoodDance,Tumhari Sulu,,0.0
+Dil Jalon Ka Dil Jala Ke,Asha Bhosle,BollywoodDance,Zanjeer,,0.0
+Main Jahaan Rahoon,Rahat Fateh Ali Khan,BollywoodSad,Namastey London,,0.0
+Piya More,"Mika Singh, Neeti Mohan",Bollywood,Baadshaho,,0.0
+Pyaar Deewana Hota Hai,Kishore Kumar,BollywoodRomantic,Kati Patang,,0.0
+Mere Ghulam Tera,"Alka Yagnik, Udit Narayan",BollywoodDance,Laadla,,0.0
+Dreamum Wakeupum,Soumya Rai,BollywoodDance,Aiyyaa,,0.0
+Zindagi Ka Safar,Kishore Kumar,BollywoodSad,Safar,,0.0
+Balam Se Milan Hoga,Geeta Dutt,BollywoodDance,Chaudhvin Ka Chand,,0.0
+Twist Kamariya,"Altamash Faridi, Harshdeep Kaur, Tanishk Baagchi, Yasser Desai",BollywoodDance,Bareilly Ki Bafi,,0.0
+Watan Wallon Watan Na,"Alka Yagnik, Shaan",BollywoodPatriotic,Indian,,0.0
+Tujhe Dekha To,"Kumar Sanu, Lata Mangeshkar",BollywoodRomantic,Dilwale Dulhania Le Jayenge,,0.0
+Pyar Dilon Ka Mela Hai,"Alka Yagnik, Sonu Nigam",BollywoodDanceRomantic,Dulhan Hum Le Jaayenge,,0.0
+Malhari,Vishal Dadlani,BollywoodDance,Bajirao Mastani,,0.0
+Lakh Lakh,Neeraj Shridhar,BollywoodDance,Kambakkht Ishq,,0.0
+Chaar Botal Vodka (Remix),Yo Yo Honey Singh,BollywoodDance,Ragini MMS 2,,0.0
+Hai Rama,"Hariharan, Swarnalatha",BollywoodDance,Rangeela,,0.0
+Chand Si Mehbooba Ho Meri,Mukesh,BollywoodRomantic,Himalay Ki Godmein,,0.0
+Harry Is Not Bhramchari,"Ishq Bector, Jazzy B",BollywoodDance,Shaadi Ke Side Effects,,0.0
+Nach Meri Jaan,"Dev Negi, Kamaal khan, Nakash Aziz, Tushar Joshi",BollywoodDance,Tubelight,,0.0
+Wada Karo Nahi Chodoge,"Kishore Kumar, Lata Mangeshkar",BollywoodRomantic,Aa Gale Lag Jaa,,0.0
+Haseenon Ki Sawari Hai,"Mohammed Rafi, Suman Kalyanpur",BollywoodDance,Love In Shimla,,0.0
+Yeh Lucknow Ki Sar Zameen,Mohammed Rafi,BollywoodDance,Chaudhvin Ka Chand,,0.0
+Desi Beat,"Amrita Kak, Mika Singh",BollywoodDance,Bodyguard,,0.0
+The Mutton Song,Krishna Beura,BollywoodDance,Love Ka The End,,0.0
+Ole Ole,Abhijeet,BollywoodDance,Ye Dillagi,,0.0
+Kaho Na Kaho,Amir Jamal,BollywoodRomanticSensual,Murder,,0.0
+Ek Din Bik Jayega Mati Ke Mol,Mukesh,BollywoodDance,Dharam Karam,,0.0
+Pyaar Yeh Jaane Kaise,"Kavita Krishnamurthy, Suresh Wadkar",BollywoodDance,Rangeela,,0.0
+Rail Gaddi,"Navraj Hans, Swati Sharrma",BollywoodDance,Tutak Tutak Tutiya,,0.0
+Yeh Umar Hai Kya,"Asha Bhosle, Manna Dey",BollywoodDance,Professor,,0.0
+Jaane,Sunidhi Chauhan,BollywoodSad,Chameli,,0.0
+Nazrein Mili Dil Dhadka,"Alka Yagnik, Udit Narayan",BollywoodDance,Raja,,0.0
+Lovely (Remix),"Fateh, Kanika Kapoor, Miraya Varma, Ravindra Upadhyay",BollywoodDance,Happy New Year,,0.0
+Jhoka Hawa Ka Aaj Bhi,"Hariharan, Kavita Krishnamurthy",BollywoodSad,Hum Dil De Chuke Sanam,,0.0
+Ek Duje Ke Vaaste,"Hariharan, Lata Mangeshkar",BollywoodDance,Dil To Pagal Hai,,0.0
+Mausam Hai Bada Qatil,Sonu Nigam,BollywoodDance,Chup Chup Ke,,0.0
+Sweety Tera Drama,"Dev Negi, Pawni Pandey, Shraddha Pandit",BollywoodDance,Bareilly Ki Barfi,,0.0
+Prabhu Ji,Asees Kaur,BollywoodDevotional,High Jack,,0.0
+Naam Mera Premkali,Kavita Krishnamurthy,BollywoodDance,Chaalbaaz,,0.0
+Mere Mehboob Tujhe,Mohammed Rafi,BollywoodSad,Mere Mehboob,,0.0
+Jugni Peeke Tight Hai,"Divya Kumar, Kanika Kapoor, Sukriti Kakkar",BollywoodDance,Kis Kisko Pyaar Karoon,,0.0
+Ae Mohabbat Zindabad,Mohammed Rafi,BollywoodSad,Mughal-E-Azam,,0.0
+In Panchion Ko Dekh Kar,"Baby Sneha, Kavita Krishnamurthy, Shaan",BollywoodDance,Koi Mil Gaya,,0.0
+Badi Dheere Jali,Rekha Bhardwaj,BollywoodSad,Ishqiya,,0.0
+Tumsa Koi Pyaara,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Khuddar,,0.0
+Alif Zaber Aa,Mohammed Rafi,BollywoodDance,Love In Shimla,,0.0
+Tere Sang Yaara,Atif Aslam,BollywoodRomantic,Rustom,,0.0
+Pehli Baar Mile Hain,S.P. Balasubrahmanyam,BollywoodDance,Saajan,,0.0
+Ishq Vishq Pyaar Vyaar,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Ishq Vishk,,0.0
+Jab Zero Diya Mere Bharat Ne,"Mahendra Kapoor, Manhar Udhas",BollywoodPatriotic,Purab Aur Pashchim,,0.0
+In Kadmon Ke Neeche,"Alka Yagnik, Kumar Sanu",BollywoodDance,Kya Kehna,,0.0
+Mehram,Arijit Singh,BollywoodDance,Kahaani 2,,0.0
+Itni Badi Mehfil,Asha Bhosle,BollywoodDance,Dil Apna Aur Preet Parai,,0.0
+Jashna Hai Mohabbat Ka,Kumar Sanu,BollywoodDance,Hero Hiralal,,0.0
+Cutiepie,"Nakash Aziz, Pardeep Singh Sran",BollywoodDance,Ae Dil Hai Mushkil,,0.0
+Chaar Kadam,"Shaan, Shreya Ghoshal",BollywoodRomantic,PK,,0.0
+Deewani Mastani,"Ganesh Chandanshive, Shreya Ghoshal",BollywoodDance,Bajirao Mastani,,0.0
+Kabhi Main Kahon Kabhi Tu Kahe,"Hariharan, Lata Mangeshkar",BollywoodRomantic,Lamhe,,0.0
+Mera Mirza Sher Jawan,Daler Mehndi,BollywoodSad,Mirzya - Dare To Love,,0.0
+Naina Mile,"A.R. Rahman, Suzanne D'Mello",BollywoodDance,Robot,,0.0
+Saturday Saturday (Remix),"Akriti Kakar, Badshah, Indeep Bakshi, Toshi Sabri",BollywoodDance,Humpty Sharma Ki Dulhania,,0.0
+Jai Ho,Wajid,BollywoodDance,Jai Ho,,0.0
+Jaadu Tone Waaliyan,Shabab Sabri,BollywoodDance,Daawat e Ishq,,0.0
+Jab Koi Baat Bigad Jaye,"Kumar Sanu, Sadhna Sargam",BollywoodRomantic,Jurm,,0.0
+Kheench Meri Photo,"Akasa Singh, Darshan Raval, Neeti Mohan",BollywoodDance,Sanam Teri Kasam,,0.0
+Meri Zindagi Mein Ajnabee,"Kumar Sanu, Sunidhi Chauhan",BollywoodRomantic,Ajnabee,,0.0
+Bechayan Sapne,"Abhijeet Sawant, Gulraj Singh, Mahalakshmi Iyer, Sameer Khan, Shankar Mahadevan",BollywoodDance,Romance Now,,0.0
+Mera Dil Bhi Kitna Pagal Hai,"Alka Yagnik, Kumar Sanu, S.P. Balasubrahmanyam",BollywoodRomantic,Saajan,,0.0
+Sakhiya,Tulsi Kumar,BollywoodDance,Bhool Bhulaiyaa,,0.0
+Oye Oye,"Aditi Singh Sharma, Armaan Malik",BollywoodDance,Azhar,,0.0
+Ye Jo Teri Paylon Ki,"Abhijeet, Sadhana Sargam",BollywoodDance,Masoom,,0.0
+Tum Ladki Ho,"Lata Mangeshkar, S.P. Balasubrahmanyam, Shailendra Singh, Usha Mangeshkar",Bollywood,Maine Pyar Kiya,,0.0
+Aur Is Dil Mein,"Asha Bhosle, Suresh Wadkar",BollywoodSad,Imaandaar,,0.0
+Resham Ka Rumaal,"Sonia Sharma, Toshi Sabri",BollywoodDance,Great Grand Masti,,0.0
+Mohabbat,Sunidhi Chauhan,BollywoodDance,Fanney Khan,,0.0
+The Breakup Song,"Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz",BollywoodDance,Ae Dil Hai Mushkil,,0.0
+Ban Ja Rani,Guru Randhawa,BollywoodDanceRomantic,Tumhari Sulu,,0.0
+Ek Pardesi Door Se Aaya,Asha Bhosle,BollywoodSad,Gumrah,,0.0
+Good Morning,"Shannon Donald, Vishal Dadlani",Bollywood,Ek Ladki Ko Dekha Toh Aisa Laga,,0.0
+Khambe Jaisi Khadi Hai,Udit Narayan,BollywoodDanceRomantic,Dil,,0.0
+Har Har Gange,Aaman Trikha,BollywoodDance,Bhoothnath Returns,,0.0
+Chheda Mera Dil Ne Tarana,Mohammed Rafi,BollywoodDance,Asli Naqli,,0.0
+Khuda Nigheban Ho,Lata Mangeshkar,BollywoodSad,Mughal-E-Azam,,0.0
+Chugliyaan,"Javed Ali, Sahir Ali Bagga",BollywoodDance,Once Upon A Time In Mumbaai Dobara,,0.0
+Nasha,Amit Gupta,BollywoodSensual,Game Paisa Ladki,,0.0
+Kar Gayi Chull,"Badshah, Fazilpuria, Neha Kakkar, Sukriti Kakar",BollywoodDance,Kapoor & Sons,,0.0
+Main Hoon Deewana Tera,"Anjjan, Arijit Singh, Meet Bros",BollywoodDanceRomantic,Ek Paheli Leela,,0.0
+Bole Chudiyan,"Alka Yagnik, Amit Kumar, Kavita Krishnamurthy, Sonu Nigam, Udit Narayan",BollywoodDanceRomantic,Kabhi Khushi Kabhie Gham,,0.0
+Suit Suit,"Arjun, Guru Randhawa",BollywoodDance,Hindi Medium,,0.0
+Hai Hai Mirchi,"Alka Yagnik, Sukhwinder Singh",BollywoodDance,Biwi No.1,,0.0
+Mundiyan,"Navraj Hans, Palak Muchhal",BollywoodDance,Baaghi 2,,0.0
+Maine Tujhko Dekha,"Neeraj Shridhar, Sukriti Kakar",BollywoodDance,Golmaal Again,,0.0
+The Humma Song,"Badshah, Jubin Nautiyal, Shashaa Tirupati",BollywoodDance,Ok Jaanu,,0.0
+Yaad Aayee,Adnan Sami,BollywoodRomantic,Muskaan,,0.0
+Proper Patola,"Aastha Gill, Badshah, Diljit Dosanjh",BollywoodDance,Namaste England,,0.0
+Husn Parcham,"Bhoomi Trivedi, Raja Kumari",BollywoodDance,Zero,,0.0
+Bom Diggy Diggy,"Jasmin Walia, Zack Knight",BollywoodDance,Sonu Ke Titu Ki Sweety,,0.0
+Kar Doon Kamaal,"Sukhwinder Singh, Sunidhi Chauhan",BollywoodDance,Mujhse Shaadi Karogi,,0.0
+Mile Ho Tum (Reprise),"Neha Kakkar, Tony Kakkar",BollywoodRomantic,Fever,,0.0
+Dil Chori,"Ishers, Simar Kaur, Yo Yo Honey Singh",BollywoodDance,Sonu Ke Titu Ki Sweety,,0.0
+Yaariyan Mashup,Multiple,BollywoodDance,Yaariyan,,0.0
+Morni Banke,"Guru Randhawa, Neha Kakkar",BollywoodDance,Badhaai Ho,,0.0
+Bhare Bazaar,"B Praak, Badshah, Payal Dev, Vishal Dadlani",BollywoodDance,Namaste England,,0.0
+No. 1 Punjabi,"Jaspinder Narula, Sonu Nigam",BollywoodDance,Chori Chori Chupke Chupke,,0.0
+Tu Hi Re,"Armaan Malik, Shashaa Tirupati",BollywoodDance,2,,0.0
+Pallo Latke,"Fazilpuria, Jyotica Tangri, Yasser Desai",BollywoodDance,Shaadi Mein Zaroor Aana,,0.0
+Main Badhiya Tu Bhi Badhiya,"Sonu Nigam, Sunidhi Chauhan",Bollywood,Sanju,,0.0
+Tera Hua,Atif Aslam,BollywoodRomantic,Loveratri,,0.0
+Leke Pahla Pahla Pyar,"Asha Bhosle, Mohammed Rafi, Shamshad Begum.",BollywoodDance,C.I.D,,0.0
+Mohe Chedo Na,Lata Mangeshkar,BollywoodDance,Lamhe,,0.0
+Kamli,Sunidhi Chauhan,BollywoodDance,Dhoom 3,,0.0
+Raat Baaqi Baat Baaqi,"Asha Bhosle, Bappi Lahiri, Basavalingaiah Hiremath, Shashi Kapoor",BollywoodDance,Namak Halaal,,0.0
+Dil Tera Diwana,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Dil Tera Deewana,,0.0
+Party With The Bhoothnath,Yo Yo Honey Singh,BollywoodDance,Bhoothnath Returns,,0.0
+Ki Kariye Nachna Aaonda Nahin,"Hardy Sandhu, Neha Kakkar, Raftaar",BollywoodDance,Tum Bin 2,,0.0
+Laaj Sharam,"Divya Kumar, Enbee, Jasleen Royal",Bollywood,Veere Di Wedding,,0.0
+Bekhudi,"Aditi Singh Sharma, Darshan Raval",BollywoodRomantic,Teraa Surroor,,0.0
+Nagada Sang Dhol,"Osman Mir, Shreya Ghoshal",BollywoodDance,Goliyon Ki Rasleela Ram-leela,,0.0
+Jane Na Nazar Pehchane Jigar,"Lata Mangeshkar, Mukesh",BollywoodRomantic,Aah,,0.0
+Chikini Chameli (Remix),Shreya Ghoshal,BollywoodDance,Agneepath,,0.0
+Mirzya,"Akhtar Chanal Zahri, Daler Mehndi, Nooran Sisters, Sain Zahoor",BollywoodMotivational,Mirzya - Dare To Love,,0.0
+Gal Ban Gayi,"Meet Bros, Neha Kakkar, Sukhbir Singh, Yo Yo Honey Singh",BollywoodDance,Single,,0.0
+Inteha Ho Gayi Intezaar Ki,"Asha Bhosle, Bappi Lahiri",BollywoodSad,Sharaabi,,0.0
+Sheesha-E-Dil Itna Na Uchhalo,Lata Mangeshkar,BollywoodDance,Dil Apna Aur Preet Parai,,0.0
+Meher Hai Rab Di,"Khushhboo Grewal, Mika Singh",BollywoodDance,Welcome To New York,,0.0
+Tanu Weds Manu Returns (Mashup),Various,BollywoodDance,Tanu Weds Manu Returns,,0.0
+Akhiyaan Milaoon Kabhi,"Alka Yagnik, Udit Narayan",BollywoodDance,Raja,,0.0
+Gori Ghunghat Mein Mukhda,Asha Bhosle,BollywoodDance,Ghunghat,,0.0
+Daddy Mummy,"Devi Sri Prasad, M. M. Manasi",BollywoodDance,Bhaag Johnny,,0.0
+Golmaal Again Title Track,"Aditi Singh Sharma, Brijesh Shandilya",BollywoodDance,Golmaal Again,,0.0
+Mere Khwabon Mein Tu,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Gupt,,0.0
+Tumse Jo Dekhte Hi Pyar Hua,"Lata Mangeshkar, S.P. Balasubrahmanyam",BollywoodDance,Patthar Ke Phool,,0.0
+O Jogi Jab Se Tu Aaya Mere Dwar,Lata Mangeshkar,BollywoodDance,Bandini,,0.0
+Purza,Arijit Singh,BollywoodDance,Akira,,0.0
+Fake Ishq,"Altamash Faridi, Kailash Kher, Nakash Aziz",BollywoodSad,Housefull 3,,0.0
+Manma Emotion Jaage,"Amit Mishra, Antara Mitra, Anushka Manchanda",BollywoodDanceRomantic,Dilwale,,0.0
+Lapak Jhapak,"Armaan Malik, Siddharth Mahadevan, Yashita Sharma",BollywoodDance,Ghayal Once Again,,0.0
+Main Pal Do Pal Ka Shayar,Mukesh,BollywoodSad,Kabhi Kabhie,,0.0
+Madhuban Mein Radhika Nache Re,Mohammed Rafi,BollywoodDance,Kohinoor,,0.0
+Jeene Laga Hoon,Atif Aslam,BollywoodRomantic,Ramaiya Vastavaiya,,0.0
+Mili Khaak Mein Mohabbat,Mohammed Rafi,BollywoodSad,Chaudhvin Ka Chand,,0.0
+Kudiya Shehar Diyan,"Daler Mehndi, Neha Kakkar",BollywoodDance,Poster Boys,,0.0
+Main Woh Chaand,Darshan Raval,BollywoodRomanticSad,Teraa Surroor,,0.0
+Beparwah,"Nandini Deb, Siddharth Basrur",BollywoodDance,Munna Michael,,0.0
+Tattad Tattad,Aditya Narayan,BollywoodDance,Goliyon Ki Rasleela Ram-leela,,0.0
+Le Le Maza Le,"Hrishikesh Kamerkar, Nikita Nigam, Soumya Raoh, Suzanne D'Mello",BollywoodDance,Wanted,,0.0
+Aye Meri Zohra Jabeen,Manna Dey,BollywoodDance,Waqt,,0.0
+Tum Aa Gaye Ho Noor Aa Gaya Hai,"Kishore Kumar, Lata Mangeshkar",BollywoodRomantic,Aandhi,,0.0
+Zara Nazron Se Kah Do Ji,Hemant Kumar,BollywoodRomantic,Bees Saal Baad,,0.0
+Dil Ka Rishta,"Alka Yagnik, Kumar Sanu, Udit Narayan",BollywoodRomantic,Dil Ka Rishta,,0.0
+Maa Ka Phone,Priya Panchal,BollywoodDance,Khoobsurat,,0.0
+Ab Tere Bin,Kumar Sanu,BollywoodSad,Aashiqui,,0.0
+Tanha Tanha Yahan Pe Jeena,Asha Bhosle,BollywoodDance,Rangeela,,0.0
+Dilnashin Dilnashin,K.K.,BollywoodDance,Aashiq Banaya Aapne,,0.0
+Tum Saath Ho Jab Apne,"Asha Bhosle, Kishore Kumar",BollywoodDance,Kaalia,,0.0
+Bhangda Pa,"Asees Kaur, Divya Kumar, Vishal Dadlani",BollywoodDance,A Flying Jatt,,0.0
+Dhol Baaje,"Anjjan, Meet Bros, Monali Thakur",BollywoodDance,Ek Paheli Leela,,0.0
+Tere Mast Mast Do Nain,"Rahat Fateh Ali Khan, Shreya Ghoshal",BollywoodRomantic,Dabangg,,0.0
+Ajnabi Mujhko Itna Bata,"Asha Bhosle, Jatin-Lalit, Udit Narayan",BollywoodRomantic,Pyaar To Hona Hi Tha,,0.0
+Party All Night,Yo Yo Honey Singh,BollywoodDance,Boss,,0.0
+Tera Mera Pyar Amar,Lata Mangeshkar,BollywoodRomantic,Asli Naqli,,0.0
+Bebo,Alisha Chinai,BollywoodDance,Kambakkht Ishq,,0.0
+Tanha Tanha Ghum Ke Dhunde Dil,"Aditi Paul, Jubin Nautiyal",BollywoodRomantic,Dil Jo Na Keh Saka,,0.0
+Kabhi Shaam Dhale,Lucky Ali,BollywoodDance,Sur,,0.0
+Kubool Kar Le,"Amit Sana, Monali Thakur, Prajakta Shukre, Rahul Vaidya, Suzanne, Udit Narayan",BollywoodDance,Jaan-E-Mann,,0.0
+Khulke Dulke,"Gippy Grewal, Harshdeep Kaur",BollywoodDance,Befikre,,0.0
+Dil Apna Aur Preet Parai,Lata Mangeshkar,BollywoodSad,Dil Apna Aur Preet Parai,,0.0
+Tujhe Dekh Dekh,Rahat Fateh Ali Khan,Bollywood,Kalyug,,0.0
+Aaya Re,"Kunal Ganjawala, Sunidhi Chauhan",BollywoodDance,Chup Chup Ke,,0.0
+Pant Mein Gun,Diljit Dosanjh,BollywoodDance,Welcome To New York,,0.0
+Teri Yaad Dilse Bhulane Chala Hoon,Mukesh,BollywoodSad,Hariyali Aur Rasta,,0.0
+Ek Garam Chai Ki Pyali,Anu Malik,BollywoodDance,Har Dil Jo Pyar Karega,,0.0
+Koi Jaye To Le Aaye,"Alka Yagnik, Anu Malik, Shankar Mahadevan",BollywoodDance,Ghatak,,0.0
+Phir Bhi Dil Hai Hindustani,Udit Narayan,BollywoodDancePatriotic,Phir Bhi Dil Hai Hindustani,,0.0
+Jiyara Jiyara,"Alisha Chinai, Hard Kaur",BollywoodDance,Prince,,0.0
+Yaar Na Miley (Remix),"Jasmine Sandlas, Yo Yo Honey Singh",BollywoodDance,Kick,,0.0
+Jawaani Le Doobi,"Kanika Kapoor, Uvie",BollywoodDance,Kyaa Kool Hain Hum 3,,0.0
+Aisa Des Hai Mera,"Gurdas Maan, Lata Mangeshkar, Preetha Mazumdar, Udit Narayan",BollywoodPatriotic,Veer Zaara,,0.0
+Dhoom Machale,Sunidhi Chauhan,BollywoodDanceRomantic,Dhoom,,0.0
+Dil Deewana Bin Sajna Ke,S.P. Balasubrahmanyam,BollywoodDance,Maine Pyar Kiya,,0.0
+Mujhe Haq Hai,"Shreya Ghoshal, Udit Narayan",BollywoodRomantic,Vivah,,0.0
+Dil Mere,Kumar Sanu,BollywoodDance,Sooryavansham,,0.0
+Ghoomar,"K.K., Sunidhi Chauhan",BollywoodDance,Chup Chup Ke,,0.0
+Sanson Ki Zarurat Hai Jaise,Kumar Sanu,BollywoodRomantic,Aashiqui,,0.0
+Youre My Life,"Earl, Shaan, Shweta Pandit, Suzanne D'Mello",BollywoodDanceRomantic,Partner,,0.0
+Naughty Billo,"Diljit Dosanjh, Nakash Aziz, Shilpi Paul",BollywoodDance,Phillauri,,0.0
+Tujhe Jeevan Ki Dor Se,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Asli Naqli,,0.0
+Lungi Dance (Remix),Yo Yo Honey Singh,BollywoodDance,Chennai Express,,0.0
+Main To Raste Se Ja Raha Tha,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Coolie No. 1,,0.0
+Naina Re,"Himesh Reshammiya, Rahat Fateh Ali Khan, Shreya Ghoshal",BollywoodSad,Dangerous Ishq,,0.0
+Jaane Bhi De (Duet),"Sonu Nigam, Sunidhi Chauhan",BollywoodRomantic,Ishkq In Paris,,0.0
+Mohenjo Daro,"A.R. Rahman, Arijit Singh, Bela Shende, Sanah Moidutty",BollywoodDance,Mohenjo Daro,,0.0
+Chura Liya Hai,Mohammed Rafi,BollywoodRomantic,Yaadon Ki Barat,,0.0
+Humne Pee Rakhi Hai,"Ikka, Jaz Dhami, Neha Kakkar",BollywoodDance,Sanam Re,,0.0
+Pink Lips (Remix),Khushboo Grewal,BollywoodDance,Hate Story 2,,0.0
+Tu Isaq Mera,"Meet Bros, Neha Kakkar",BollywoodRomanticSensual,Hate Story 3,,0.0
+Kehta Hai Joker Sara Zamana,Mukesh,BollywoodDance,Mera Naam Joker,,0.0
+Meri Duniya Tu Hi Re,"Shaan, Shankar Mahadevan, Sonu Nigam",BollywoodDance,Heyy Babyy,,0.0
+Tinku Jiya,"Javed Ali, Mamta Sharma",BollywoodDance,Yamla Pagla Deewana,,0.0
+Yaar Naa Miley (Remix),"Jasmine Sandlas, Yo Yo Honey Singh",BollywoodDance,Kick,,0.0
+Tanha Tanha,"Aditi Paul, Jubin Nautiyal",BollywoodRomantic,Dil Jo Na Keh Saka,,0.0
+Soldier Soldier Meethi Baaten,"Alka Yagnik, Kumar Sanu",BollywoodDance,Soldier,,0.0
+Dil Ne Ye Kaha Hai Dil Se,"Alka Yagnik, Sonu Nigam",BollywoodRomanticSad,Dhadkan,,0.0
+Goron Ki Na Kalon Ki,"Suresh Wadkar, Usha Mangeshkar",BollywoodDance,Disco Dancer,,0.0
+Kya Raaz Hai,"Shreya Ghoshal, Zubeen Garg",BollywoodDance,Raaz 3,,0.0
+Teri Yaad,"Badshah, Himesh Reshammiya",BollywoodSad,Teraa Surroor,,0.0
+Tum Saanson Mein,"Himesh Reshammiya, Tulsi Kumar",BollywoodRomantic,Humko Deewana Kar Gaye,,0.0
+Mar Jaawan Mit Jaawan,"Abhijeet Sawant, Sunidhi Chauhan",BollywoodDance,Aashiq Banaya Aapne,,0.0
+Single Rehne De,"Divya Kumar, Shalmali Kholgade",BollywoodDance,Simran,,0.0
+Tum Toh Dhokabaaz Ho,"Alka Yagnik, Kumar Sanu",Bollywood,Saajan Chale Sasural,,0.0
+Is Mod Se Jaate Hain,"Kishore Kumar, Lata Mangeshkar",BollywoodRomantic,Aandhi,,0.0
+The Medley,"Lata Mangeshkar, Pamela Chopra, Sonu Nigam, Udit Narayan",BollywoodDance,Mujhse Dosti Karoge!,,0.0
+Tu Zaroorat Nahi Tu Zaroori Hai,"Gandharv Sachdev, Shreya Ghoshal",BollywoodSad,Fuddu,,0.0
+Ishq Da Sutta,"Jasmine Sandlas, Meet Bros",BollywoodDance,One Night Stand,,0.0
+Fashion Khatam Mujhpe,"Mamta Sharma, Shabab Sabri, Wajid",BollywoodDance,Dolly Ki Doli,,0.0
+Meri Bindiya Teri Nindiya,Lata Mangeshkar,BollywoodRomantic,Lamhe,,0.0
+Khali Khali Dil,"Armaan Malik, Payal Dev",BollywoodRomantic,Tera Intezaar,,0.0
+Ang Laga De,"Aditi Paul, Shail Hada",BollywoodRomanticSensual,Goliyon Ki Rasleela Ram-leela,,0.0
+Jiya Le Gayo Ji Mora Sanwariya,Lata Mangeshkar,BollywoodDance,Anpadh,,0.0
+Tum Dil Ki Dhadkan Mein,"Abhijeet, Alka Yagnik, Kumar Sanu",BollywoodRomantic,Dhadkan,,0.0
+Tu Mere Agal Bagal Hai,Mika,BollywoodDance,Phata Poster Nikhla Hero,,0.0
+Khulla Saand,Salim Merchant,BollywoodDance,Rabba Main Kya Karoon,,0.0
+Katra Katra,"Ankit Tiwari, Prakriti Kakar",BollywoodRomantic,Alone,,0.0
+Chori Chori Chupke Chupke,"Shreya Ghosal, Udit Narayan",BollywoodDanceRomantic,Krrish,,0.0
+Jhanjariya,Abhijeet,BollywoodDance,Krishna,,0.0
+Barbaad Raat,"Sanam Puri, Shalmali Kholgade",BollywoodDance,Humshakals,,0.0
+Dil Chura Le,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Dil Ka Rishta,,0.0
+Sadi Gali,Lehmber Hussainpuri,BollywoodDance,Tanu Weds Manu,,0.0
+Taang Uthake,"Mamta Sharma, Mika Singh, Neeti Mohan, Sohail Sen",BollywoodDance,Housefull 3,,0.0
+Saanson Ne,"Sonu Nigam, Tulsi Kumar",BollywoodRomantic,Dabangg 2,,0.0
+Teri Bindiya Re,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Abhimaan,,0.0
+Thori Se Jo Peeli Hai,Kishore Kumar,BollywoodDance,Namak Halaal,,0.0
+Na Jane Kahan Se,"Amit Kumar, Kavita Krishnamurthy",BollywoodDance,Chaalbaaz,,0.0
+Bumbro Bumbro,"Jaspinder Narula, Shankar Mahadevan, Sunidhi Chauhan",BollywoodDance,Mission Kashmir,,0.0
+Sultan Title Song,"Shadaab Faridi, Sukhwinder Singh",BollywoodMotivational,Sultan,,0.0
+Are Diwano Mujhe Pehchano,Kishore Kumar,BollywoodDance,Don,,0.0
+Beat Pe Booty,"Jigar Saraiya, Kanika Kapoor, Sachin Sanghvi, Vayu",BollywoodDance,A Flying Jatt,,0.0
+Disco Disco,"Benny Dayal, Shirley Setia",BollywoodDance,A Gentleman,,0.0
+Aarti (Tumre Bhavan Mein),"Kishori Gowariker, Rekha Bharadwaj, Shraddha Pandit, Sujata Majumdar",BollywoodDevotional,Delhi-6,,0.0
+Agar Tum Mil Jao,Shreya Ghoshal,BollywoodRomantic,Zeher,,0.0
+Gadbad Ho Gayee,"Amit Kumar, Jolly, Kavita Krishnamurthy",BollywoodDance,Chaalbaaz,,0.0
+Jane Kaise Kab Kahan Iqrar Ho Gaya,"Kishore Kumar, Lata Mangeshkar",BollywoodRomantic,Shakti,,0.0
+Tutak Tutak Tutiya,"Kanika Kapoor, Malkit Singh, Sonu Sood",BollywoodDance,Tutak Tutak Tutiya,,0.0
+Gal Ban Gayi (Remix),"Meet Bros, Neha Kakkar, Sukhbir, Yo Yo Honey Singh",BollywoodDance,Gal Ban Gayi,,0.0
+Ae Mere Humsafar,"Alka Yagnik, Vinod Rathod",BollywoodRomantic,Baazigar,,0.0
+Jahan Mil Jayen Chaar Yaar,"Amitabh Bachchan, Kishore Kumar",BollywoodDance,Sharaabi,,0.0
+Kahin Karti Hogi Woh Mera Intezar,Mukesh,BollywoodDance,Phir Kab Milogi,,0.0
+Haila Haila,"Alka Yagnik, Udit Narayan",BollywoodDance,Koi Mil Gaya,,0.0
+Wafa Jo Na Ki To,Asha Bhosle,BollywoodRomantic,Muqaddar Ka Sikandar,,0.0
+Tu Chale Toh,Papon,BollywoodRomantic,Qarib Qarib Singlle,,0.0
+Tadap Tadap,"Dominique, K.K.",BollywoodSad,Hum Dil De Chuke Sanam,,0.0
+Jaati Hoon Main,"Alka Yagnik, Kumar Sanu, Udit Narayan",Bollywood,Karan Arjun,,0.0
+Hawa Hawai 2.0,"Kavita Krishnamurthy, Shashaa Tirupati",BollywoodDance,Tumhari Sulu,,0.0
+Nachan Farrate,"Kanika Kapoor, Meet Bros",BollywoodDance,All is Well,,0.0
+Gallan Goodiyaan,"Farhan Akhtar, Manish Kumar Tipu, Shankar Mahadevan, Sukhwinder Singh, Yashita Sharma",BollywoodDance,Dil Dhadakne Do,,0.0
+Mat Maari,"Kunal Ganjawala, Sunidhi Chauhan",BollywoodDance,R... Rajkumar,,0.0
+Bade Miyan Chote Miyan,"Sudesh Bhosle, Udit Narayan",BollywoodDance,Bade Miyan Chote Miyan,,0.0
+Aa Aa E Ooh Ooh Ooh Mera Dil Na Todo,Abhijeet,BollywoodDance,Raja Babu,,0.0
+Action Jackson,Multiple,BollywoodDance,Action Jackson,,0.0
+Lakhon Tare Aasman Per,"Lata Mangeshkar, Mukesh",BollywoodSad,Hariyali Aur Rasta,,0.0
+Churiyan Kanak Gayee,"Ila Arun, Lata Mangeshkar, Moinuddin Manchala",BollywoodDance,Lamhe,,0.0
+Whats Up,"Jasleen Royal, Mika Singh",BollywoodDance,Phillauri,,0.0
+Roy Mashup,Multiple,BollywoodDance,Roy,,0.0
+Ishq Samundar,"Himesh Reshammiya, Kanika Kapoor",BollywoodDance,Teraa Surroor,,0.0
+Pyaar Kar,"Kavita Krishnamurthy, Shaan, Udit Narayan",BollywoodDance,Single,,0.0
+Shake Karaan,"Kanika Kapoor, Meet Bros",BollywoodDance,Munna Michael,,0.0
+Daaru Band Kal Se,"Sonu Nigam, Teesha Nigam",BollywoodDance,Singh Saab The Great,,0.0
+Udi Udi Jaye,"Bhoomi Trivedi, Karsan Sagathia, Sukhwinder Singh",BollywoodDance,Raees,,0.0
+Oonchi Hai Building,"Anu Malik, Neha Kakkar",BollywoodDance,Judwaa 2,,0.0
+Raat Ko Neend Aati Nahi,"Alka Yagnik, Amit Kumar",BollywoodRomantic,Judaai,,0.0
+Chalti Hai Kya 9 Se 12,"Dev Negi, Neha Kakkar",BollywoodDance,Judwaa 2,,0.0
+Dil Mera Ek Aas Ka Panchhi,Subir Sen,BollywoodDance,Aas Ka Panchhi,,0.0
+Rind Posh Maal,Shankar Mahadevan,BollywoodDance,Mission Kashmir,,0.0
+Tumhe Apna Banane Ka,"Armaan Malik, Neeti Mohan",BollywoodRomantic,Hate Story 3,,0.0
+Kudi Pataka Driver,"Hard Kaur, Mika Singh",BollywoodDance,Challo Driver,,0.0
+Koi Ladki Hai,"Lata Mangeshkar, Udit Narayan",BollywoodDance,Dil To Pagal Hai,,0.0
+Ankhon Se Tune Yeh Kya,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Ghulam,,0.0
+Glamorous Ankhiyaan,"Anjjan, Krishna Beura, Meet Bros",BollywoodDance,Ek Paheli Leela,,0.0
+Dil Vich Lagya,"Akriti Kakar, Kunal Ganjawala, Sonu Nigam",BollywoodDance,Chup Chup Ke,,0.0
+Loot Jayenge,"Jayesh Gandhi, Kunal Ganjawala",BollywoodDance,Aksar,,0.0
+O Jaana,"Alka Yagnik, K.K., Kamaal khan, Udit Narayan",BollywoodDanceRomantic,Tere Naam,,0.0
+Beliya,"Aditi Paul, Armaan Malik",BollywoodRomantic,Mehrunisa V Lub U,,0.0
+Hai Isi Men Pyar Ki Abroo,Lata Mangeshkar,BollywoodSad,Anpadh,,0.0
+Dhoom Dhaam,"Ankit Tiwari, Palak Muchhal",BollywoodRomantic,Action Jackson,,0.0
+Jhanjariya Meri Chanak,Alka Yagnik,BollywoodDance,Krishna,,0.0
+Ishq Chupta Nahi,Abhijeet,BollywoodRomantic,Bewafaa,,0.0
+Ishq Chupta Nahi Chupane Se,Abhijeet,BollywoodSad,Bewaffa,,0.0
+Sheila Ki Jawani (Remix),"Sunidhi Chauhan, Vishal Dadlani",BollywoodDance,Tees Maar Khan,,0.0
+Punjabi Mast,"Alamgir Khan, Ankit Tiwari, Arya Acharya, Himesh Reshammiya, Vineet Singh",BollywoodDance,Action Jackson,,0.0
+Pehli Baar,Ajay Gogavale,BollywoodRomantic,Dhadak,,0.0
+Kya Dekhte Ho Surat Tumhari,"Asha Bhosle, Mohammed Rafi",BollywoodRomantic,Qurbani,,0.0
+Hawa Hawa,"Mika Singh, Prakriti Kakkar",BollywoodDance,Mubarakan,,0.0
+Yaad Mein Teri,"Lata Mangeshkar, Mohammed Rafi",BollywoodSad,Mere Mehboob,,0.0
+Boss Entry  Theme,"Khushboo Grewal, Meet Bros, Sonu Kakkar",BollywoodDance,Boss,,0.0
+Chitta Ve,"Babu Haabi, Bhanu Pratap, Shahid Mallya",BollywoodDance,Udta Punjab,,0.0
+Main khiladi Tu Anari,"Abhijeet, Anu Malik",BollywoodDance,Main Khiladi Tu Anari,,0.0
+Insaaf Ki Dagar Pe Bachchon Dikhaao Chal Ke,Hemant Kumar,BollywoodMotivational,Gunga Jumna,,0.0
+Ae Ishq Yeh Sab Duniyawale,Lata Mangeshkar,BollywoodRomantic,Mughal-E-Azam,,0.0
+Tukur Tukur,"Arijit Singh, Kanika Kapoor, Nakash Aziz, Neha Kakkar, Siddharth Mahadevan",BollywoodDance,Dilwale,,0.0
+Teri Mehfil Mein Kismat Azmakar,"Lata Mangeshkar, Shamshad Begum.",BollywoodDance,Mughal-E-Azam,,0.0
+Mene Lagan Lagi,Jaspinder Nirula,BollywoodSad,Dil Kya Kare,,0.0
+Jalwa,"Earl, Wajid",BollywoodDance,Wanted,,0.0
+Dheere Dheere (Remix),Yo Yo Honey Singh,BollywoodDance,Dheere Dheere,,0.0
+Nashe Si Chadh Gayi,Arijit Singh,BollywoodDance,Befikre,,0.0
+Patola,Guru Randhawa,BollywoodDance,Black Mail,,0.0
+Kaddu Katega,Antara Mitra,BollywoodDance,R... Rajkumar,,0.0
+O Maa Tujhe Salaam,Jagjit Singh,BollywoodDevotional,Khal Nayak,,0.0
+Ek But Banaoonga,Mohammed Rafi,BollywoodRomantic,Asli Naqli,,0.0
+Majboor Tu Bhi Kahin,Amit Mishra,BollywoodSad,1920 - Evil Returns,,0.0
+Ek Sawal Main Karoon,"Lata Mangeshkar, Mohammed Rafi",BollywoodDance,Sasural,,0.0
+Chandni O Meri Chandni,YRF,BollywoodDance,Chandni,,0.0
+Mere Rang Mein Rangne Wali,"Asad Bhopali, S.P. Balasubrahmanyam",BollywoodRomantic,Maine Pyar Kiya,,0.0
+Baby Doll (Remix),"Kanika Kapoor, Meet Bros",BollywoodDance,Ragini MMS 2,,0.0
+Ruk Ja O Janewali Ruk Ja,Mukesh,BollywoodDance,Kanhaiya,,0.0
+Rajj Rajj Ke,"Sonakshi Sinha, Vishal Dadlani",BollywoodMotivational,Akira,,0.0
+Ram Narayan Baaja Bajaata,Udit Narayan,BollywoodDance,Saajan Chale Sasural,,0.0
+Nachange Saari Raat,"Meet Bros, Neeraj Shridhar, Tulsi Kumar",BollywoodDance,Junooniyat,,0.0
+Ghoonghat Ki Aadh Se,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Hum Hain Rahi Pyaar Ke,,0.0
+Kate Nahin Kat Te,"Alisha Chinai, Kishore Kumar",BollywoodRomantic,Mr. India,,0.0
+Tune Mari Entriyaan,"Bappi Lahiri, K.K., Neeti Mohan, Vishal Dadlani",BollywoodDance,Gunday,,0.0
+Kitne Bhi Tu Karle Sitam,Asha Bhosle,BollywoodSad,Sanam Teri Kasam,,0.0
+Baawra,"Gulzar, Nihira Joshi Deshpande, Shankar Mahadevan",BollywoodSad,Kill Dil,,0.0
+Dheere Dheere Se Meri Zindagi Mein Aana,"Anuradha Paudwal, Kumar Sanu",Bollywood,Aashiqui,,0.0
+Dil To Bachcha Hai,Rahat Fateh Ali Khan,BollywoodRomantic,Ishqiya,,0.0
+Chamakti Shaam Hai,"Alka Yagnik, Sonu Nigam",BollywoodDance,Yaadein,,0.0
+Rote Hue Ate Hain Sab,Kishore Kumar,BollywoodDance,Muqaddar Ka Sikandar,,0.0
+Jai Mata Di,"Alamgir Khan, Javed Ali",BollywoodDevotional,Nanu Ki Jaanu,,0.0
+Chicken Kuk Doo Koo,"Mohit Chauhan, Palak Muchhal",BollywoodDance,Bajrangi Bhaijaan,,0.0
+Chaar Shanivaar,"Armaan Malik, Badshah, Vishal Dadlani",BollywoodDance,All is Well,,0.0
+More Haji Piya,Amjad Farid Sabri,BollywoodDevotional,Halla Bol,,0.0
+Jis Gali Mein Tera Ghar,Mukesh,BollywoodRomantic,Kati Patang,,0.0
+Dhik Ta Na Na  Duet,"Poornima, Udit Narayan",BollywoodRomantic,Laadla,,0.0
+Mera Piya Ghar Aaya,Kavita Krishnamurthy,BollywoodDance,Yaraana,,0.0
+London Thumakda,"Labh Janjua, Neha Kakkar, Sonu Kakkar",BollywoodDance,Queen,,0.0
+Will You Marry me,"Divya Kumar, Jonita Gandhi",BollywoodDance,Bhoomi,,0.0
+Rocket Saiyyan,"Brijesh Shandilya, Ritu Pathak, Tanishk Baagchi",BollywoodDance,Shubh Mangal Saavdhan,,0.0
+Yaar Na Miley,"Jasmine Sandlas, Yo Yo Honey Singh",BollywoodDance,Kick,,0.0
+Usne Bola Kem Che,"Bali Brahmbhatt, Sunidhi Chauhan",BollywoodDance,Jis Desh Main Ganga Rehta Hai,,0.0
+Jal Rahin Hain,Kailash Kher,Bollywood,Bahubali - The Beginning,,0.0
+Khoye Khoye Din Hain,"Anuradha Paudwal, Sonu Nigam",BollywoodDance,Hum Tumhare Hain Sanam,,0.0
+Kashmir Ki Kali Hoon Main,Lata Mangeshkar,BollywoodRomantic,Junglee,,0.0
+Aye Watan Aye Watan,"Jaspinder Narula, Sukhwinder Singh, Udit Narayan",BollywoodPatriotic,Hindustan Ki Kasam,,0.0
+Tere Bina Zindagi Se Koi Shikwa To Nahin,"Kishore Kumar, Lata Mangeshkar",BollywoodSad,Aandhi,,0.0
+Dola Re Dola,"K.K., Kavita Krishnamurthy, Shreya Ghoshal",BollywoodDance,Devdas,,0.0
+Madamji Go Easy,"Benny Dayal, David Klyton",BollywoodDance,Hichki,,0.0
+Daiya Daiya Daiya Re,Alka Yagnik,BollywoodDanceRomantic,Dil Ka Rishta,,0.0
+Ek Dilruba Hai,Udit Narayan,BollywoodDanceRomantic,Bewafaa,,0.0
+Saiyaan Superstar,Tulsi Kumar,BollywoodDance,Ek Paheli Leela,,0.0
+Sexy Baby Girl,"Lil Golu, Swati Sharma",BollywoodDance,Tera Intezaar,,0.0
+Love Tujhe Love Main Karta,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Barsaat,,0.0
+Aap Ka Aana Dil Dhadkana,"Alka Yagnik, Kumar Sanu",BollywoodDance,Kurukshetra,,0.0
+Jhalak Dikhla Ja,Himesh Reshammiya,BollywoodDance,Aksar,,0.0
+High Heels Te Nachche (Remix),"Aditi Singh Sharma, Jaz Dhami, Meet Bros",BollywoodDance,Ki & Ka,,0.0
+Sadda Dil Vi Tu,Hard Kaur,BollywoodDance,ABCD - Any Body Can Dance,,0.0
+Dard Karaara,"Kumar Sanu, Sadhana Sargam",BollywoodRomantic,Dum Laga Ke Haisha,,0.0
+Savaiyaa  Chhota Sa Saajan,"Aparnaa Bhaagwat, Suresh Wadkar",BollywoodDance,Vivah,,0.0
+Tera Mera Milna,"Himesh Reshammiya, Shreya Ghoshal",BollywoodSad,Aap Kaa Surroor,,0.0
+Menu Kehn De,Himesh Reshammiya,BollywoodSad,Aap Se Mausiiquii,,0.0
+440 Volt,Mika Singh,BollywoodDance,Sultan,,0.0
+Mashallah (Remix),"Shreya Ghoshal, Wajid",BollywoodDance,Ek Tha Tiger,,0.0
+Kabhi Kisi Ki Khushian Koi Loote Na,Mukesh,BollywoodSad,Zindagi Aur Khwab,,0.0
+Sara Zamana,Kishore Kumar,BollywoodDance,Yaarana,,0.0
+Saree Ke Fall Sa,"Antara Mitra, Nakash Aziz",BollywoodDance,R... Rajkumar,,0.0
+Tare Hain Barati,"Jaspinder Narula, Kumar Sanu",BollywoodDance,Virasat,,0.0
+Jeeye To Jeeye Kaise (Duet Version),"Anuradha Paudwal, Kumar Sanu, S.P. Balasubrahmanyam",BollywoodRomantic,Saajan,,0.0
+Nanga Punga Dost,Shreya Ghoshal,BollywoodDance,PK,,0.0
+Dhin Tak Dhin Tak,Jaspinder Narula,BollywoodRomantic,Bade Miyan Chote Miyan,,0.0
+Beat It Bijuriya,"Asees Kaur, Renesa Baadchi",BollywoodDance,Munna Michael,,0.0
+Main Hoon No 1 Gawaiya,"Kunal Ganjawala, Satyanarayan, Satyanarayan Mishra, Vinod Rathod",Bollywood,Saajan Chale Sasural,,0.0
+Baby Doll,"Anjjan, Kanika Kapoor, Meet Bros",BollywoodDance,Ragini MMS 2,,0.0
+Galat Baat Hai,"Javed Ali, Neeti Mohan",BollywoodDanceRomantic,Main Tera Hero,,0.0
+O Soniye Dil Jaaniye,"Alka Yagnik, Kumar Sanu, Sonu Nigam",BollywoodRomantic,Kya Kehna,,0.0
+Jab Se Tumko Dekha,"Asha Bhosle, Kishore Kumar",BollywoodRomantic,Kaalia,,0.0
+Hum Nahi Sudhrenge,Armaan Malik,BollywoodDance,Golmaal Again,,0.0
+Its Magic,Taz,BollywoodDance,Koi Mil Gaya,,0.0
+Des Rangila,Mahalaxmi Iyer,BollywoodDancePatriotic,Fanaa,,0.0
+Naam Hai Mera,Neeti Mohan,BollywoodRomanticSad,Hate Story 4,,0.0
+Mujhe Kitna Pyar Hai Tumse,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Dil Tera Deewana,,0.0
+Aye Watan Tere Liye,"Kavita Krishnamurthy, Mohammad Aziz",BollywoodPatriotic,Karma,,0.0
+Badan Juda Hote Hain,"Falguni Pathak, Kumar Sanu",Bollywood,Koyla,,0.0
+Its All About Tonight,"Rahul Vaidya, Sophie Choudry, Sunidhi Chauhan",BollywoodDance,Ishkq In Paris,,0.0
+Ibn-E-Batuta,Mika Singh,BollywoodDance,Ishqiya,,0.0
+Love Is A Waste Of Time,"Shreya Ghoshal, Sonu Nigam",BollywoodDance,PK,,0.0
+Chuee Muee,"Asha Bhosle, Mohammed Aziz",BollywoodRomantic,Himmat Aur Mehanat,,0.0
+Main Adhoora,"Aakanksha Sharma, Yasser Desai",BollywoodSad,Beiimaan Love,,0.0
+Dagabaaz Re,"Rahat Fateh Ali Khan, Shreya Ghoshal",BollywoodRomantic,Dabangg 2,,0.0
+Teen Patti,Salim Merchant,BollywoodDance,Teen Patti,,0.0
+Jiska Koi Nahin,Manna Dey,BollywoodMotivational,Laawaris,,0.0
+Hare Krishna Hare Ram,"Armaan Malik, Ritika",BollywoodDance,Commando 2,,0.0
+Ram Kare Aisa Ho Jaye,Mukesh,BollywoodRomantic,Milan,,0.0
+Dhaakad,Raftaar,Bollywood,Dangal,,0.0
+Neela Aasman So Gaya,Amitabh Bachchan,BollywoodRomantic,Silsila,,0.0
+Dhoondo Dhoondo Re Sajna,Lata Mangeshkar,BollywoodRomantic,Gunga Jumna,,0.0
+Dushman Dil Ka Jo,Kavita Krishnamurthy,BollywoodDance,Roop Ki Rani Choron Ka Raja,,0.0
+Kaun Kisi Ko Baandh Saka,Mohammed Rafi,BollywoodDance,Kaalia,,0.0
+Dekhiye Aji Jaaneman,"Alka Yagnik, Udit Narayan",BollywoodRomantic,Kya Kehna,,0.0
+Salamat Rahe Dostana Hamara,"Kishore Kumar, Mohammed Rafi",Bollywood,Dostana,,0.0
+Shirdi Wale Sai Baba,Mohammed Rafi,BollywoodDevotional,Amar Akbar Anthony,,0.0
+Zulf Ki Chhaon Mein,"Asha Bhosle, Mohammed Rafi",BollywoodRomantic,Phir Wohi Dil Laya Hoon,,0.0
+Pehla Pehla Pyar,S.P. Balasubrahmanyam,BollywoodRomantic,Hum Aapke Hain Koun,,0.0
+Shanivaar Raati,"Arijit Singh, Shalmali Kholgade",BollywoodDance,Main Tera Hero,,0.0
+Tu Mujhe Suna,"Nitin Mukesh, Suresh Wadkar",BollywoodRomantic,Chandni,,0.0
+Swag Se Swagat,"Neha Bhasin, Vishal Dadlani",BollywoodDance,Tiger Zinda Hai,,0.0
+Aha Aha,Falguni Pathak,BollywoodRomantic,Na Tum Jaano Na Hum,,0.0
+Lakh Chhupao Chhup Na Sakega,Lata Mangeshkar,BollywoodDance,Asli Naqli,,0.0
+Tum Par Hum Hai Atke Yaara,"Kavita Krishnamurthy, Kumar Sanu",BollywoodDance,Pyaar Kiya To Darna Kya,,0.0
+Aaj Ki Party,Mika Singh,BollywoodDance,Bajrangi Bhaijaan,,0.0
+Main Hoon Roop Ki Rani,Kavita Krishnamurthy,BollywoodDance,Roop Ki Rani Choron Ka Raja,,0.0
+Sajna Mein Teri Tu Mera,"Anuradha Paudwal, Vipin Sachdeva",BollywoodRomantic,Beta,,0.0
+Chamak Challo Chel Chabeli,"Kumar Sanu, Shreya Ghoshal",Bollywood,Rowdy Rathore,,0.0
+Saawan Mein Lag Gayi Aag,Mika Singh,BollywoodDance,Woodstock Villa,,0.0
+Kitni Hasrat Hain Humein,"Kumar Sanu, Sadhana Sargam",BollywoodRomantic,Sainik,,0.0
+Taiyabali Pyar Ka Dushman,Javed Ali,BollywoodDance,Once Upon A Time In Mumbaai Dobara,,0.0
+Gore Mukhde Pe Zulfa Di Chaava,"Aaman Trikha, Shabab Sabri, Shreya Ghoshal",BollywoodDance,Special 26,,0.0
+Is Pyar Se Meri Taraf Na Dekho,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Chamatkar,,0.0
+Ooh La La,"Bappi Lahiri, Shreya Ghoshal",BollywoodDance,The Dirty Picture,,0.0
+Sawan Ka Mahina,"Lata Mangeshkar, Mukesh",BollywoodRomantic,Milan,,0.0
+Meri Shaadi Karvado,"Sapna Awasthi Singh, Udit Narayan",BollywoodDance,Jis Desh Mein Ganga Rehta Hai,,0.0
+Tandoori Nights,"Himesh Reshammiya, Sunidhi Chauhan",BollywoodDance,Karzzz,,0.0
+Patthar Ke Sanam,Mohammed Rafi,BollywoodSad,Patthar Ke Sanam,,0.0
+Na Na Karte Pyar,Alka Yagnik,BollywoodDanceRomantic,Dhadkan,,0.0
+Jumme Kie Raat Hai (Remix),"Mika Singh, Palak Muchhal",BollywoodDance,Kick,,0.0
+Ae Bhai Zara Dekh Ke Chalo,Manna Dey,BollywoodDance,Mera Naam Joker,,0.0
+Yeh Mera Dil Yaar Ka Diwana,Asha Bhosle,BollywoodDance,Don,,0.0
+Laila,"Anand Raaj Anand, Mika Singh, Sunidhi Chauhan",BollywoodDance,Shootout at Wadala,,0.0
+Baat Ban Jaaye,"Priya Saraiya, Siddharth Basrur",BollywoodDanceRomantic,A Gentleman,,0.0
+Trippy,"Himesh Reshammiya, Neha Kakkar",BollywoodDance,Aap Se Mausiiquii,,0.0
+De De Pyaar De,Kishore Kumar,BollywoodDance,Sharaabi,,0.0
+Cheez Badi,"Neha Kakkar, Udit Narayan",BollywoodDance,Machine,,0.0
+Laila O Laila,"Amit Kumar, Kanchan",BollywoodDance,Qurbani,,0.0
+Hum Badi Door Chale Aaye,"Shraddha Pandit, Sonu Nigam",BollywoodRomantic,Sangharsh,,0.0
+Khullam Khulla Pyaar Karen,"Jojo Mukherjee, Sunidhi Chauhan",BollywoodDance,Khullam Khulla Pyaar Karen,,0.0
+Ullu ka Pattha,"Arijit Singh, Nikhita Gandhi",Bollywood,Jagga Jasoos,,0.0
+Tune Maari Entriyaan (Bangla Version),"Bappi Lahiri, Monali Thakur",BollywoodDance,Gunday,,0.0
+Mujse Shaadi Karogi,"Alka Yagnik, Kumar Sanu, Shankar Mahadevan, Suresh Wadkar",BollywoodRomantic,Dulhan Hum Le Jayenge,,0.0
+Laila Majnu,"Javed Ali, Monali Thakur",BollywoodDance,Awesome Mausam,,0.0
+Rimjhim Ke Tarane Leke Aai Barsaat,"Geeta Dutt, Mohammed Rafi",BollywoodRomantic,Kala Bazar,,0.0
+Wajah Tum Ho,Armaan Malik,BollywoodRomanticSensual,Hate Story 3,,0.0
+Aaja Aaja Re Tujhko,"Asha Bhosle, Mahendra Kapoor",BollywoodRomantic,Gumrah,,0.0
+Is Pal Ki Soch,Harshdeep Kaur,BollywoodDance,Halla Bol,,0.0
+Tanhai Tanhai,"Alka Yagnik, Udit Narayan",BollywoodDance,Koyla,,0.0
+Chaar Botal Vodka,Yo Yo Honey Singh,BollywoodDance,Ragini MMS 2,,0.0
+Pal Pal Dil Ke Paas,Kishore Kumar,BollywoodRomantic,Blackmail,,0.0
+Selfie Le Le Re,"Badshah, Nakash Aziz, Pritam, Vishal Dadlani",BollywoodDance,Bajrangi Bhaijaan,,0.0
+Fevicol Se,"Keerthi Sagathia, Mamta Sharma, Shadab Faridi, Uvie, Wajid",BollywoodDance,Dabangg 2,,0.0
+Jeena Yahan Marna Yahan,Mukesh,BollywoodSad,Mera Naam Joker,,0.0
+Chaar Dina Ki,"Imran Khan, Pankaj Kapur, Prem Dehati",BollywoodDance,Matru Ki Bijlee Ka Mandola,,0.0
+Tishnagi,"Dev Negi, Sunidhi Chauhan",BollywoodSensual,Tishnagi,,0.0
+Jane Kahan Gaye Woh Din,Mukesh,BollywoodSad,Mera Naam Joker,,0.0
+Na Na Na Re,"Daler Mehndi, Sudesh Bhonsle",BollywoodDance,Mrityudaata,,0.0
+Khel Wohi Phir Aaj Tu Khela,Kavita Krishnamurthy,BollywoodDance,Nigahen,,0.0
+Tera Bemar Mera Dil,"Kavita Krishnamurthy, Mohammad Aziz",BollywoodDance,Chaalbaaz,,0.0
+Ishq Ki Galee,"Jayesh Gandhi, Rahat Fateh Ali Khan",BollywoodSad,Bollywood HeightsMilenge Milenge,,0.0
+Badle Badle Mere Sarkar,Lata Mangeshkar,BollywoodSad,Chaudhvin Ka Chand,,0.0
+Mujhse Mohabbat Ka,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Hum Hain Rahi Pyaar Ke,,0.0
+Dil Mein Dard Sa Jaga Hai,"Alka Yagnik, Udit Narayan",BollywoodDance,Kranti,,0.0
+Kaabil Hoon,"Jubin Nautiyal, Palak Muchhal",BollywoodRomantic,Kaabil,,0.0
+Anarkali Disco Chali,"Mamta Sharma, Sukhwinder Singh",BollywoodDance,Housefull 2,,0.0
+Bichdann,Rahat Fateh Ali Khan,BollywoodSad,Son of Sardaar,,0.0
+Saajan Saajan,"Alka Yagnik, Kumar Sanu, Udit Narayan",BollywoodDanceRomantic,Dil Ka Rishta,,0.0
+Jalte Diye,"Anwesshaa, Harshdeep Kaur, Shabab Sabri, Vineet Singh",BollywoodRomantic,Prem Ratan Dhan Payo,,0.0
+Tujhe Yaad Na Meri Aayee,"Alka Yagnik, Manpreet Akhtar, Udit Narayan",BollywoodSad,Kuch Kuch Hota Hai,,0.0
+Chhoti Chhoti Raatein,"Anuradha Paudwal, Sonu Nigam",BollywoodDanceRomantic,Tum Bin,,0.0
+Palat Tera Hero Idhar Hai,Arijit Singh,BollywoodDanceRomantic,Main Tera Hero,,0.0
+Meri Wafayen Yaad Karoge,"Asha Bhosle, Kumar Sanu",BollywoodSad,Sainik,,0.0
+Jaaneman Jaane Jaan,"Alka Yagnik, Sonu Nigam",BollywoodDance,Kya Kehna,,0.0
+Dil Mein Baji Pyar Ki Shehnaiyan,Lata Mangeshkar,BollywoodDance,Kohinoor,,0.0
+Hai Dil,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Dil Ka Rishta,,0.0
+Dil Na Diya,Kunal Ganjawala,BollywoodDance,Krrish,,0.0
+Bum Mein Dum,Aaman Trikha,BollywoodDance,Shaukeen Kaminay,,0.0
+Assalaam Vaalekum,Himesh Reshammiya,BollywoodDance,Aap Kaa Surroor,,0.0
+Aashiq Surrender Hua,"Amaal Mallik, Shreya Ghoshal",BollywoodDance,Badrinath Ki Dulhania,,0.0
+Hum Pyaar Hai Tumhare,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Haan Maine Bhi Pyaar Kiya,,0.0
+Munni Badnam Hui,"Aishwarya, Mamta Sharma",BollywoodDance,Dabangg,,0.0
+Aankh Marey,"Kumar Sanu, Mika Singh, Neha Kakkar",BollywoodDance,Simmba,,0.0
+Tu Roop Ki Rani Main Choron Ka Raja,"Lata Mangeshkar, Talat Mahmood",BollywoodDance,Roop Ki Rani Choron Ka Raja,,0.0
+Chhad Zid Karna,"Anuradha Paudwal, Udit Narayan",BollywoodDance,Pyaar Kiya To Darna Kya,,0.0
+Kitaben Bahut Si,"Asha Bhosle, Vinod Rathod",BollywoodDance,Baazigar,,0.0
+Paas Woh Aane Lage,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Main Khiladi Tu Anari,,0.0
+Khatam Kahani,"Jyoti Nooran, Sultana Nooran, Vishal Mishra",Bollywood,Qarib Qarib Single,,0.0
+Ham The Jinke Sahare,Lata Mangeshkar,BollywoodSad,Safar,,0.0
+Manva Likes To Fly,Shalmali Kholgade,BollywoodDance,Tumhari Sulu,,0.0
+The Dirty Mashup,Multiple,BollywoodDance,Single,,0.0
+Rang Birangi Rakhee Lekar,Lata Mangeshkar,BollywoodDance,Anpadh,,0.0
+Sexy Baliye,Mika Singh,BollywoodDance,Dil Chahta Hai,,0.0
+Naina Lad Jaihen,Mohammed Rafi,BollywoodDance,Gunga Jumna,,0.0
+Chal Akela Chal Akela,Mukesh,BollywoodDance,Sambandh,,0.0
+Pandey Jee Seeti,"Mamta Sharma, Shreya Ghoshal, Wajid",BollywoodDance,Dabangg 2,,0.0
+Kaise Piya Se,Lata Mangeshkar,BollywoodRomantic,Bewafaa,,0.0
+Hum Tumhare Hain Sanam,"Anuradha Paudwal, Udit Narayan",BollywoodRomantic,Hum Tumhare Hain Sanam,,0.0
+Apni Bhi Kya Zindagi Hai,Mukesh,BollywoodSad,Aas Ka Panchhi,,0.0
+Yeh Desh Hai Veer Jawanon Kaa,Mohammed Rafi,BollywoodPatriotic,Naya Daur,,0.0
+Heeriye,"Deep Money, Meet Bros, Neha Bhasin",BollywoodDanceRomantic,Race 3,,0.0
+Abhi Abhi,K.K.,BollywoodRomanticSad,Jism 2,,0.0
+Yeh Mera Prem Patra,Mohammed Rafi,BollywoodRomantic,Sangam,,0.0
+Dard Dilo Ke  (Reprise),Mohammed Irfan,BollywoodDance,The Xpose,,0.0
+I Am A Disco Dancer,Bappi Lahiri,BollywoodDance,Disco Dancer,,0.0
+Tere Ishq Mein Naachenge,"Alisha Chinai, Kumar Sanu, Sapna Mukharji",BollywoodDance,Raja Hindustani,,0.0
+Photocopy,"Himesh Reshammiya, Keerthi Sagathia, Palak Muchhal",BollywoodDance,Jai Ho,,0.0
+Aaja Shaam Hone Aayi,"Lata Mangeshkar, S.P. Balasubrahmanyam",BollywoodDance,Maine Pyar Kiya,,0.0
+Radha Nachegi,"Danish Sabri, Ritu Pathak, Shabab Sabri",BollywoodDance,Tevar,,0.0
+Jadugar Ka Jadoo,Suresh Wadkar,BollywoodDance,Toofan,,0.0
+Tu Rootha Dil Toota,Kishore Kumar,BollywoodSad,Yaarana,,0.0
+Chote Bade,"Ankit Tiwari, Mika Singh",BollywoodDance,Fry Day,,0.0
+High Heels Te Nachche,"Aditi Singh Sharma, Jaz Dhami, Meet Bros",BollywoodDance,Ki & Ka,,0.0
+Jiyo Re Baahubali,"Daler Mehndi, Ramya Behara, Sanjeev Chimmalgi",BollywoodDance,Baahubali 2,,0.0
+O Sahiba O Sahiba,"Kavita Krishnamurthy, Sonu Nigam",BollywoodSad,Dil Hai Tumhaara,,0.0
+So Gaya Yeh Jahan,"Alka Yagnik, Nitin Mukesh, Shabbir Kumar",BollywoodDance,Tezaab,,0.0
+Yeh Raaste Hai Pyaar Ke,"Jaspinder Narula, Shaan",BollywoodDance,Yeh Raaste Hain Pyaar Ke,,0.0
+Maine Pyar Kiya,"Lata Mangeshkar, S.P. Balasubrahmanyam",BollywoodDance,Maine Pyar Kiya,,0.0
+Jhoot Nahin Bolna,"Himesh Reshammiya, Shreya Ghoshal",BollywoodDance,Aap Kaa Surroor,,0.0
+Ek Do Teen,Alka Yagnik,BollywoodDance,Tezaab,,0.0
+Ek Haseena Thi,"Himesh Reshammiya, Shreya Ghoshal",BollywoodDance,Karzzzz,,0.0
+Do Me A Favour Lets Play Holi,"Anu Malik, Sunidhi Chauhan",BollywoodDance,Waqt- The Race Against Time,,0.0
+O Mehbooba,Mukesh,BollywoodRomantic,Sangam,,0.0
+Lagi Aaj Sawan Ki,"Anupama Deshpande, Suresh Wadkar",BollywoodRomantic,Chandni,,0.0
+Aaj Kehna Zaroori Hai,"Alka Yagnik, Udit Narayan",BollywoodRomantic,Andaaz,,0.0
+Pyar Ka Anjaam,"Alka Yagnik, Kumar Sanu, Sapna Mukherjee",BollywoodRomantic,Bewafaa,,0.0
+Jab Haal E Dil Tumse Kehne Ko,Alka Yagnik,BollywoodDance,Salaami,,0.0
+Laila Main Laila,Pawni Pandey,BollywoodDance,Raees,,0.0
+Babbe Mast,"ALTAMAS FARIDI, Sonu Kakkar",BollywoodDance,What The Fish,,0.0
+Is Shaane Karam Ka  Qawali,Nusrat Fateh Ali Khan,BollywoodDevotional,Kachche Dhaage,,0.0
+Sachi Muchi,"Harshdeep Kaur, Mohit Chauhan",BollywoodDance,Sultan,,0.0
+Teri Zulfon Se Judai To,Mohammed Rafi,BollywoodRomantic,Jab Pyar Kisi Se Hota Hai,,0.0
+Choli Ke Peeche Kya Hai (Female),"Alka Yagnik, Vinod Rathod",BollywoodDance,Khal Nayak,,0.0
+Saawli Saloni Teri,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Hum Sub Chor Hain,,0.0
+Chichora Piya,"Himesh Reshammiya, Shalmali Kholgade",BollywoodDance,Action Jackson,,0.0
+Deewane Hai Deewanon Ko,"Lata Mangeshkar, Mohammed Rafi",BollywoodDance,Zanjeer,,0.0
+Tune Maari Entriyaan (Remix),"Bappi Lahiri, KK, Neeti Mohan, Vishal Dadlani",BollywoodDance,Gunday,,0.0
+Dil To Pagal Hai,"Lata Mangeshkar, Udit Narayan",BollywoodRomantic,Dil To Pagal Hai,,0.0
+Pink Lips,"Anjjan, Khushhboo Grewal, Meet Bros",BollywoodDance,Hate Story 2,,0.0
+Chori Chori Chori Se,"Amitabh Bachchan, Jaspinder Narula, Sonu Nigam",BollywoodDance,Sooryavansham,,0.0
+Keeda,"Himesh Reshammiya, Neeti Mohan",BollywoodDance,Action Jackson,,0.0
+Saanson Ki Mala,Kavita Krishnamurthy,BollywoodDance,Koyla,,0.0
+Chin Chin Chu,"Jassi Gill, Sonakshi Sinha",BollywoodDance,Happy Phirr Bhaag Jayegi,,0.0
+Itna Sannata Kyun Hai,"Aditi Singh Sharma, Amit Mishra",BollywoodDance,Golmaal Again,,0.0
+Go Go Govinda (Reprise),"Aaman Trikha, Shreya Ghoshal",BollywoodDance,OMG Oh My God!,,0.0
+Prem Jaal Mein,"Anuradha Sriram, Sukhwinder Singh",BollywoodDanceRomantic,Jis Desh Mein Ganga Rehta Hai,,0.0
+Sunny Sunny,Yo Yo Honey Singh,BollywoodDance,Yaariyan,,0.0
+Hatt Ja Tau,Sunidhi Chauhan,BollywoodDance,Veerey Ki Wedding,,0.0
+Hard Hard,"Mika Singh, Prakriti Kakar, Sachet Tandon",BollywoodDance,Batti Gul Meter Chalu,,0.0
+De Di Azadi Hamen Bina,Asha Bhosle,BollywoodPatriotic,Jagriti,,0.0
+Band Baaja Baaraat Mashup,Multiple,BollywoodDance,Band Baaja Baaraat,,0.0
+Dhak Dhak Karne Laga,"Anuradha Paudwal, Udit Narayan",BollywoodRomantic,Beta,,0.0
+Jumme Ki Raat,"Mika Singh, Palak Muchhal",BollywoodDance,Kick,,0.0
+Mujhe Tumse Mohabbat Hai,"Shaan, Shreya Ghoshal",BollywoodDanceRomantic,Tumsa Nahin Dekha,,0.0
+Bewafa Beauty,Pawni Pandey,Bollywood,Black Mail,,0.0
+Neela Dupatta,"Abhijeet, Alka Yagnik",BollywoodDance,Hameshaa,,0.0
+Har Subah,"K. S. Chithra, Kumar Sanu",BollywoodRomantic,Sooryavansham,,0.0
+Usire Usire,"Shaan, Shreya Ghoshal",BollywoodDanceRomantic,Hebbuli,,0.0
+Tamma Tamma Loge,"Anuradha Paudwal, Bappi Lahiri",BollywoodDance,Thanedaar,,0.0
+Nimbooda Nimbooda,"Ismail Darbar, Kavita Krishnamurthy",BollywoodDance,Hum Dil De Chuke Sanam,,0.0
+Jab Mehndi Lag Lag Jaave,"Shreya Ghoshal, Sonu Nigam",BollywoodDance,Singh Saab The Great,,0.0
+Aaj Udta Hua Ek Panchhi,Mohammed Rafi,BollywoodDance,Gehra Daag,,0.0
+Ooee Baba,"Abhijeet, Alka Yagnik, Sapna Mukherjee",BollywoodDance,Judaai,,0.0
+Sanam Re,Arijit Singh,BollywoodRomantic,Sanam Re,,0.0
+Go Go Govinda,"Aman Trikha, Shreya Ghoshal",BollywoodDance,OMG Oh My God!,,0.0
+Sultan (Mashup),Multiple,BollywoodDance,Sultan,,0.0
+Sai Baba Bolo (Album Version),"Anup Jalota, Anuradha Paudwal, Jani Baboo, Mohammed Rafi",BollywoodDevotional,Shirdi Ke Sai Baba,,0.0
+Ho Nahi Sakta,Udit Narayan,BollywoodRomantic,Diljale,,0.0
+Humko Tumse Ho Gaya Hai Pyar,"Kishore Kumar, Lata Mangeshkar, Mohammed Rafi, Mukesh",BollywoodDance,Amar Akbar Anthony,,0.0
+Pinga,"Shreya Ghoshal, Vasihali Made",BollywoodDance,Bajirao Mastani,,0.0
+Nayak Nahi Khalnayak Hoon Main,"Kavita Krishnamurthy, Vinod Rathod",BollywoodDance,Khal Nayak,,0.0
+Tere Chehre Pe,"Kumar Sanu, Sonali Vajpai",BollywoodRomantic,Baazigar,,0.0
+Sar Se Sarke,"Kishore Kumar, Lata Mangeshkar",BollywoodRomantic,Silsila,,0.0
+Dum Duma Dum,"Anuradha Paudwal, Udit Narayan",BollywoodDance,Dil,,0.0
+Wada Karle Sajna Tere Bina,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Haath Ki Safai,,0.0
+Desi Look,Kanika Kapoor,BollywoodDance,Ek Paheli Leela,,0.0
+Bhangra Ta Sajda,"Neha Kakkar, Romy, Shashwat Sachdev, Surya Ragunaathan",BollywoodDance,Veere Di Wedding,,0.0
+Har Dil Jo Pyar Karega,"Lata Mangeshkar, Mahendra Kapoor, Mukesh",BollywoodDance,Sangam,,0.0
+Bad Baby,"Badshah, Gippy Grewal",BollywoodDance,Second Hand Husband,,0.0
+Kab Chand Ban Ker,"Abhijeet Sawant, Sanjay Pathak, Santosh Singh",BollywoodDance,Lottery,,0.0
+Raah Mein Unse Mulaqat,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Vijaypath,,0.0
+Oye Hichki,Harshdeep Kaur,BollywoodDance,Hichki,,0.0
+Sab Kuchh Bhula Diya,"Sapna Awasthi, Sonu Nigam",BollywoodSad,Hum Tumhare Hain Sanam,,0.0
+Kehti Hai Jhuki Jhuki Nazar,Suman Kalyanpur,BollywoodDance,Zindagi Aur Khwab,,0.0
+Jag Ghoomeya,Rahat Fateh Ali Khan,BollywoodRomantic,Sultan,,0.0
+Barsaat Ke Mausam Mein,"Kumar Sanu, Roop Kumar Rathod",BollywoodDance,Naajayaz,,0.0
+Paayal Meri,"Alka Yagnik, Udit Narayan",BollywoodDance,Rajkumar,,0.0
+Baap Ki Kasam,"Asha Bhosle, Kishore Kumar",BollywoodDance,Mawaali,,0.0
+Tumhen Pa Ke Humne Jahan Pa Liya,"Asha Bhosle, Mohammed Rafi",BollywoodRomantic,Gehra Daag,,0.0
+Ho Maine Pyar Kiya,Lata Mangeshkar,BollywoodDance,Jis Desh Mein Ganga Behti Hai,,0.0
+Main Kya Karoon Ram,Lata Mangeshkar,BollywoodDance,Sangam,,0.0
+Dil To Dete Nahin,Asha Bhosle,BollywoodDance,Kaalia,,0.0
+Mere Mehboob Mein Kya Nahin,"Asha Bhosle, Lata Mangeshkar",BollywoodDance,Mere Mehboob,,0.0
+Nazar Mere Dil Ke Par,Mohammed Rafi,BollywoodDance,Jab Pyar Kisi Se Hota Hai,,0.0
+Jugnu,Udit Narayan,BollywoodDance,Joker,,0.0
+Parody,"Abhishek Nailwal, Aditi Paul, Aishwarya Nigam, Manoj Mishra, Sudesh Bhosle",BollywoodDance,Gang Of Ghosts,,0.0
+Touch Me,"Asha Bhosle, Kishore Kumar",BollywoodRomantic,Himmat Aur Mehanat,,0.0
+Woh Dekho Jala Ghar Kisi Ka,Lata Mangeshkar,BollywoodSad,Anpadh,,0.0
+Daagh Na Lag Jaye,"Asha Bhosle, Mukesh",BollywoodDance,Mera Naam Joker,,0.0
+O Piya O Piya,"Sadhana Sargam, Sukhwinder Singh",BollywoodRomantic,Jis Desh Mein Ganga Rehta Hai,,0.0
+Pyar Kiya To Darna Kya,Lata Mangeshkar,BollywoodDance,Mughal-E-Azam,,0.0
+Dil Jaane Na,"Mohit Chauhan, Neeti Mohan",BollywoodRomantic,Dil Juunglee,,0.0
+Ek Do Teen Song,Shreya Ghoshal,BollywoodDance,Baaghi 2,,0.0
+Pyar Nahin Karna,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Kachche Dhaage,,0.0
+Tamma Tamma Again,"Anuradha Paudwal, Badshah, Bappi Lahiri",BollywoodDance,Badrinath Ki Dulhania,,0.0
+Fevicol Se (Remix),"Mamta Sharma, Wajid",BollywoodDance,Dabangg 2,,0.0
+Pyaara Bhaiya Mera,"Alka Yagnik, Kumar Sanu",BollywoodDance,Kya Kehna,,0.0
+Kudiyan Sehar Diyan,"Alka Yagnik, Daler Mehndi",BollywoodDance,Arjun Pandit,,0.0
+Phool Maangu Na Bahaar Maangu,"Alka Yagnik, Udit Narayan",BollywoodDance,Raja,,0.0
+Hum Lakh Chupaye,"Asha Bhosle, Kumar Sanu",BollywoodRomantic,Jaan Tere Naam,,0.0
+Mein Chali Mein Chali,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Professor,,0.0
+Pardesi Pardesi,"Bela, Suresh Wadkar",BollywoodSad,Raja Hindustani,,0.0
+Hum Hain Insaaf,"Babu Haabi, Naezy",Bollywood,Bhavesh Joshi Superhero,,0.0
+Tanhaiyaan,Amit Mishra,BollywoodSad,Aksar 2,,0.0
+Kisi Se Tum Pyaar Karo,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Andaaz,,0.0
+Radio,"Amit Mishra, Kamaal khan",BollywoodDance,Tubelight,,0.0
+Ramaiya Vatsavaiya,"Lata Mangeshkar, Mohammed Rafi, Mukesh",BollywoodDance,Shree 420,,0.0
+Dil Jo Na Keh Saka,"Shail Hada, Shreya Ghoshal",BollywoodSad,Dil Jo Na Keh Saka,,0.0
+Hamare Gaon Koi,"Asha Bhosle, Lata Mangeshkar",BollywoodDance,Professor,,0.0
+Dekha Tujhe Toh,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Devdas,,0.0
+Dulhan Hum Le Jayenge,"Alka Yagnik, Kumar Sanu, Sunita Rao",BollywoodRomantic,Dulhan Hum Le Jayenge,,0.0
+Party Chale On,"Iulia Vantur, Mika Singh",BollywoodDance,Race 3,,0.0
+Aa Jaana Aa Jaana,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Coolie No. 1,,0.0
+Meri Zindagi Ek Pyaas,"Jaspinder Narula, Shankar Mahadevan",BollywoodSad,Judaai,,0.0
+Tere Mere Beech Mein,"Mohit Chauhan, Sunidhi Chauhan",BollywoodRomantic,Shuddh Desi Romance,,0.0
+Dam Bhar Jo Udhar Munh Phere,"Lata Mangeshkar, Mukesh",BollywoodDance,Awaara,,0.0
+Bade Armanon Se,"Lata Mangeshkar, Mukesh",BollywoodDance,Malhar,,0.0
+Sirf Tum,"Anuradha Paudwal, Hariharan",BollywoodDance,Sirf Tum,,0.0
+Baba Meri Yeh Jawani,Falguni Pathak,BollywoodDance,Ghaath,,0.0
+Mhare Hiwra Main Nache Mor,"Alka Yagnik, Anuradha Paudwal, Hariharan, Kavita Krishnamurthy, Kumar Sanu, Udit Narayan",BollywoodDance,Hum Saath-Saath Hain,,0.0
+"Gori Ka Sajan, Sajan Ki Gori","Mohammad Aziz, S. Janaki",BollywoodDance,Aakhree Raasta,,0.0
+Megha Re Megha Re,"Ila Arun, Lata Mangeshkar",BollywoodDance,Lamhe,,0.0
+Yari Hai Imaan Mera,Manna Dey,BollywoodDance,Zanjeer,,0.0
+Nadiya Chale Chale Re Dhara,Manna Dey,BollywoodDance,Safar,,0.0
+Mere Bhaiyaa Mere Chanda,Asha Bhosle,Bollywood,Kaajal,,0.0
+Hey Ooi Amma Ooi Amma,Poornima,BollywoodDance,Raja Babu,,0.0
+Mere Khwabon Mein Jo Aaye,Alka Yagnik,BollywoodDance,Soldier,,0.0
+Jo Tumko Ho Pasand Wohi Baat Karenge,Mukesh,BollywoodRomantic,Safar,,0.0
+Samajh Kar Chand Jis Ko,"Alka Yagnik, Vinod Rathod",BollywoodRomantic,Baazigar,,0.0
+Rangreza,"Abhijeet Sawant, Pragya Patra",BollywoodRomantic,Rangreza,,0.0
+Sweety,"Aishwarya Nigam, Monali Thakur",BollywoodDance,Bobby Jasoos,,0.0
+I Love My India,"Hariharan, Kavita Krishnamurthy",BollywoodDance,Pardes,,0.0
+Kya Khoob Lagti Ho,"Kanchan, Mukesh",BollywoodRomantic,Dharmatma,,0.0
+Ishq Hai Ishq Hai,Jayshree Shivram,BollywoodSad,Ishq,,0.0
+Ek Dil Hai,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Ek Rishtaa,,0.0
+Kya Mil Gaya Hay Kya Kho Gaya,"Lata Mangeshkar, Mohammed Rafi",BollywoodDance,Sasural,,0.0
+Mujhse Juda Hokar,"Lata Mangeshkar, S.P. Balasubrahmanyam",BollywoodSad,Hum Aapke Hain Koun,,0.0
+Gandi Baat,"Kalpana Patowary, Mika Singh",BollywoodDance,R... Rajkumar,,0.0
+Zingaat,"Ajay, Atul",BollywoodDance,Dhadak,,0.0
+Tharki Chokro,Swaroop Khan,BollywoodDance,PK,,0.0
+Tere Pyar Mein Dil Deewana,"Alka Yagnik, Udit Narayan",BollywoodRomantic,Coolie No. 1,,0.0
+Full Jhol,"Akasa Singh, Mika Singh",BollywoodDance,Jackpot,,0.0
+Jhoom Barabar Jhoom,"Aaman Trikha, Pawni Pandey, Shabab Sabri, Vineet Singh",BollywoodDance,Policegiri,,0.0
+Qayamat,"Alka Yagnik, Sukhwinder Singh",BollywoodDance,Deewane,,0.0
+Tu Dharti Pe Chaahe Jahan Bhi,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Jeet,,0.0
+Kasam Khake Kaho,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Dil Hai Tumhaara,,0.0
+Go Pagal,"Nindy Kaur, Raftaar",BollywoodDance,Jolly LLB 2,,0.0
+Dil Mein Chhupa Loonga,"Armaan Malik, Meet Bros, Tulsi Kumar",BollywoodRomanticSensual,Wajah Tum Ho,,0.0
+Mujhe Tu Jo Mila,Aaman Trikha,BollywoodRomantic,Khel To Abb Shuru Hoga,,0.0
+Dekha Ek Khwab,"Kishore Kumar, Lata Mangeshkar",BollywoodRomantic,Silsila,,0.0
+Raah Mein Un Se,"Alka Yagnik, Kumar Sanu",BollywoodDanceRomantic,Vijaypath,,0.0
+Mujhe Ek Pal Chain,"Alka Yagnik, Hariharan, Jaswinder Narula",BollywoodDance,Judaai,,0.0
+Kitna Pagal Dil Hai,Kumar Sanu,BollywoodRomantic,Andaaz,,0.0
+Dil Tu Hi Bataa,"Alisha Chinai, Zubeen Garg",BollywoodRomantic,Krrish 3,,0.0
+Bol Radha Bol,Mukesh,BollywoodRomantic,Sangam,,0.0
+Halo Re,Aaman Trikha,BollywoodDance,Prem Ratan Dhan Payo,,0.0
+O Chhalia Re Chhalia,"Asha Bhosle, Mohammed Rafi",BollywoodDance,Gunga Jumna,,0.0
+Bezubaan,K.K.,BollywoodRomantic,Laali Ki Shaadi Mein Laaddoo Deewana,,0.0
+Mere Dil Jigar Se Guzree Hai,"Alka Yagnik, Kumar Sanu",BollywoodDance,Soldier,,0.0
+Pyaar De,Ankit Tiwari,BollywoodRomantic,Beiimaan Love,,0.0
+Party To Banti Hai (Remix),"Meet Bros, Mika Singh",BollywoodDance,Bhoothnath Returns,,0.0
+Rasiya,Shruti Pathak,BollywoodSensual,Kurbaan,,0.0
+Lungi Dance,Yo Yo Honey Singh,BollywoodDance,Chennai Express,,0.0
+Baadalon Mein Chup Raha Chand,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Phir Teri Kahani Yaad Aayee,,0.0
+Taaron Ka Chamakta,"Bali Brahambhatt, Udit Narayan",BollywoodDance,Hum Tumhare Hain Sanam,,0.0
+Tera Rang Balle Balle,"Jaspinder Narula, Sonu Nigam",BollywoodDance,Soldier,,0.0
+Kitni Mohabbat Kis Ko,"Alka Yagnik, Kumar Sanu, Udit Narayan",BollywoodRomantic,Deewane,,0.0
+Yaad Aa Raha Ha,Bappi Lahiri,BollywoodDance,Disco Dancer,,0.0
+Milan Abhi Aadha Adhura,"Shreya Ghoshal, Udit Narayan",BollywoodRomantic,Vivah,,0.0
+Saat Ajube Iss Duniya Mein,"Mohammed Rafi, Mukesh",Bollywood,Dharam Veer,,0.0
+Do Peg Maar,Neha Kakkar,BollywoodDance,One Night Stand,,0.0
+Suno Ganpati Bappa Morya,Amit Mishra,BollywoodDance,Judwaa 2,,0.0
+Honeymoon Ki Raat,Sunidhi Chauhan,BollywoodDance,The Dirty Picture,,0.0
+Gawah Hai Chand Tare,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Damini,,0.0
+Trippy Trippy,"Badshah, Benny Dayal, Brijesh Shandilya, Neha Kakkar",BollywoodDance,Bhoomi,,0.0
+Bhagwan Ek Qasoor Ki,Mohammed Rafi,BollywoodSad,Gehra Daag,,0.0
+Tujhko Na Dekhun,"Sunidhi Chauhan, Udit Narayan",Bollywood,Jaanwar,,0.0
+Khaike Paan Banaras Wala,Kishore Kumar,BollywoodDance,Don,,0.0
+Ijazat,"Arijit Singh, Meet Bros",BollywoodRomanticSensual,One Night Stand,,0.0
+Phir Kya Hai Gham,Shilpa Rao,Bollywood,Hichki,,0.0
+Ye Toh Sach Hai Ke Bhagwan,Hariharan,BollywoodDance,Hum Saath-Saath Hain,,0.0
+Abhi Toh Party Shuru Hui Hai,"Aastha Gill, Badshah",BollywoodDance,Khoobsurat,,0.0
+Jise Dekh Mera Dil Dhadke,Kumar Sanu,BollywoodRomantic,Phool Aur Kaante,,0.0
+Kore Kore Sapne,"Anuradha Paudwal, Kumar Sanu",BollywoodDance,Sooryavansham,,0.0
+Tu Kamaal Di Kudi,"Mamta Sharma, Vineet Singh",BollywoodDance,Son of Sardaar,,0.0
+Aayega Maza Ab Barsaat Ka,"Alka Yagnik, Babul Supriyo",BollywoodRomantic,Andaaz,,0.0
+Pag Ghungaru Bandh,Kishore Kumar,BollywoodDance,Namak Halaal,,0.0
+Dagabaaz Tori Batiyan,Lata Mangeshkar,BollywoodRomantic,Gunga Jumna,,0.0
+O Aasman Wale,Sonu Nigam,BollywoodSad,Aaja Meri Jaan,,0.0
+Dil Jaane Jigar Tujhpe Nisar Kiya Hai,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Saajan Chale Sasural,,0.0
+Mera Yaar Bana Hai Dulha,Mohammed Rafi,BollywoodDance,Chaudhvin Ka Chand,,0.0
+Khaana Khaake,"Amit, Amitabh Bhattacharya, Antara, Aroh, Ashwin, Geet Sagar, June, Pritam, Sunny, Tushar",BollywoodDance,Jagga Jasoos,,0.0
+Jab Se Hum Tere,"Alka Yagnik, Kumar Sanu",BollywoodDance,Krantiveer,,0.0
+Ding Dang,"Amit Mishra, Antara Mitra",BollywoodDance,Munna Michael,,0.0
+Kala Chashma,"Amar Arshi, Badshah, Neha Kakkar",BollywoodDance,Baar Baar Dekho,,0.0
+Chanchal Mann Ati Random,Divya Kumar,BollywoodDance,Shuddh Desi Romance,,0.0
+Humen Kash Tumse Mohabbat,Lata Mangeshkar,BollywoodSad,Mughal-E-Azam,,0.0
+Galti Se Mistake,"Amit Mishra, Arijit Singh",BollywoodDance,Jagga Jasoos,,0.0
+Right Now (Remix),"Sunidhi Chauhan, Suzzane De Mello, Wajid",BollywoodDance,Housefull 2,,0.0
+Tere Pyar Mein Dildar,Lata Mangeshkar,BollywoodDance,Mere Mehboob,,0.0
+Yeh Hai Bambai Nagaria,Kishore Kumar,BollywoodDance,Don,,0.0
+Sharma Ke Ye Kyon Sab Pardanashi,"Asha Bhosle, Shamshad Begum.",BollywoodDance,Chaudhvin Ka Chand,,0.0
+Party All Night (Remix),Yo Yo Honey Singh,BollywoodDance,Boss,,0.0
+Dhinka Chika (Remix),"Amrita Kak, Mika Singh",BollywoodDance,Ready,,0.0
+Goodnight,"Jaspreet Singh, Monali Thakur, Poroma, Sachin Gupta",BollywoodDance,DIl Kabaddi,,0.0
+Ladki Hai Ya Shola,"Kishore Kumar, Lata Mangeshkar",BollywoodDance,Silsila,,0.0
+Odhli Chunariya Tere Naam Ki,"Alka Yagnik, Kumar Sanu",BollywoodDance,Pyaar Kiya To Darna Kya,,0.0
+O Mere Raja,"Asha Bhosle, Kishore Kumar",BollywoodDance,Johny Mera Naam,,0.0
+Horn OK Please,"Anushka Manchanda, Sukhwinder Singh, Yo Yo Honey Singh",BollywoodDance,Dedh Ishqiya,,0.0
+Haanikaarak,Sarwar Khan,Bollywood,Dangal,,0.0
+Apni To Jaise Taise,Kishore Kumar,BollywoodDance,Laawaris,,0.0
+Tere Mohalle,"Aishwarya Nigam, Mamta Sharma",BollywoodDance,Besharam,,0.0
+Aiyo Ji,"Salim Merchant, Shraddha Pandit",BollywoodDance,Satyagraha,,0.0
+Chahat Se Hai Begani,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Saajan Chale Sasural,,0.0
+Jogiya,"Anuradha Paudwal, Sukhwinder Singh",BollywoodSad,Deewane,,0.0
+Aaya Aaya Toofan,Kishore Kumar,BollywoodDance,Toofan,,0.0
+Tu Na Ja Mere Badshah,"Alka Yagnik, Mohammad Aziz",BollywoodSad,Khuda Gawah,,0.0
+Tumhari Nazar Kyon Khafa Ho Gayi,"Lata Mangeshkar, Mohammed Rafi",Bollywood,Do Kaliyan,,0.0
+Yaara O Yaara,"Lata Mangeshkar, Suresh Wadkar",BollywoodSad,Ram Teri Ganga Maili,,0.0
+Chot Lage Tujhko  Sad,"Alka Yagnik, Udit Narayan",BollywoodSad,Raja,,0.0
+Duniya Bananewale,Mukesh,BollywoodSad,Teesri Kasam,,0.0
+Raj Karega Khalsa,"Daler Mehndi, Navraj Hans",BollywoodMotivational,A Flying Jatt,,0.0
+Holi Aayi Re,"Kishore Kumar, Lata Mangeshkar, Mahendra Kapoor",BollywoodDance,Mashaal,,0.0
+Imli Ka Boota,"Mohammad Aziz, Sudesh Bhonsle",Bollywood,Saudagar,,0.0
+Kisi Din Banoongi Main,"Alka Yagnik, Udit Narayan",BollywoodDance,Raja,,0.0
+Jai Jai Shiv Shankar,"Kishore Kumar, Lata Mangeshkar",BollywoodDance,Aap Ki Kasam,,0.0
+Poster Lagwa Do,"Mika Singh, Sunanda Sharma",BollywoodDance,Luka Chuppi,,0.0
+Ae Dil Pyar Ki Manzil,Mukesh,BollywoodDance,Aas Ka Panchhi,,0.0
+Badri Ki Dulhania,"Dev Negi, Ikka, Monali Thakur, Neha Kakkar",BollywoodDance,Badrinath Ki Dulhania,,0.0
+Andaz Mera Mastana,Lata Mangeshkar,BollywoodDance,Dil Apna Aur Preet Parai,,0.0
+Palki Mein Hoke Sawar Chali Re,Alka Yagnik,BollywoodDance,Khal Nayak,,0.0
+Kahin Pyaar Na Ho Jaye,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Kahin Pyaar Na Ho Jaye,,0.0
+Aao Kabhi Haveli Pe,"Badshah, Jigar, Nikhita Gandhi, Sachin Sanghvi",BollywoodDance,Stree,,0.0
+O Saathi Re Tere Bina,"Anjaan, Kishore Kumar",BollywoodSad,Muqaddar Ka Sikandar,,0.0
+Dekhen Bhi To Kya Dekhen,"Lata Mangeshkar, Udit Narayan",BollywoodDance,Farz,,0.0
+Allah Kare Dil Na Lage,"Alka Yagnik, Sonu Nigam",BollywoodRomantic,Andaaz,,0.0
+Paani Wala Dance,"Arko, Ikka, Shraddha Pandit",BollywoodDance,Kuch Kuch Locha Hai,,0.0
+Kab Ke Bichhde Hue,"Asha Bhosle, Kishore Kumar",BollywoodRomantic,Laawaris,,0.0
+Hum To Tere Aashiq Hain,"Lata Mangeshkar, Mukesh",BollywoodRomantic,Farz,,0.0
+Khushiyon Ka Din Aaya Hai,Anuradha Paudwal,BollywoodDance,Beta,,0.0
+Mere Hathon Mein Nau Nau,Lata Mangeshkar,BollywoodDance,Chandni,,0.0
+Chittiyaan Kalaiyaan,"Anjjan, Kanika Kapoor, Meet Bros",BollywoodDance,Roy,,0.0
+Tora Man Bada Papi,Asha Bhosle,BollywoodDance,Ganga Jumna,,0.0
+Dil Kho Gaya,"Anuradha Paudwal, Udit Narayan",BollywoodRomantic,Dil,,0.0
+Main Naa Bhoolunga I,"Lata Mangeshkar, Mukesh",BollywoodRomantic,Roti Kapada Aur Makaan,,0.0
+Boi Boi,"Arun Bakshi, Vinod Rathod",BollywoodDance,Laadla,,0.0
+Ye Ladki Nahin Banaras Ka Paan,"Bela Sulakhe, Sonu Nigam",BollywoodDance,Khullam Khulla Pyaar Karen,,0.0
+Aaja Aaja Yaad Sataye,"Kavita Krishnamurthy, Udit Narayan",BollywoodRomantic,Raja Babu,,0.0
+Main Teri Huyi Re Balma,Asha Bhosle,BollywoodDance,Gehra Daag,,0.0
+Tujhko Mera Pyar Pukare,"Asha Bhosle, Mahendra Kapoor",BollywoodRomantic,Gumrah,,0.0
+Bambai Se Aaya Mera Dost,Bappi Lahiri,BollywoodDance,Aap Ki Khatir,,0.0
+Bye Bye Miss Good Night,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Saajan Chale Sasural,,0.0
+Aankhon Ki Gustakhiyan Maaf Ho,"Karsan Sangathia, Kavita Krishnamurthy",BollywoodRomantic,Hum Dil De Chuke Sanam,,0.0
+Taki Oh Taki,"Asha Bhosle, Kishore Kumar",BollywoodDance,Himmatwala,,0.0
+Awaaz Deke,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Professor,,0.0
+Mere Watan Mein Maine,"Alka Yagnik, Suresh Wadkar",BollywoodDance,Khuda Gawah,,0.0
+Haseeno Ko Aate Hain,"Alka Yagnik, Udit Narayan",BollywoodDance,Lahoo Ke Do Rang,,0.0
+Do Hanson Ka Joda,Lata Mangeshkar,BollywoodSad,Gunga Jumna,,0.0
+Khush Rahe Tu Sada,Mohammed Rafi,BollywoodSad,Khilona,,0.0
+Pal Bhar Ke Liye,"Kishore Kumar, Usha Khanna",BollywoodRomantic,Johny Mera Naam,,0.0
+Kaise Kahoon Main Baat Jiya Ki,Asha Bhosle,BollywoodRomantic,Gehra Daag,,0.0
+Dhinka Chika,"Amrita Kak, Mika Singh",BollywoodDance,Ready,,0.0
+O Mere Sanam,"Lata Mangeshkar, Mukesh",BollywoodSad,Sangam,,0.0
+Humne Ghar Choda Hai,"Sadhana Sargam, Udit Narayan",BollywoodRomantic,Dil,,0.0
+Kambal Ke Neeche,"Aaman Trikha, Aishwarya Majmudar, Neeti Mohan, Sanchita Bhattachayra",BollywoodDance,Kaanchi,,0.0
+Zindagi To Bewafa Hai,Mohammed Rafi,BollywoodSad,Muqaddar Ka Sikandar,,0.0
+Do Anjaane Ajnabi,"Shreya Ghoshal, Udit Narayan",BollywoodRomantic,Vivah,,0.0
+Jis Desh Mein Ganga Rehta Hai,Abhijeet,BollywoodDance,Jis Desh Mein Rehta Hai,,0.0
+Wah Wah Ram Ji,"Lata Mangeshkar, S.P. Balasubrahmanyam",BollywoodDance,Hum Aapke Hain Koun,,0.0
+Janeman Ek Nazar Dekh Le,"Asha Bhosle, Lata Mangeshkar",BollywoodDance,Mere Mehboob,,0.0
+Teetar Ke Do Aage Teetar,"Asha Bhosle, Mukesh, Simi Garewal",BollywoodDance,Mera Naam Joker,,0.0
+Chittiyaan Kalaiyaan (Remix),"Kanika Kapoor, Meet Bros",BollywoodDance,Roy,,0.0
+Hua Hain Aaj Pehli Baar,"Armaan Malik, Palak Muchhal",BollywoodRomantic,Sanam Re,,0.0
+Saaton Janam Main Tere,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Dilwale,,0.0
+Jab Tum (Female),Shreya Ghoshal,BollywoodRomantic,Shaadi Abhi Baaki Hai,,0.0
+Matari Kotmari Tumba,Atul Kale,BollywoodDance,Jis Desh Mein Ganga Rehta Hai,,0.0
+Tumne Agar Pyar Se  Female,Alka Yagnik,BollywoodDance,Raja,,0.0
+Kahe Paise Pe,Kishore Kumar,BollywoodDance,Laawaris,,0.0
+Woh Ladki Bahut Yaad Aati,"Alka Yagnik, Kumar Sanu",Bollywood,Qayamat,,0.0
+Khuli Falak Mein,Mohammed Rafi,BollywoodRomantic,Professor,,0.0
+Keh Do Ke Tum,"Amit Kumar, Anuradha Paudwal",BollywoodRomantic,Tezaab,,0.0
+Jugnu Ki Payal,"Shaswati, Zubeen Garg",BollywoodDance,Aan - Men At Work,,0.0
+Rani Tu Mein Raja (,"Bhavya Pandit, Mika Singh, Yo Yo Honey Singh",BollywoodDance,Son of Sardaar,,0.0
+Tip Tip Barsa Pani,"Alka Yagnik, Udit Narayan",BollywoodDance,Mohra,,0.0
+Mera Dil Ab Tera Ho Sajna,Lata Mangeshkar,BollywoodDance,Dil Apna Aur Preet Parai,,0.0
+Teri Choodiyan Da Crazy Crazy Sound,Wajid Khan,BollywoodDance,Ishkq In Paris,,0.0
+Phir Mohabbat,"Arijit Singh, Mohammed Irfan, Saim Bhat",BollywoodRomanticSad,Murder 2,,0.0
+Saathiya Nahi Jaana,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomanticSad,Aya Sawan Jhoom Ke,,0.0
+Gunday Mashup,Multiple,BollywoodDance,Gunday,,0.0
+Shikwa Nahin Kisi Se,Kumar Sanu,BollywoodSad,Naseeb,,0.0
+Dheere Dheere Bol Koi Sun Na Le,"Lata Mangeshkar, Mukesh",BollywoodRomantic,Gora Aur Kala,,0.0
+O Jiji,"Pamela Jain, Shreya Ghoshal",BollywoodDance,Vivah,,0.0
+Jaadoo Jaadoo,"Adnan Sami, Alka Yagnik",BollywoodDance,Koi Mil Gaya,,0.0
+Aaj Kal Yaad Kuch Aur Rehta Nahin,Mohammad Aziz,BollywoodRomantic,Nagina,,0.0
+Akkha India Janta Hai,Kumar Sanu,BollywoodRomantic,Jaan Tere Naam,,0.0
+Dekha Hai Pehli Baar,"Alka Yagnik, S.P. Balasubrahmanyam",BollywoodDance,Saajan,,0.0
+Bachalo Bachalo,"Alka Yagnik, Sonu Nigam",BollywoodDance,Khullam Khulla Pyaar Karen,,0.0
+Kateli Kateli Nasheli Nasheli,Suman Kalyanpur,BollywoodDance,Zindagi Aur Khwab,,0.0
+Aaj Na Chhodenge,"Kishore Kumar, Lata Mangeshkar",BollywoodDance,Kati Patang,,0.0
+Ankhiyon Se Goli Mare,"Jaspinder Narula, Sonu Nigam",BollywoodDance,Dulhe Raja,,0.0
+Pyar Kabhi Kam Nahi Karna,"Asha Bhosle, Bappi Lahiri",BollywoodRomantic,Prem Pratigyaa,,0.0
+Kitna Pyara Ye Chehra,"Anuradha Paudwal, Inderjeet",BollywoodDance,Beta,,0.0
+Aaj Hai Sagai,"Abhijeet, Alka Yagnik",BollywoodDance,Pyar Toh Hona Hi Tha,,0.0
+Hori Khele Raghuveera,"Alka Yagnik, Amitabh Bachchan, Sukhwinder Singh, Udit Narayan",BollywoodDance,Baghban,,0.0
+Ban Dance Mein Kutta,"Divya Kumar, Shivi, Uvie",BollywoodDance,3 Dev,,0.0
+Dhiktana  2,"Lata Mangeshkar, S.P. Balasubrahmanyam, Udit Narayan",BollywoodDance,Hum Aapke Hain Koun,,0.0
+Jab Tum Chaho,"Darshan Raval, Mohammed Irfan, Palak Muchhal",BollywoodDance,Prem Ratan Dhan Payo,,0.0
+Aaj Hai Sagaai,"Abhijeet, Alka Yagnik",BollywoodDance,Pyaar To Hona Hi Tha,,0.0
+Angelina,Sonu Nigam,BollywoodRomantic,Baa Baaa Black Sheep,,0.0
+Kitna Haseen Chehra,Kumar Sanu,BollywoodRomantic,Dilwale,,0.0
+Hum Tumhe Chahte Hai Aise,"Anand Kumar C, Kanchan, Manhar Udhas",BollywoodRomantic,Qurbani,,0.0
+Bhooli Bisri Ek Kahani,Anuradha Paudwal,BollywoodSad,Nagina,,0.0
+Jeth Ki Dophar Mein,"Kumar Sanu, Poornima",BollywoodRomantic,Coolie No. 1,,0.0
+Rang Barse,Amitabh Bachchan,BollywoodDance,Silsila,,0.0
+A Flying Jatt,"Mansheel Gujral, Raftaar, Tanishkaa",BollywoodDance,A Flying Jatt,,0.0
+Jiska Mujhe Tha Intezar,"Kishore Kumar, Lata Mangeshkar",BollywoodRomantic,Don,,0.0
+Mera Karma Tu,"Manhar Udhas, Mohammed Aziz, Suresh Wadkar",BollywoodPatriotic,Karma,,0.0
+Chote Chote Bhaiyon Ke Bade Bhaiya,"Kavita Krishnamurthy, Kumar Sanu, Udit Narayan",BollywoodDance,Hum Saath-Saath Hain,,0.0
+Tere Ghar Ke Samne,"Lata Mangeshkar, Mohammed Rafi",BollywoodDance,Tere Ghar Ke Samne,,0.0
+Cham Cham,Monali Thakur,BollywoodDance,Baaghi,,0.0
+O Lal Dupatte Wali,"Alka Yagnik, Kavita Krishnamurthy, Kumar Sanu, Sudesh Bhonsle",BollywoodRomantic,Aankhen,,0.0
+Chitthi Aai Hai,Pankaj Udhas,BollywoodSad,Naam,,0.0
+All Izz Well,"Shaan, Sonu Nigam, Swanand Kirkire",BollywoodDance,3 Idiots,,0.0
+Saawan Ke Jhoolon Ne,Mohammad Aziz,BollywoodDance,Nigahen,,0.0
+Tu Mujhe Kabool,"Kavita Krishnamurthy, Mohammad Aziz",BollywoodDance,Khuda Gawah,,0.0
+Aa Gaya Aa Gaya,Udit Narayan,BollywoodDance,Hum Tumhare Hain Sanam,,0.0
+Koyal Si Teri Boli,"Anuradha Paudwal, Udit Narayan",BollywoodDance,Beta,,0.0
+Bass Gira De Raja,Shashwat Sachdev,Bollywood,Veere Di Wedding,,0.0
+Bana Ke Kyon Bigada Re,Lata Mangeshkar,BollywoodSad,Zanjeer,,0.0
+Ang Lag Ja Balma,Asha Bhosle,BollywoodRomantic,Mera Naam Joker,,0.0
+Jiske Liye Sabko Chhoda,"Mohammed Rafi, Sulakshana Pandit",Bollywood,Saajan Ki Saheli,,0.0
+Allah Duhai Hai,"Amit Mishra, Jonita Gandhi, Sreerama Chandra",BollywoodDance,Race 3,,0.0
+Bheege Hont Tere,Kunal Ganjawala,BollywoodRomanticSensual,Murder,,0.0
+Tere Dware Pe Aai Baraat,"Ravindra Jain, Sudesh Bhosle",BollywoodDance,Vivah,,0.0
+Der Se Aana Jaldi Jaana,"Alka Yagnik, Manhar Udhas",BollywoodDance,Khal Nayak,,0.0
+Tere Chehre Mein Woh Jaadu Hai,Kishore Kumar,BollywoodRomantic,Dharmatma,,0.0
+Din Sara Guzara Tore Angana,"Lata Mangeshkar, Mohammed Rafi",BollywoodRomantic,Junglee,,0.0
+Sanam Sanam,"Shraddha Pandit, Sukhwinder Singh",BollywoodDance,Mere Dost Picture Abhi Baki Hai,,0.0
+Teri Yaad Aati Hai,"Lata Mangeshkar, Suresh Wadkar",BollywoodSad,Saudagar,,0.0
+Meri Qismat Men Tu Nahin Shayad,"Lata Mangeshkar, Suresh Wadkar",BollywoodSad,Prem Rog,,0.0
+Dekho Zara Kaise Balkhake Chali,Gurdas Maan,BollywoodDance,Sirf Tum,,0.0
+Din Dhal Gaya Hai,"Alka Yagnik, Udit Narayan",BollywoodDance,Dil Tera Deewana,,0.0
+Yeh Ishq Hai Gunah,"Sukhwinder Singh, Sunidhi Chauhan",BollywoodRomantic,Madhoshi,,0.0
+Paaji Tussi Such A Pussy Cat (Remix),"Amitabh Bhattacharya, Divya Kumar, Jigar Saraiya",BollywoodDance,Happy Ending,,0.0
+Chupke Chupke Ghoor Na Mujhko,"Anu Malik, Udit Narayan, Vinod Rathod",Bollywood,The Gambler,,0.0
+Ho Sarkay Leo Khattiya Jada Lage,"Kumar Sanu, Poornima",BollywoodRomantic,Raja Babu,,0.0
+Prem Leela,"Aaman Trikha, Vineet Singh",BollywoodDance,Prem Ratan Dhan Payo,,0.0
+Ang Se Ang Lagana,"Alka Yagnik, Devki Pandit, Sudesh Bhosle, Vinod Rathod",BollywoodDance,Darr,,0.0
+Jaa Sajna Tujhko Bhula,"Alka Yagnik, Udit Narayan",BollywoodSad,Raja,,0.0
+Jawani Ki Rail Kahin Choot Na Jaye,"Anuradha, Shabbir Kumar",BollywoodDance,Coolie,,0.0
+Papa Mere Papa,"Baby Aparna, Shreya Ghoshal, Sonu Nigam",Bollywood,Main Aisa Hi Hoon,,0.0
+Peepal Ke Patwa,"Jaspinder Narula, Sonu Nigam",BollywoodDance,Sooryavansham,,0.0
+Challa Chaap Chunariya,Rekha Bhardwaj,Bollywood,Daas Dev,,0.0
+Aata Majhi Satakli,"Mamta Sharma, Nitu Choudhry, Yo Yo Honey Singh",BollywoodDance,Singham Returns,,0.0
+Aaj Unse Milna Hai,Shaan,BollywoodDanceRomantic,Prem Ratan Dhan Payo,,0.0
+A B C D E F G H,"Hariharan, Shankar Mahadevan, Udit Narayan",BollywoodDance,Hum Saath-Saath Hain,,0.0
+Tauba Yeh Matwali Chaal,Mukesh,BollywoodDance,Pathar Ke Sanam,,0.0
+Hamari Shaadi Mein,"Babul Supriyo, Shreya Ghoshal",BollywoodDance,Vivah,,0.0
+Baby Ko Bass Pasand Hai,"Badshah, Ishita, Shalmali Kholgade, Vishal Dadlani",BollywoodDance,Sultan,,0.0
+Der Na Ho Jaye Kahin,"Lata Mangeshkar, Mohammad Sayeed, Suresh Wadkar",BollywoodDance,Henna,,0.0
+Sari Duniya Ka Boj,Shabbir Kumar,BollywoodDance,Coolie,,0.0
+Main Der Karta Nahin,"Lata Mangeshkar, Suresh Wadkar",BollywoodDance,Henna,,0.0
+Rabba Ishq Na Hove,"Alka Yagnik, Kailash Kher, Sapna Mukherjee, Sonu Nigam",BollywoodSad,Andaaz,,0.0
+Didi Tera Devar Deewana,"Lata Mangeshkar, S.P. Balasubrahmanyam",BollywoodDance,Hum Aapke Hain Koun,,0.0
+Mehboob Mere Mehboob Mere,"Lata Mangeshkar, Mukesh",BollywoodRomantic,Pathar Ke Sanam,,0.0
+Gunja Re Chandan,"Hemlata, Suresh Wadkar",BollywoodRomantic,Nadiya Ke Paar,,0.0
+Dhadkane Saansein Jawani,"Anuradha Paudwal, Pankaj Udhas",BollywoodDance,Beta,,0.0
+Jeeta Hoon Jiske Liye,"Alka Yagnik, Kumar Sanu",BollywoodRomantic,Dilwale,,0.0
+Twinkle Twinkle,"Rana Mazumder, Shreya Ghoshal",BollywoodDance,The Dirty Picture,,0.0
+Hum Pyar Karne Wale,"Adnan Sami, Anuradha Paudwal, Udit Narayan",BollywoodRomantic,Dil,,0.0
+Saara Saara Din Tum Kaam Karoge,Kavita Krishnamurthy,BollywoodRomantic,Nigahen,,0.0
+Na Jaa,Asees Kaur,BollywoodSad,Jia Aur Jia,,0.0
+Saat Rang Mein Khel Rahi Hain,"Amit Kumar, Anuradha Paudwal",BollywoodDance,Aakhir Kyon,,0.0
+Tune Bechain Itna Ziada Kiya,"Anuradha Paudwal, Mohammad Aziz",BollywoodRomantic,Nagina,,0.0
+Yeh Kasoor Mera Hai,Sonu Kakkar,BollywoodRomanticSadSensual,Jism 2,,0.0
+Son Of Sardaar,"Aaman Trikha, Himesh Reshammiya",BollywoodDance,Son of Sardaar,,0.0
+Likhne Wale Ne Likh Dale,"Lata Mangeshkar, Suresh Wadkar",BollywoodDance,Arpan,,0.0
+"Joote Do, Paise Lo","Lata Mangeshkar, S.P. Balasubrahmanyam",BollywoodDance,Hum Apke Hain Koun,,0.0
+Diwani Tum Jawanon Ki,"Jolly Mukherjee, Mohammad Aziz, Sapna Mukherjee",BollywoodDance,Dayavan,,0.0
+Po Po,"Aaman Trikha, Himesh Reshammiya, Vikas Bhalla",BollywoodDance,Son of Sardaar,,0.0
+Gudiya Rani,Lata Mangeshkar,BollywoodDance,Lamhe,,0.0
+Udte Badal Se Poochho,Alka Yagnik,Bollywood,Sangraam,,0.0
+Prem Ratan Dhan Payo,Palak Muchhal,BollywoodDanceRomantic,Prem Ratan Dhan Payo,,0.0
+Bhoot Aaya,Mika Singh,Bollywood,Nanu Ki Jaanu,,0.0
+Suraiyya,"Shreya Ghoshal, Vishal Dadlani",BollywoodDance,Thugs of Hindostan,,0.0
+Main Hoon Prem Rogi,Suresh Wadkar,BollywoodDance,Prem Rog,,0.0
+Sun Le Meri Payal Ke Geet,Lata Mangeshkar,BollywoodDance,Sasural,,0.0
+Mujhe Pyaar Hua,"Abhijeet, Alka Yagnik",BollywoodDance,Judaai,,0.0
+Hello Hello,Rekha Bhardwaj,BollywoodDance,Pataakha,,0.0
+Maa Sherawaliye,Sonu Nigam,Bollywood,Khiladiyon Ka Khiladi,,0.0
+Mohabbat Hai Kya Cheez,"Lata Mangeshkar, Suresh Wadkar",BollywoodRomantic,Prem Rog,,0.0
+O Priya Priya,"Anuradha Paudwal, Shabbir Kumar",BollywoodSad,Dil,,0.0
+Dil Se Nikal Kar Dil Ko Gayee Hain,"Anuradha Paudwal, Suresh Wadkar",BollywoodDance,Nigahen,,0.0
+Accident Ho Gaya,"Asha Bhosle, Prayag Raj, Shabbir Kumar",BollywoodDance,Coolie,,0.0
+Har Subah Yaad Rakhna,"Lata Mangeshkar, Udit Narayan",BollywoodRomantic,Farz,,0.0
+Mori Chham Chham Baje Payaliya,Lata Mangeshkar,BollywoodDance,Ghunghat,,0.0
+Mujeh Naulakha Mangade,"Bappi Lahiri, Kishore Kumar",BollywoodDance,Sharaabi,,0.0
+Maa Sheranwali,Shabbir Kumar,BollywoodDevotional,Coolie,,0.0
+Jhanan Ghoongar Baje,Lata Mangeshkar,BollywoodDance,Ganga Jumna,,0.0
+Bhanware Ne Khilaya Phool,"Lata Mangeshkar, Suresh Wadkar",BollywoodDance,Prem Rog,,0.0
+20-20,"Anu Malik, Mamta Sharma, Shadaab",BollywoodDance,Welcome Back,,0.0
+Hum Saath-Saath Hain,"Alka Yagnik, Anuradha Paudwal, Hariharan, Kavita Krishnamurthy, Kumar Sanu, Udit Narayan",BollywoodDance,Hum Saath-Saath Hain,,0.0
+Babul Pyare,Lata Mangeshkar,BollywoodDance,Johny Mera Naam,,0.0
+Dil Dene Ki Ruth,"Alka Yagnik, Vinod Rathod",BollywoodDance,Prem Granth,,0.0
+Main Hi Main Hoon,Suresh Wadkar,BollywoodRomantic,Ram Teri Ganga Maili,,0.0
+Sau Tarah Ke (Revisited),"Abhijeet Sawant, Aditi Singh Sharma ·",BollywoodDance,Dishoom,,0.0
+Teri Kasam Main Hoon,Vinod Rathod,BollywoodDance,Prem Granth,,0.0
+Balma Tum Balma Ho Mere Khali,Kavita Krishnamurthy,BollywoodDance,Nagina,,0.0
+Chal Jhoothi,"Shraddha Pandit, Udit Narayan",BollywoodDance,Jis Desh Mein Ganga Rehta Hai,,0.0
+Tum Ko Hum Dilbar,"Amit Kumar, Asha Bhosle",BollywoodDance,Tezaab,,0.0
+Bum Bum Bole,Shaan,BollywoodDance,Taare Zameen Par,,0.0
+Main Teri Dushman Dushman Tu,Lata Mangeshkar,BollywoodDance,Nagina,,0.0
+Nainon Men Sapna,"Kishore Kumar, Lata Mangeshkar",BollywoodDance,Himmatwala,,0.0
+Mera Bandar Chala Sasural,"Kamal Barot, Mohammed Rafi",BollywoodDance,Zindagi Aur Khwab,,0.0
+Kise Dhoondta Hai Pagal Sapare,Anuradha Paudwal,BollywoodDance,Nigahen,,0.0
+G Pe Danda,"Aaman Trikha, Pawni Pandey, Prashant Vadhyar",BollywoodDance,Fugly,,0.0
+Yeh Hawa Yeh Bata,Lata Mangeshkar,BollywoodDance,Ghazab,,0.0
+Maiya Yashoda,"Alka Yagnik, Anuradha Paudwal, Kavita Krishnamurthy",BollywoodDance,Hum Saath-Saath Hain,,0.0
+Mirza Se Darre Khuda Daler Mehndi,Daler Mehndi,BollywoodMotivational,Mirzya - Dare To Love,,0.0
+Hai Jaana Hai Jaana,Sujatha Mohan,BollywoodDance,Pukar,,0.0
+Lamhon Ke Rasgulle,"Bianca Gomes, Sunidhi Chauhan",BollywoodDance,Kahaani 2,,0.0
+Happy Ending Mashup,Multiple,BollywoodDance,Happy Ending,,0.0
+Mujhko Neend Aa Rahi Hai,"Sonu Nigam, Sunidhi Chauhan",BollywoodRomantic,Ajnabee,,0.0
+Labon Ka Karobaar,Papon,BollywoodRomantic,Befikre,,0.0
+Saiyan Se Chhup Ke,"Anuradha Paudwal, Udit Narayan",BollywoodDance,Beta,,0.0
+Koshampa,"Aaman Trikha, Anweshaa, Sanchita Bhattacharya",BollywoodDance,Kaanchi,,0.0
+Selfish,"Atif Aslam, Iulia Vantur",BollywoodRomantic,Race 3,,0.0
+Mummy Aur Daddy Mein Ladai Ho Gayi,Asha Bhosle,BollywoodDance,Shola Aur Shabnam,,0.0
+Phool Bagiya Men Bhanware Aaye,Mubarak Begum,BollywoodDance,Zindagi Aur Khwab,,0.0
+Farrata,"Adityan, Armaan Malik",BollywoodDance,Tumhari Sulu,,0.0
+Danka Bajega,Aaman Trikha,BollywoodDance,Khel To Abb Shuru Hoga,,0.0
+Khudaya Khair,"Akriti Kakar, Monali Thakur, Pritam, Soham Chakraborty",BollywoodDance,Billu,,0.0
+Socho Ke Jheelon Ka,"Alka Yagnik, Shankar Mahadevan, Udit Narayan",BollywoodRomantic,Mission Kashmir,,0.0
+Pata Hi Na Chala Sad,"Abhijeet Sawant, Santokh Singh Dhaliwal",BollywoodSad,Lottery,,0.0
+Phir Nahin Aane Wali Pyare,"Asha Bhosle, Manna Dey",BollywoodDance,Shola Aur Shabnam,,0.0
+Sunle Tu Dilki Sadaa,Mohammed Rafi,BollywoodRomantic,Tere Ghar Ke Samne,,0.0
+Mohabbat Isko Kahte Hain,Mohammed Rafi,BollywoodRomantic,Jab Pyar Kisi Se Hota Hai,,0.0
+Mujhe Pyar Men,Asha Bhosle,BollywoodSad,Phir Wohi Dil Laya Hoon,,0.0
+Jana Tumhare Pyar Mein,Mukesh,BollywoodDance,Sasural,,0.0
+Tum Jaise Bigde Babu Se,Lata Mangeshkar,BollywoodDance,Jab Pyar Kisi Se Hota Hai,,0.0
+O Yaad Nahi Bhool Gaya,"Lata Mangeshkar, Suresh Wadkar",BollywoodDance,Lamhe,,0.0
+Ladi Re Ladi Tujhse Aankh Jo Ladi,Jagjit Kaur,BollywoodDance,Shola Aur Shabnam,,0.0
+Dhadkanein Kehti Hai,Abhijeet Sawant,BollywoodDance,Lottery,,0.0

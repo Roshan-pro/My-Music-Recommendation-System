@@ -22,7 +22,7 @@ Watch the tutorial video to see how to use the system and explore the code in ac
 
 - Spotify API for song data retrieval
 ## Trail video
-[Download or view the demo video]("C:\Users\rk186\Videos\Captures\app - Personal - Microsoft​ Edge 2025-03-30 16-18-29.mp4")
+[Download or view the demo video]("app - Personal - Microsoft​ Edge 2025-03-30 16-18-29.mp4")
 
 
 

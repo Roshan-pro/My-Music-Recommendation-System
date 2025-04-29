@@ -12,8 +12,7 @@ This Music Recommendation System uses Machine Learning and the Spotify API to re
 
 - User-Friendly Interface: Built using Streamlit, providing an interactive and easy-to-use web application.
 ## Demo
-Watch the tutorial video to see how to use the system and explore the code in action.
-- "C:\Users\rk186\Videos\Captures\app - Personal - Microsoft​ Edge 2025-03-30 16-18-29.mp4"
+![Screenshot (195)](https://github.com/user-attachments/assets/b08000c1-005b-4032-8e73-473bf8da7ba5)
 
 ## Technologies Used
 - Python

@@ -21,11 +21,7 @@ Watch the tutorial video to see how to use the system and explore the code in ac
 - Streamlit for building the web interface
 
 - Spotify API for song data retrieval
-## Trail video
-[Download or view the demo video]("app - Personal - Microsoft​ Edge 2025-03-30 16-18-29.mp4")
-
-
-
+- 
 - Scikit-learn for calculating cosine similarity between songs
 
 - Pandas for data handling and manipulation
